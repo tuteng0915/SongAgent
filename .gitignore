@@ -49,11 +49,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-
+.gradio/
+outputs/
 
 *.ckpt
 *.pth
 *.safetensors
 *.npy
 *.pt
-outputs/
