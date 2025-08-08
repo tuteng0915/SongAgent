@@ -50,7 +50,7 @@ class Transcriptor(BaseTool):
     parameters = []
 
     def call(self, params, **kwargs) -> str:
-        result = wsp.transcribe(model, kwargs['var_dict']['path'])
+        result = wsp.transcribe(wsp_model, kwargs['var_dict']['path'])
         return '### Lyrics\n\n'\
             + kwargs['var_dict']['lyrics']\
             + '\n### Transcription with timestamps\n\n'\
