@@ -52,6 +52,9 @@ docs/_build/
 .gradio/
 outputs/
 
+src/
+workspace/
+
 *.ckpt
 *.pth
 *.safetensors

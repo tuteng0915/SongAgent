@@ -38,12 +38,13 @@
 
 2. **(Recommended) Create and activate virtual environment:**
     ```bash
-    conda env -n songagent python=3.10
+    conda create -n songagent python=3.10
     conda activate songagent
     ```
 
 3. **Install dependencies:**
     ```bash
+    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
     pip install -r requirements.txt
     pip install transformers==4.51.0
     ```
