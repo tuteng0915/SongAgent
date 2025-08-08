@@ -28,11 +28,6 @@
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-*   Python 3.10
-*   Manually update `transformers` to 4.51.0 after `pip install -r requirements.txt`
-
 ### Installation
 
 1. **Clone the repository:**
@@ -43,9 +38,8 @@
 
 2. **(Recommended) Create and activate virtual environment:**
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # Linux/macOS
-    venv\Scripts\activate    # Windows
+    conda env -n songagent python=3.10
+    conda activate songagent
     ```
 
 3. **Install dependencies:**
@@ -53,8 +47,6 @@
     pip install -r requirements.txt
     pip install transformers==4.51.0
     ```
-    and ignore the warning message.
-
 
 ### Run Demo
 
