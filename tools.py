@@ -54,11 +54,13 @@ class Transcriptor(BaseTool):
         return '### Lyrics\n\n'\
             + kwargs['var_dict']['lyrics']\
             + '\n### Transcription with timestamps\n\n'\
-            + ''.join(
-                f'<|{i["start"]}|>{i["text"]}<|{i["end"]}|>'
-                for i in result['words']
+            + '\n'.join(
+                ''.join(
+                    f'<|{i["start"]}|>{i["text"]}<|{i["end"]}|>'
+                    for i in j['words']
+                )
+                for j in result['segments']
             )
-
 
 @register_tool('repaint_song')
 class SongRepaint(BaseTool):

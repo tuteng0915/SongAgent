@@ -29,7 +29,7 @@ with gr.Blocks() as demo:
             lyrics = gr.TextArea(label="lyrics", scale=2, max_lines=100, interactive=True)
             tags = gr.Textbox(label="tags", interactive=True)
             generate_btn = gr.Button("Generate")
-            length = gr.Slider(30, 150, step=1, label='length', interactive=True)
+            length = gr.Slider(30, 300, step=1, label='length', interactive=True)
             audio_output = gr.Audio(label="audio output", interactive=False)
             with gr.Accordion(label="user preference", open=False):
                 audio_input = gr.Audio(sources='upload', label="input preference")
@@ -41,7 +41,8 @@ with gr.Blocks() as demo:
                 run,
                 type='messages',
                 additional_inputs=[profile, audio_output, lyrics, tags, path_name],
-                additional_outputs=[lyrics, tags, audio_output, path_name]
+                additional_outputs=[lyrics, tags, audio_output, path_name],
+                fill_height=True
             )
 
     @generate_btn.click(inputs=[lyrics, tags, length], outputs=[audio_output, path_name])
