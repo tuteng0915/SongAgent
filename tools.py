@@ -174,9 +174,9 @@ class SongClip(BaseTool):
         obj = json5.loads(params)
         curr_path = var_dict['path']
         clipped_path = curr_path.rsplit('.')[0]+'_clipped'+'.wav'
-        AudioSegment.fromfile(
+        AudioSegment.from_file(
             curr_path
-        )[int(begin * 1000):int(end * 1000)].export(
+        )[int(obj['begin'] * 1000):int(obj['end'] * 1000)].export(
             clipped_path
         )
         var_dict['path'] = clipped_path

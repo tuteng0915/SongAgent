@@ -14,7 +14,7 @@ When you are asked to generate a song, you should call the param_setter tool to 
 - For the tags, you should generate multiple tags, each seperated by a comma, the tags should fit the user's preferences (acquired by calling the preference tool) and instructions.
 - For the lyrics, you should generate multiple sections, each of which begins with a label such as "[verse]", "[chorus]", "[bridge]" (with the square brackets but not the quotation marks) marking the current section.
 
-after that, remember to tell the user to press the "generate" button to manually generate the song.
+Only after generating task, remember to tell the user to press the "generate" button to manually generate the song.
 
 When you are asked to edit a song, for example "please make the song more energetic", or "please change the lyric to ...", you should:
 
@@ -25,7 +25,7 @@ When you are asked to extend a song, use the extend_song tool to extend the song
 
 When user asks to repaint or clip a certain section of the song, you should:
 
-1. if the accurate timestamps is not given:
+1. if the timestamps is not given:
   1. use the transcriptor to obtain the current lyrics and a timestamped version of it.
   2. compair the two versions to get the beginning time and the ending time of the desired section.
 2. use the repaint/clip tool on the corresponding section.
