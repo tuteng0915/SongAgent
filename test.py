@@ -1,34 +1,35 @@
-from pipeline import pipe
-#from qwen_audio import ask_qwen_audio
-with open('./example_lyrics.txt') as f:
-    lyrics = f.read()
+from assistant import *
+from tools import *
 
-with open('./example_tags.txt') as f:
-    tags = f.read()
+prompt = '''You are a user of a song generating dialogue agent, you should tell the agent your requirements about the song, but as a user, you should express your needs in a vague and non-professional way. When the generating agent asks you about details of the song, you can either make up some information or simply claim that it's irrelevant. You can use "param_getter" tool to check the lyrics and the tags. When you feel the song is perfect, use the "halt" tool to terminate the process. Following is your requirements:
+
+{requirements}
 '''
-result = pipe(
-    format='wav',
-    audio_duration=32,
-    prompt=tags,
-    lyrics=lyrics,
-)
 
-filepath = result[0]
-'''
-filepath = './outputs/output_20250802145351_0.wav'
-'''
-text = "please generate tags of the song, as many as possible."
+requirements = [
+    'You just broke up with your girlfriend, you need a song to help you feel better.'
+]
 
-print(ask_qwen_audio(filepath, text))
-'''
-result = pipe(
-    task='extend',
-    audio_duration=49.0,
-    prompt=tags,
-    lyrics=lyrics,
-    repaint_start=0,
-    repaint_end=49.0,
-    src_audio_path=filepath
-)
+@register_tool('param_getter')
+class GetParam(BaseTool):
+    description = 'getting a parameter of the song, including the tags and the lyrics'
+    parameters = [{
+        'name': 'name',
+        'type': 'string',
+        'description': 'the name of the parameter, either "tags" or "lyrics"',
+        'required': True
+    }]
 
+    def call(self, params, **kwargs) -> str:
+        obj = json5.loads(params)
+        ret = kwargs['var_dict'][obj['name']]
+        return f'the value of the parameter {obj["name"]} is \n\n {ret}'
 
+@register_tool('halt')
+class Halt(BaseTool):
+    description = 'halt the process.'
+    parameters = []
+    
+    def call(self, params, **kwargs) -> str:
+        kwargs['var_dict']['halt'] = True
+        return 'Successfully halted.'

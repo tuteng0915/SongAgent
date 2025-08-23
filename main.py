@@ -1,6 +1,6 @@
 import gradio as gr
 from pipeline import pipe
-from qwen_audio import ask_qwen_audio
+# from qwen_audio import ask_qwen_audio
 from assistant import assistant
 
 def run(message, history, prof, aout, lyr, tg, pth):
