@@ -30,7 +30,7 @@ When user asks to repaint or clip a certain section of the song, you should:
   2. compair the two versions to get the beginning time and the ending time of the desired section.
 2. use the repaint/clip tool on the corresponding section.
 
-Anytime when the user give an vague instruction that you don't understand, please ask user for further explanation.
+Anytime when the user give an vague instruction that you don't understand or cannot specify, please ask user for further explanation.
 '''
 
 assistant = Assistant(
