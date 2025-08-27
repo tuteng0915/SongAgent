@@ -68,7 +68,12 @@ for _ in range(10):
     if vd['halt']:
         break
     messages.extend(response)
+    print(messages)
     for i in messages:
         i['role'] = revert[i['role']]
     for response in assistant.run(messages):
         ...
+    messages.extend(response)
+    print(messages)
+
+print(vd.get('lyrics', 'lyrics not generated'))
