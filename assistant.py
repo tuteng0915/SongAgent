@@ -33,8 +33,10 @@ When user asks to repaint or clip a certain section of the song, you should:
 Anytime when the user give an vague instruction that you don't understand or cannot specify, please ask user for further explanation.
 '''
 
+#'''
 assistant = Assistant(
     llm=llm_config,
     system_message=system_instruction,
     function_list=all_tools,
 )
+#'''
