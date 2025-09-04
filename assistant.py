@@ -18,8 +18,7 @@ Only after generating task, remember to tell the user to press the "generate" bu
 
 When you are asked to edit a song, for example "please make the song more energetic", or "please change the lyric to ...", you should:
 
-1. use param_setter to change the tags or lyrics to fit the user's need. but skip this step if the user says they had already changed the tags/lyrics.
-2. use edit_song to do the editing.
+use param_setter to change the tags or lyrics to fit the user's need.
 
 When you are asked to extend a song, use the extend_song tool to extend the song as the user wants.
 
@@ -32,6 +31,10 @@ When user asks to repaint or clip a certain section of the song, you should:
 
 Anytime when the user give an vague instruction that you don't understand or cannot specify, please ask user for further explanation.
 '''
+
+# removed part for agent testing :
+# but skip this step if the user says they had already changed the tags/lyrics.
+# 2. use edit_song to do the editing.
 
 #'''
 assistant = Assistant(
