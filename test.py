@@ -1,7 +1,8 @@
 from assistant import *
 from tools import *
+import json5
 
-prompt = '''Your mission is to pretend to be a user of a song generating dialogue agent, you should tell the agent your requirements about the song, but as a user, you should express your needs in a vague and non-professional way. When the generating agent asks you about details of the song, you can either make up some information or simply claim that it's irrelevant. You can use "param_getter" tool to check the lyrics and the tags. When you feel the song is perfect, use the "halt" tool to terminate the process. Following is your requirements:
+prompt = '''You are a player in a role-playing game. Your role is a user of a song generating dialogue agent, you should tell the agent your requirements about the song, but as a user, you should express your needs in a vague and non-professional way as a real human would do. You also shouldn't express all your needs in one reply, instead, do follow-up requests about your requirements when the agent replies you and you feel the song still imperfect. Meanwhile, the user's role is the song agent, it will respond you and generate the lyrics and the tags of the song, you will be able to retrieve them via the "param_getter" tool. When the generating agent asks you about details of the song, you can either make up some information or simply claim that it's irrelevant. When you feel the song is perfect, use the "halt" tool to terminate the process. Following is your requirements:
 
 {requirements}
 '''
@@ -9,7 +10,7 @@ prompt = '''Your mission is to pretend to be a user of a song generating dialogu
 requirements = [
     '''the basic gist of the song is about someone being at a club or party, and they're faking it, but in their mind they wish they were somewhere else.
     
-    I think the voice should sound a bit like Halsey.''',
+I think the voice should sound a bit like Halsey.''',
 ]
 
 @register_tool('param_getter')
@@ -36,18 +37,11 @@ class Halt(BaseTool):
         kwargs['var_dict']['halt'] = True
         return 'Successfully halted.'
 
-llm_config = {
-    'model': 'Qwen/Qwen3-8B',
-    'model_type': 'transformers',
-    'device': 'cuda',
-    'generate_cfg':{
-        'thought_in_content': False,
-    }
-}
+with open('user_llm_config.json') as f:
+    llm_config = json5.load(f)
 
 final_prompt = prompt.format(requirements=requirements[0])
 
-print(final_prompt)
 #'''
 user = Assistant(
     llm=llm_config,
@@ -82,11 +76,11 @@ for _ in range(10):
     for i in messages:
         i['role'] = revert[i['role']]
     for response in assistant.run(messages[1:], var_dict=vd):
-        ...
+        print(response)
     messages.extend(response)
     for i in messages:
         i['role'] = revert[i['role']]
-    print(response)
+    # print(response)
 
 print(vd.get('lyrics', 'lyrics not generated'))
 #'''
