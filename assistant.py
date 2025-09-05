@@ -1,11 +1,8 @@
 from qwen_agent.agents import Assistant
 from tools import *
 
-llm_config = {
-    'model': 'Qwen/Qwen3-8B',
-    'model_type': 'transformers',
-    'device': 'cuda'
-}
+with open('agent_llm_config.json') as f:
+    llm_config = json5.load(f)
 
 system_instruction = '''You are a song generating bot that generates and edits songs corresponding to the user's needs.
 
@@ -29,7 +26,7 @@ When user asks to repaint or clip a certain section of the song, you should:
   2. compair the two versions to get the beginning time and the ending time of the desired section.
 2. use the repaint/clip tool on the corresponding section.
 
-Anytime when the user give an vague instruction that you don't understand or cannot specify, please ask user for further explanation.
+Before generating the lyrics and tags of the song, be sure to collect enough information from the user. The user is not capable of clearly stating their requirements in one request, so ask for further information that may help you create the song.
 '''
 
 # removed part for agent testing :
