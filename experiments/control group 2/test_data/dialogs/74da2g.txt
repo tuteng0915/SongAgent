@@ -1,0 +1,46 @@
+User : 
+Hey there, song generating agent! I have a fun challenge for you. I'd like you to generate a song that captures the essence of the roaring twenties, with a lively Charleston vibe right from the start. But here's the twist: as the song progresses, it should smoothly transition into a hip-hop style beat. Imagine a female voice leading the track, accompanied by some playful "bop bop" noises sprinkled throughout.
+
+To give you a better idea, think along the lines of "A Little Party Never Killed Nobody," which beautifully blends a 20's sound with a modern touch. Can you create something similar? Let's get this musical journey started!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the parameters for your song to capture the essence of the roaring twenties with a lively Charleston vibe that transitions into a hip-hop style beat. The lyrics reflect this unique blend, starting with imagery of flappers and jazz and evolving into modern beats and rhymes.
+
+Here are the sections of the lyrics I've crafted:
+
+[verse]
+In the heart of the night, under flapper's delight,
+Where jazz and cocktails flow, we dance to the beat so tight.
+Bop bop, hear the sound, as feet shuffle round,
+The rhythm takes control, in this place where dreams are found.
+
+[chorus]
+Oh, the party never ends, with a Charleston twist,
+Modern beats intertwine, as our spirits persist.
+Bop bop, let it roll, through the highs and the lows,
+In the roaring twenties' style, with a hip-hop close.
+
+[verse]
+Speakeasy whispers fill the air, secrets in every corner shared,
+Underneath the moonlit glow, we revel without care.
+Bop bop, keep it up, as the tempo flips,
+Bringing past into present, with a rhythm that never slips.
+
+[bridge]
+From jazz to rap, the evolution unfolds,
+A fusion of eras, a tale retold.
+With every rhyme and every cheer,
+We bridge the gap between here and yesteryear.
+
+[chorus]
+Oh, the party never ends, with a Charleston twist,
+Modern beats intertwine, as our spirits persist.
+Bop bop, let it roll, through the highs and the lows,
+In the roaring twenties' style, with a hip-hop close.
+
+Now, to bring this concept to life, please press the "generate" button to manually generate the song. Once you do, we'll have a musical journey that echoes the vibrant 1920s fused seamlessly with contemporary hip-hop vibes—a true celebration of then and now!

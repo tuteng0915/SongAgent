@@ -1,0 +1,25 @@
+User : 
+Hey there, song generating agent! I have a unique song idea that I'd love for you to bring to life. I'm not looking to find an existing song, but rather generate a new one that captures these elements:
+
+The song should start with the sound of a cashier machine, as if we're in a bustling store. Then, a smooth jazz guitar riff kicks in, setting a groovy and laid-back vibe. The lyrics are simple yet catchy, repeating the word "money" over and over with a reverb effect that gives it an echoing feel, making it memorable and hypnotic. This pattern continues throughout the song, creating a mesmerizing loop that's been stuck in my head for years.
+
+It’s not by Pink Floyd, but it definitely has that timeless, entrancing quality. Can you create this song for me? 
+
+Looking forward to what you come up with!
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for your unique song idea. Here's what we're working with:
+
+- **Tags**: smooth jazz, groovy, laid-back, hypnotic, echoing, cashier machine intro, guitar riff, reverb, timeless, entrancing
+- **Lyrics**: 
+  - [intro] *ka-ching* (cashier machine sound)
+  - [verse] Money, money, money Reverberating through the night Money, money, money In the soft glow of moonlight
+  - [chorus] Money money money An endless loop of desire Money money money Setting my soul on fire
+  - [bridge] Guitar riff solo
+  - [chorus] Money money money An endless loop of desire Money money money Setting my soul on fire
+  - [outro] Money... money...
+
+With these elements, your song should capture the mesmerizing loop you've described. Remember to press the "generate" button to manually generate the song. Looking forward to hearing how it turns out!

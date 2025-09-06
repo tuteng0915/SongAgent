@@ -1,0 +1,9 @@
+User : 
+Sure, I can help with that. Let's start by specifying the mood and theme of the song. Would you say this song is more about love, heartbreak, or perhaps something else?
+Agent : 
+To better understand your preferences, I'll first gather some information about the mood and theme you're aiming for.
+
+
+
+the user has not given their preferences yet.
+It seems like we haven't pinpointed your preferences yet. To create a song that resonates with you, could you share if the song is centered around love, heartbreak, or another theme? And how would you describe the mood—uplifting, melancholic, energetic, or something different?

@@ -1,0 +1,56 @@
+User : 
+Hey song agent! I need you to generate a song for me. Here's what I'm looking for:  
+
+It should be an indie folk-style song where the singer repeatedly mentions a woman's name—something that sounds like a "white girl name." The vibe should capture that bittersweet feeling of unrequited love, with lyrics expressing determination despite rejection. Something along the lines of "Even if she rejects me, at least I can say that I tried."  
+
+Can you whip up something based on this? Let’s hear those lyrics and tags!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've crafted an indie folk-style song for you that captures the bittersweet essence of unrequited love. Here are the lyrics and tags:
+
+**Tags:** indie folk, emotional, heartfelt, acoustic, melancholic, bittersweet, soft vocals, gentle guitar, longing, introspective  
+
+**Lyrics:**
+
+[verse]  
+Her name is Claire, she floats like air,  
+I call her name but she's never there.  
+She smiles at me, then slips away,  
+Another night fades to gray.  
+
+[chorus]  
+But I'll keep trying, yeah I'll take my chances,  
+Even if she tears apart my defenses.  
+She may not love me, but I'll still say,  
+At least I tried in every way.  
+
+[verse]  
+We walk the same streets, different dreams,  
+Her shadow stretches longer than it seems.  
+I write her letters, they're never sent,  
+A heart confined, a silent lament.  
+
+[chorus]  
+But I'll keep trying, yeah I'll take my chances,  
+Even if she tears apart my defenses.  
+She may not love me, but I'll still say,  
+At least I tried in every way.  
+
+[bridge]  
+Oh, the stars bear witness to my fight,  
+The sleepless nights and tears I hide from sight.  
+If destiny denies this fragile thread,  
+Then let regret be all that’s left unsaid.  
+
+[chorus]  
+And I'll keep trying, though hope diminishes,  
+Through every wound her beauty finishes.  
+She won't remember my name or face,  
+But I'll embrace what time can't erase.  
+
+Now, press the "generate" button to bring this song to life! Let me know how it turns out.

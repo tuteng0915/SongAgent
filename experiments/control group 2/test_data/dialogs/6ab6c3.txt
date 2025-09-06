@@ -1,0 +1,58 @@
+User : 
+Hey there! I’m looking to generate a song that matches some specific details. I want it to feel like something from the late 90s or early 2000s, with an alternative or grunge vibe. The song should have a memorable part where the singer—male, with a high-pitched voice—sings the phrase "controlling me." It would be awesome if the lyrics and overall mood could evoke that era's animation style (think edgy and otherworldly). Maybe even throw in some alien-related imagery for extra flavor? Let’s create something that captures this nostalgic yet mysterious essence!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that embodies your vision of a late 90s to early 2000s alternative/grunge piece with an otherworldly twist. It features a high-pitched male singer and incorporates alien imagery within its nostalgic and mysterious narrative.
+
+Here are the lyrics:
+
+```
+[verse]
+In a world so strange, like an old cartoon
+Where shadows dance under the moon
+I hear your call, it’s haunting me
+Like echoes from another galaxy
+
+[chorus]
+You’re controlling me, like a puppet on a string
+In this cosmic dance, to which I can't cling
+Alien eyes, watching from above
+Controlling me, with an extraterrestrial love
+
+[verse]
+Neon lights flash, in this eerie night
+A phantom force takes my hand tight
+Together we drift through space and time
+Bound by secrets that none can find
+
+[chorus]
+You’re controlling me, like a puppet on a string
+In this cosmic dance, to which I can't cling
+Alien eyes, watching from above
+Controlling me, with an extraterrestrial love
+
+[bridge]
+The stars align, as you whisper low
+A language unknown, yet I seem to know
+This foreign touch, cold but divine
+A mystery that's yours and mine
+
+[chorus]
+You’re controlling me, like a puppet on a string
+In this cosmic dance, to which I can't cling
+Alien eyes, watching from above
+Controlling me, with an extraterrestrial love
+
+[outro]
+Fade away, into the endless sky
+Our story written in the stars' reply
+Forever bound, by forces unseen
+Controlling me, in this dream within a dream
+```
+
+Now, please press the "generate" button to bring this concept to life into a full-fledged song.

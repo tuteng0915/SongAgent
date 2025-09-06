@@ -1,0 +1,56 @@
+User : 
+Hey there! I'm looking to create a song that matches some specific vibes I've been thinking about. Here's what I'm picturing:
+
+I want the song to be very upbeat, like something you'd hear at a lively party. It should have a pop-indie feel with a female vocalist. The theme of the song should revolve around a house, maybe capturing the energy and essence of a place filled with joy and excitement. Think of a scene with a house surrounded by multicolored animals, bringing a whimsical and vibrant visual to mind.
+
+Can you generate a song based on these ideas?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song based on your vision. Here are the details:
+
+**Tags:** upbeat, pop, indie, female vocalist, house, joy, excitement, whimsical, vibrant
+
+**Lyrics:**
+
+[verse]
+In a house where dreams come alive
+The air is buzzing, feel so alive
+With colors dancing on the walls
+And echoes of laughter in these halls
+
+[chorus]
+Oh, we’re shining bright like the morning sun
+In this magical place where the fun's begun
+With every corner that we turn
+There’s something new for us to learn
+
+[verse]
+Surrounded by creatures wild and free
+Multicolored magic as far as we see
+Together we wander, together we play
+In this wonderland until the break of day
+
+[chorus]
+Oh, we’re shining bright like the morning sun
+In this magical place where the fun's begun
+With every corner that we turn
+There’s something new for us to learn
+
+[bridge]
+A symphony of sounds fills the night
+Underneath the stars so vividly bright
+Every moment feels just like a dream
+In this enchanted house, nothing’s as it seems
+
+[chorus]
+Oh, we’re shining bright like the morning sun
+In this magical place where the fun's begun
+With every corner that we turn
+There’s something new for us to learn
+
+Please press the "generate" button to manually generate the song.

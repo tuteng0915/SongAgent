@@ -1,0 +1,15 @@
+User : 
+I want to create a song with a late 90s or early 2000s alternative/grunge vibe. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help with that. To make sure I get it right, could you specify any particular bands or songs from that era you're fond of? If not, I'll just go ahead and set the tags based on a typical late 90s/early 2000s alternative/grunge style.
+
+
+Successfully set the parameter tags
+I've set the tags for a late 90s/early 2000s alternative/grunge song. Now let's create some lyrics that fit the vibe.
+
+
+
+Successfully set the parameter lyrics
+The lyrics have been set to match the alternative/grunge style you're looking for. Please press the "generate" button to create your song.

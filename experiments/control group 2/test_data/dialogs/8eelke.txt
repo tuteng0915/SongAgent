@@ -1,0 +1,41 @@
+User : 
+Hey there! I'm looking to generate a song that fits a specific vibe. The strum pattern should be simple, and the song should be about a woman. It sounds like it would be performed by a solo artist rather than a band. There's a memorable part where the artist sings "she crazy," followed by a long, distinct falsetto that goes up and down. The style should be reminiscent of 70s-80s acoustic guitar music. Can you help me create something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on your specifications. Here are the details:
+
+- **Tags**: 70s, 80s, acoustic, solo artist, simple strum, falsetto, memorable, about a woman.
+  
+- **Lyrics**:
+  ```
+  [verse]
+  She walks in the room
+  With a sway in her step
+  Got a way that she moves
+  That just takes my breath
+
+  [chorus]
+  She crazy, ooh-ooh
+  She crazy, ooh-ooh
+  She crazy, ooh-ooh-oooh
+  And I can't get enough
+
+  [bridge]
+  In the morning light
+  She's a beautiful sight
+  But it's those eyes at night
+  That hold me tight
+
+  [chorus]
+  She crazy, ooh-ooh
+  She crazy, ooh-ooh
+  She crazy, ooh-ooh-oooh
+  And I can't get enough
+  ```
+
+Please press the "generate" button to create the song.

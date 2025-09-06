@@ -1,0 +1,66 @@
+User : 
+Request to the Song Generating Agent:  
+
+I’d like you to generate a song that matches the following description. The genre should be pop/rock/alternative, ideally with a male singer—possibly British or American. The tone of the song should reflect an emotional narrative arc: starting with urgency and concern, transitioning into happiness and love, then shifting toward tension, manipulation, and heartbreak, and finally ending on a haunting, cyclical note.  
+
+The lyrics should tell this story:  
+- It begins with a man encountering a woman who is in distress—he finds her on a rooftop about to jump after her shoe falls down. He intervenes and saves her.  
+- They start a relationship, which starts off beautifully but becomes complicated as she grows possessive, manipulative, and emotionally volatile.  
+- Eventually, they fight and break up, leaving both parties broken.  
+- In the end, the woman returns to the same rooftop, now looking down at another person below, repeating the same action by dropping her shoe again, hinting at a tragic cycle.  
+
+Can you create something that captures these themes while staying within the style I mentioned?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your request, capturing the emotional narrative arc and thematic elements you described. The lyrics follow the story of urgency, love, tension, heartbreak, and cyclical tragedy, with tags reflecting the pop/rock/alternative style and tone.
+
+Here are the lyrics:
+
+**[verse]**  
+On the rooftop edge tonight  
+She teeters close, her soul in flight  
+Her shoe slips off and falls like fate  
+I race to save her; it's not too late  
+
+**[chorus]**  
+In your eyes I saw the start  
+Of a journey, hand to heart  
+But now those stars have turned to scars  
+A love torn by cruel wars  
+
+**[verse]**  
+Together we laughed, we danced, we burned  
+But the fire that warmed us soon concerned  
+Your touch, once tender, grew tight with pain  
+Possessive whispers like pouring rain  
+
+**[bridge]**  
+You held my world but wouldn't let go  
+Strings of your making pulled me low  
+The fights, the tears, the endless nights  
+Our love dissolved into dark spite  
+
+**[chorus]**  
+In your eyes I saw the start  
+Of a journey, hand to heart  
+But now those stars have turned to scars  
+A love torn by cruel wars  
+
+**[verse]**  
+Back on the rooftop, the air so cold  
+Another shoe drops, the story retold  
+Below, someone looks up in despair  
+And reaches out for the help you won't spare  
+
+**[outro]**  
+Oh, the cycle spins, it never ends  
+A tragic loop that love pretends  
+To heal, to mend—but brings us down  
+Forever lost as fates revolve around  
+
+Press the "generate" button to create the song!

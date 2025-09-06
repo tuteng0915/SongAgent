@@ -1,0 +1,59 @@
+User : 
+I want a song that has a 90s to mid-2000s vibe, can you make that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a song with a 90s to mid-2000s vibe for you. To ensure it matches your taste, could you please specify some of your music preferences? For instance, do you prefer pop, rock, or another genre from that era? Also, any favorite artists or specific styles you'd like me to consider?
+If you don't have specific preferences, I'll go ahead and create something based on popular trends from that time.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set up a song with a 90s to mid-2000s vibe, incorporating elements like pop rock, acoustic guitar, synthesizers, and a catchy melody. Here's a preview of the lyrics:
+
+```
+[verse]
+Woke up to the sound of the radio
+Playing those songs we used to know
+Every note a memory, every chord a trace
+Of the days we lived without a care in the world
+
+[chorus]
+We'll dance like nobody's watching
+Sing like we're part of the band
+In this moment, nothing else matters
+Just you and me and the music in our hands
+
+[verse]
+Walking down the streets where we used to roam
+Feeling that freedom, we were never alone
+With the sun setting, painting colors in the sky
+Our hearts beating as one, under neon lights
+
+[chorus]
+We'll dance like nobody's watching
+Sing like we're part of the band
+In this moment, nothing else matters
+Just you and me and the music in our hands
+
+[bridge]
+Time may pass, but some things remain
+The echoes of laughter, the rhythm of rain
+In the soundtrack of our lives, these moments stay
+Forever young, forever okay
+
+[chorus]
+We'll dance like nobody's watching
+Sing like we're part of the band
+In this moment, nothing else matters
+Just you and me and the music in our hands
+
+[outro]
+So let's hold on to this feeling tonight
+Let the past guide us through the light
+Together we'll keep these memories alive
+In the timeless journey of life
+```
+
+Please press the "generate" button to manually generate the song.

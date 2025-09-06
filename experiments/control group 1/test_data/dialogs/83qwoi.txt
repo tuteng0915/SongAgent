@@ -1,0 +1,34 @@
+User : 
+Sure thing! Let's start by narrowing down a few details. Do you have a specific theme or story in mind for the lyrics? Something like love, heartbreak, or maybe empowerment?
+Agent : 
+That's a great start! Let's go with an empowering theme for the lyrics. It could be about overcoming challenges and feeling unstoppable. I'll set the tags to reflect this powerful and uplifting vibe.
+
+I'll go ahead and set the initial parameters for the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the empowering theme for the lyrics and included tags that should give us an uplifting and powerful song. Here's a snippet of the lyrics I've drafted:
+
+[verse]
+Rising up from the ashes of doubt
+Every step forward is a victory shout
+
+[chorus]
+Unstoppable force, breaking through the night
+With every heartbeat, we ignite the light
+
+[bridge]
+We've come too far to fall back now
+With our heads held high, we take the vow
+
+[chorus]
+Unstoppable force, breaking through the night
+With every heartbeat, we ignite the light
+
+[verse]
+In the face of adversity, we stand tall
+Our dreams are the fuel, they will never stall
+
+Now, all you have to do is press the "generate" button to create the song based on these settings. How does that sound?

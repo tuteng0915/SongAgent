@@ -1,0 +1,24 @@
+User : 
+Hey, song generating agent! I need you to create a funky, upbeat tune that feels reminiscent of Fatboy Slim's style. The vibe should be energetic and fun, capturing the essence of someone skateboarding through a vibrant urban landscape with animations blending into reality—think creative, quirky visuals brought to life in music form. Keep it short and punchy, under three minutes ideally. Let’s see what you can come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've set up the tags and lyrics for your funky, upbeat tune that captures that Fatboy Slim skateboarding vibe you're looking for. Here's a quick preview of the song structure:
+
+- **Verse:**
+  Rollin' through the city streets
+  Skateboard dancing to the funky beats
+  
+- **Chorus:**
+  Ride that board, feel so free
+  Quirky moves in harmony
+
+- **Bridge:**
+  Flip and glide, don't miss a beat
+  Energy surging from head to feet
+
+Now, go ahead and press the "generate" button to create your vibrant urban soundtrack!

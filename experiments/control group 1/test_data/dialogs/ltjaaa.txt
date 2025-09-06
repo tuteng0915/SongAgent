@@ -1,0 +1,52 @@
+User : 
+I'd like you to generate a song based on some details I remember from my childhood. The song is about a mother who faces hardships but keeps persevering, finding small treasures for her daughter while walking along the roadside. Can you create something in that vein?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on the details you provided from your childhood memories. The lyrics and tune aim to capture the essence of a persevering mother, highlighting her journey along the roadside finding treasures, symbolizing hope and resilience.
+
+Here are the sections of the lyrics I came up with:
+
+```
+[verse]
+Walking along the old dusty road,
+Her hands filled with treasures untold.
+In the twilight's gentle glow,
+She finds hope in what others forego.
+
+[chorus]
+Oh mother, your love is a beacon of light,
+Guiding me through the darkest night.
+With every step that you bravely take,
+A world of dreams for me you make.
+
+[verse]
+Through trials and storms she would stride,
+With grace in her heart and hope by her side.
+Each pebble and leaf, a story to tell,
+Of a spirit unbroken, defying the well.
+
+[chorus]
+Oh mother, your love is a beacon of light,
+Guiding me through the darkest night.
+With every step that you bravely take,
+A world of dreams for me you make.
+
+[bridge]
+Though the path may be weary and long,
+Her song lifts me up, makes me strong.
+In the echoes of her quiet fight,
+I find my way, towards the light.
+
+[chorus]
+Oh mother, your love is a beacon of light,
+Guiding me through the darkest night.
+With every step that you bravely take,
+A world of dreams for me you make.
+```
+
+To bring this composition to life, please press the "generate" button.

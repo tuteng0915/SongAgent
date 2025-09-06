@@ -1,0 +1,56 @@
+User : 
+I'd love to create a song that captures that nostalgic yet fresh vibe you're looking for. To start, could you give me a bit more detail on the kind of lyrics you envision? Playful and rhythmic is a great start—anything specific you'd like them to touch upon?
+Agent : 
+Sure, let's dive into more specifics. Since you're looking for something nostalgic yet fresh with playful and rhythmic lyrics, how about we incorporate themes of youthful adventures, carefree days, or perhaps a fun, memorable road trip? We could include vivid imagery of summer landscapes, lively small towns, or vibrant city nightlife. 
+
+Let’s create sections that bring these ideas to life while maintaining a catchy rhythm. Please confirm if this aligns with your vision, or feel free to suggest any other specific elements you'd like included. Once confirmed, I'll proceed with generating the initial set of lyrics and appropriate tags.
+
+
+the user has not given their preferences yet.
+To better tailor the song to your tastes, could you share some of your musical preferences? For instance, do you lean towards a particular genre, or are there specific artists whose style you admire? This will help in crafting a piece that resonates well with what you enjoy. If you're unsure, I can suggest a general direction based on popular choices within the nostalgic and fresh vibe category.
+
+
+Successfully set the parameter tags
+Great! I've set the tags for our song to capture that nostalgic, fresh, playful, and rhythmic vibe, with themes around youthful adventures and carefree moments. 
+
+Next, I'll draft some lyrics based on these tags. We'll have a few sections like [verse], [chorus], and [bridge] to give structure to the song. Once you confirm, I will proceed with generating the lyrics.
+
+Should we move forward with this plan? If yes, please confirm so I can generate the initial lyrics. After generating, remember to press the "generate" button to manually create the song.
+
+
+Successfully set the parameter lyrics
+I've generated the initial lyrics for our song, capturing themes of youthful adventures and carefree moments with a nostalgic yet fresh vibe. Here's what we have:
+
+```
+[verse]
+Remember the days when skies were wide,
+Chasing the sun as it slipped and hide,
+Barefoot races on golden sands,
+We ruled the world with pocketful plans.
+
+[chorus]
+Oh, those endless summers, they never fade,
+Underneath the stars, where dreams cascade,
+Every heartbeat echoes through time,
+In this journey of ours, life's sweetest rhyme.
+
+[verse]
+Neon lights and open highways,
+Singing loud to our favorite playlists,
+Windows down, wind in our hair,
+Freedom’s song, we had no cares.
+
+[chorus]
+Oh, those endless summers, they never fade,
+Underneath the stars, where dreams cascade,
+Every heartbeat echoes through time,
+In this journey of ours, life's sweetest rhyme.
+
+[bridge]
+Through every twist and turn, we found our way,
+Laughing louder with each brand new day,
+Memories stitched in colors so bright,
+Our story unfolds under moonlit nights.
+```
+
+Please review the lyrics, and if everything looks good, press the "generate" button to manually create the song. If there are any changes or additional elements you'd like to add, let me know!

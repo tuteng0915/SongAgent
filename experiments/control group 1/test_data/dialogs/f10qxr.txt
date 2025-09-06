@@ -1,0 +1,56 @@
+User : 
+Hey there! So, you're looking for an upbeat pop song with a fun, flirty, and energetic vibe, right? Something that could fit a wild dance party in a laundromat? Let's start by nailing down the tone. Would you say the lyrics should be more playful and lighthearted, or do you want them to have a bit of attitude too?
+Agent : 
+
+the user has not given their preferences yet.
+Sure thing! To make sure we're on the same page, I'll go ahead and set the tone for an upbeat pop song with a fun, flirty, and energetic vibe that could definitely fit a wild dance party in a laundromat. We'll aim for playful and lighthearted lyrics with just a sprinkle of attitude to keep things interesting.
+
+Let's get started by setting the tags and crafting some initial lyrics!
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+Alright, we've set the tone and crafted some initial lyrics for our upbeat pop song, perfect for a wild dance party in a laundromat. Here's what we have so far:
+
+**Tags:** upbeat, pop, fun, flirty, energetic, playful, lighthearted, dance-party, laundromat, wild, attitude
+
+**Lyrics:**
+
+[verse]
+Spinnin' dials in the moonlight glow
+Suds and bubbles, watch 'em overflow
+Got my rhythm with the washing machines
+In this laundromat, we're livin' our dreams
+
+[chorus]
+We'll dance through the rinse cycle
+Spin around like a disco ball
+Fold it up, we're feeling vital
+Laundry never felt so raw
+
+[verse]
+Jeans in the dryer, they're getting hot
+Tumble twist and give them a lot
+White shirts glowing under neon light
+This is our time to get it all night
+
+[chorus]
+We'll dance through the rinse cycle
+Spin around like a disco ball
+Fold it up, we're feeling vital
+Laundry never felt so raw
+
+[bridge]
+Take your socks off, let's get loose
+Wash away the day, there's no excuse
+Detergent magic, bleach and sass
+Cleaning clothes with a little class
+
+[chorus]
+We'll dance through the rinse cycle
+Spin around like a disco ball
+Fold it up, we're feeling vital
+Laundry never felt so raw
+
+Now, you can press the "generate" button to create this fun and flirty pop song! If you want any changes or additions, just let me know!

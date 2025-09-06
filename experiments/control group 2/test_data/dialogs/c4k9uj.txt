@@ -1,0 +1,56 @@
+User : 
+Hello, song generating agent! I have a task for you. Instead of finding an existing song, could you generate a new song that matches the following description?
+
+I'm looking for a catchy tune with dance/disco beats and strings throughout the song, reminiscent of "Bitter Sweet Symphony" by The Verve but less sophisticated. The vocalist should be female, with a light and soft voice similar to Dido or Sheryl Crow. The chorus should include some "yeah yeah" parts. The overall vibe should be nostalgic, like a blast from the past, specifically from the early or mid-2000s.
+
+Could you create such a song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated a new song for you based on your preferences. Here are the tags and lyrics:
+
+Tags: dance, disco, strings, female vocalist, light voice, soft voice, Dido, Sheryl Crow, nostalgic, 2000s, catchy, chorus, yeah yeah, Bitter Sweet Symphony, The Verve
+
+Lyrics:
+
+[verse]
+Woke up from a dream
+Where the music was streaming
+In my mind, in my soul
+I'm losing control
+
+[chorus]
+Yeah yeah, let's go back to the past
+Yeah yeah, when love was everlasting
+Yeah yeah, we danced under the stars
+Yeah yeah, like nothing could break us
+
+[verse]
+Every step that we take
+Feels like time is shaking
+In our world, in our hearts
+We'll never fall apart
+
+[chorus]
+Yeah yeah, let's go back to the past
+Yeah yeah, when love was everlasting
+Yeah yeah, we danced under the stars
+Yeah yeah, like nothing could break us
+
+[bridge]
+It's been a long time coming
+But I feel it in my bones
+The rhythm is calling
+And I can't resist it no more
+
+[chorus]
+Yeah yeah, let's go back to the past
+Yeah yeah, when love was everlasting
+Yeah yeah, we danced under the stars
+Yeah yeah, like nothing could break us
+
+Please press the "generate" button to manually generate the song.

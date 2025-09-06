@@ -1,0 +1,12 @@
+User : 
+Hey song agent! I need your help to generate a song based on these features. It should be an upbeat, catchy, and fun track, possibly with one or two singers. The singer could be a black guy, and while it might not be a rap song, it should have a lively vibe. The song's theme could revolve around a guy having bad luck with the ladies. There's a repeated line in the lyrics that goes something like, "She said let's just be friends, she said let's just be friends." Can you create a song with these elements?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've set the parameters for your song. It's upbeat, catchy, and fun with a lively vibe, featuring a male singer who is experiencing bad luck with the ladies. The lyrics include a repeated line "She said let's just be friends" as you requested.
+
+Remember to press the "generate" button to manually generate the song. Let me know if there's anything else you'd like to add or change!

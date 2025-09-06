@@ -1,0 +1,26 @@
+User : 
+I want to create a fast-paced metal song with a catchy rhythmic hook, similar to "Bawitdaba" but more aggressive. The singer should have a raspy voice. Can you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the foundation for your fast-paced metal song with a catchy rhythmic hook, similar to "Bawitdaba" but with an even more aggressive edge. The lyrics feature a raspy voiced singer as you requested. Here's a preview of the lyrics:
+
+[verse]
+Racing through the night, shadows on the run
+Steel wheels screaming, our battle has begun
+
+[chorus]
+Feel the beat, it's the sound of war
+In the night, we keep pushing for more
+
+[bridge]
+The rhythm is a weapon, sharp and mean
+Cutting through the silence, heard but unseen
+
+[chorus]
+
+Please press the "generate" button to create the song.

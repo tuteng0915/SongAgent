@@ -1,0 +1,57 @@
+User : 
+Hey there! I’m looking to generate a song that fits a certain vibe I have in mind. Here’s what I’m thinking:
+
+I want the song to capture that 2000's Vans Warped Tour energy—super high-energy, fast-paced with rapid drumming, and an overall pop-punk or emo feel. The lyrics should revolve around holding on to a past love, filled with nostalgia and maybe some longing. Oh, and at some point in the song, it would be cool if we could include the phrase “back back back” to give it that repetitive, anthemic quality.
+
+Can you whip up something like this for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on the vibe you're looking for. Here's a summary of what we have:
+
+**Tags:** 2000s, Vans Warped Tour, high-energy, fast-paced, pop-punk, emo, nostalgia, longing, anthemic
+
+**Lyrics:**
+```
+[verse]
+Remember those summer nights
+We'd chase the setting sun
+Our hearts were wild and free
+But now you're gone
+
+[chorus]
+Take me back back back to the days of us
+When love was all we thought about
+Every moment, every touch
+I need you now, take me back back back
+
+[verse]
+These streets remain the same
+But everything feels wrong
+Without you by my side
+Where did you go?
+
+[chorus]
+Take me back back back to the days of us
+When love was all we thought about
+Every moment, every touch
+I need you now, take me back back back
+
+[bridge]
+The memories linger on
+In every corner of this town
+I'm searching for a way
+To turn back time somehow
+
+[chorus]
+Take me back back back to the days of us
+When love was all we thought about
+Every moment, every touch
+I need you now, take me back back back
+```
+
+Please press the "generate" button to create the song with these settings.

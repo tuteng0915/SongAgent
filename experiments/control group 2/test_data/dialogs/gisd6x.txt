@@ -1,0 +1,22 @@
+User : 
+Hey there! I’d like you to generate a song based on these ideas:
+
+- There’s a band with multiple members, and they all work at a deli during the day.  
+- But when night falls, they head to a secret club in the basement to perform.  
+- The song features a female singer who sings a section of the track.  
+- In the end, the club gets raided by the police, and it turns out that the female singer was an undercover cop all along.
+
+Can you create something unique with these elements? Let’s see what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your ideas! Here's a summary of the elements included:
+
+- **Tags**: Indie rock, mysterious, undercover, deli workers, secret club, police raid, twist ending, energetic, female vocals.  
+- **Lyrics**: The story unfolds through verses about working at the deli by day and performing in a secret club by night. A female singer plays a pivotal role, ultimately revealed to be an undercover cop during a police raid.
+
+Now it’s time to bring this song to life! Press the "generate" button to create the audio version of the track.

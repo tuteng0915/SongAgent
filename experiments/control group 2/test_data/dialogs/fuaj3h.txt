@@ -1,0 +1,46 @@
+User : 
+Hey there! I’d like you to generate a song based on some specific features. The song should be in the emo/punk genre, with a sad and eerie vibe. It needs to have vocals from a female singer, and possibly a male vocalist as well. The lyrics should revolve around themes of numbness, inability to feel, or perhaps struggling to move or breathe. Let’s create something that captures these emotions and fits the style. Can you work your magic?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your specified features. It's in the emo/punk genre with a sad and eerie vibe, featuring both female and male vocals. The lyrics revolve around themes of numbness, inability to feel, and struggling to move or breathe.
+
+Here are the lyrics I came up with:
+
+```
+[verse]
+I'm frozen in this endless night
+Can't move, can't breathe, just hold on tight
+My heart is numb, it doesn't beat
+A prisoner of my own defeat
+
+[chorus]
+The world around me fades away
+Shadows dance and steal the day
+I scream but there's no sound I make
+Lost within this eerie lake
+
+[verse]
+Each step feels heavier than before
+The ground beneath won't hold me anymore
+Numbness spreads from head to toe
+In this abyss, I'll never grow
+
+[bridge]
+Is there a way out of this shell?
+Or am I destined for this hell?
+Together we could break these chains
+Feel alive amidst our pains
+
+[chorus]
+The world around us fades away
+Shadows dance and steal the day
+We scream but there's no sound we make
+Together trapped in this eerie lake
+```
+
+Now, please press the "generate" button to manually generate the song based on these settings.

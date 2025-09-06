@@ -1,0 +1,40 @@
+User : 
+I want a song that feels like the late 90s or early 2000s, sung by a female with an inspirational tone. Can we start from there?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, let's create a song that captures the essence of the late 90s or early 2000s with a female vocalist and an inspirational tone. 
+
+Now, I will set the tags for the song.
+
+
+Successfully set the parameter tags
+Great! Now, let's draft some lyrics that match the inspirational tone and style you're looking for.
+
+Here are the initial lyrics:
+
+[Verse]
+In the morning light I see a new day
+With every step, there's a price to pay
+But I won't back down, I'll take the stand
+With every heartbeat, I feel the demand
+
+[Chorus]
+Rise up, it’s time to shine
+Feel the power, you’re divine
+In this world, we’ll make our way
+Together strong, come what may
+
+[Bridge]
+Every challenge, every fight
+Makes us stronger in the night
+Dreams will guide us through the haze
+In this journey, we blaze
+
+[Chorus]
+Rise up, it’s time to shine
+Feel the power, you’re divine
+In this world, we’ll make our way
+Together strong, come what may
+
+Please press the "generate" button to manually generate the song.

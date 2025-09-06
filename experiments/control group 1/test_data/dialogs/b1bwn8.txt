@@ -1,0 +1,9 @@
+User : 
+I'm ready to help create your song! To start, could you describe the general theme or emotion you'd like the lyrics to convey? For example, are we focusing on sadness, longing, or perhaps resilience?
+Agent : 
+Sure, let's start by understanding your preferences. I'll use the preference tool to gather that information.
+
+
+
+the user has not given their preferences yet.
+It seems like we need more specific information from you regarding the theme or emotion for the song. Could you please specify if you're looking for something sad, longing, resilient, or any other particular feeling? This will guide us in creating lyrics that truly resonate with your vision.

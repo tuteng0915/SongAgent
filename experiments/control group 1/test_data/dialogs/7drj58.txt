@@ -1,0 +1,15 @@
+User : 
+I want a song that feels like 2000s rock with indie vibes, and it should have this black and white feel. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+I have set the tags for your song to reflect a 2000s rock with indie vibes and a black and white feel. Now, let's work on some lyrics that will fit this style.
+
+
+
+Successfully set the parameter lyrics
+I've crafted some lyrics that should harmonize well with the 2000s rock and indie atmosphere, along with the black and white aesthetic you're looking for. 
+
+To create your song, please press the "generate" button.

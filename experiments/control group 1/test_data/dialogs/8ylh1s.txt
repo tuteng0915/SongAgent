@@ -1,0 +1,46 @@
+User : 
+I'm ready to help you create that perfect early 90s hip hop track. To start, could you tell me more about the mood or feeling you want the song to convey?
+Agent : 
+Sure, I can help with that. Since we're aiming for an early 90s hip hop vibe, let's set some tags that will capture the essence of that era. I'll also draft some initial lyrics to get us started.
+
+First, I'll set the tags and lyrics based on typical elements found in early 90s hip hop music.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags to capture the essence of early 90s hip hop with elements like boom-bap beats, gritty and conscious lyrics, and jazz samples. Here are the initial lyrics I drafted:
+
+```
+[verse]
+Yo, it's the sound of the streets, story untold,
+In the heart of the city where the nights unfold,
+With a mic in my hand, I'm ready to spit,
+Rhymes so sharp, they cut like a blade, legit
+
+[chorus]
+This is for the ones who dream in the dark,
+Lighting up the shadows with a spark,
+For the hustlers and grinders, keep climbing the chart,
+Early 90s flow, straight from the heart
+
+[verse]
+Concrete jungle, where the wild things play,
+Every corner holds a tale, every alleyway,
+From the rooftops to the subway trains,
+The rhythm of life, through joy and pain
+
+[bridge]
+Jazz loops looping, scratches deep,
+In this sonic journey, secrets we keep,
+Turntables spinning, beats never sleep,
+In this world of ours, memories we reap
+
+[chorus]
+This is for the ones who dream in the dark,
+Lighting up the shadows with a spark,
+For the hustlers and grinders, keep climbing the chart,
+Early 90s flow, straight from the heart
+```
+
+Please press the "generate" button to create the song based on these settings. If you have any specific preferences or additional instructions, let me know before generating!

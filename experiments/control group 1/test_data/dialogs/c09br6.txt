@@ -1,0 +1,37 @@
+User : 
+I want to create a high-energy rock song that's great for workouts. Can we start with a powerful guitar riff and a chant-like chorus?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, let's create a high-energy rock song that will be perfect for workouts. We'll start with a powerful guitar riff and make the chorus chant-like to get the energy up. Let me set the tags and lyrics for this song.
+
+I'll set the tags to reflect a high-energy rock style with elements that are great for workouts. For the lyrics, I'll write a verse that kicks off with a strong guitar riff and a chorus that has a chant-like quality.
+
+
+An error occurred when calling tool `param_setter`:
+ValueError: <string>:1 Unexpected "}" at column 88
+Traceback:
+  File "C:\Users\Redst\AppData\Local\Programs\Python\Python312\Lib\site-packages\qwen_agent\agent.py", line 192, in _call_tool
+    tool_result = tool.call(tool_args, **kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\USTC Activities\Project\dataset and pipeline\control group 1\tools.py", line 41, in call
+    obj = json5.loads(params)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Redst\AppData\Local\Programs\Python\Python312\Lib\site-packages\json5\lib.py", line 205, in loads
+    raise ValueError(err)
+
+It seems there was an error in setting the tags due to a formatting issue. Let me correct that and set the tags again for our high-energy rock song.
+
+I'll make sure the tags reflect the energetic and workout-friendly nature of the song, with a focus on powerful guitar riffs and a chant-like chorus.
+
+
+Successfully set the parameter tags
+The tags have been successfully set to capture the essence of a high-energy rock song suitable for workouts, with powerful guitar-driven elements and a chant-like chorus.
+
+Now let's move on to setting the lyrics. I'll write a verse that leads with a strong guitar riff and a chorus that has a repetitive, chant-like quality to energize listeners.
+
+
+Successfully set the parameter lyrics
+The lyrics have been set, capturing the powerful guitar riffs in the verses and a chant-like quality in the choruses to energize listeners during workouts. 
+
+To generate the song with these settings, please press the "generate" button. Once generated, we can further refine or extend the song as needed.

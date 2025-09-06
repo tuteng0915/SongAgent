@@ -1,0 +1,48 @@
+User : 
+Hey there! I’d like you to generate an upbeat acoustic song from the 2000s, sung by a male artist. I think someone might be playing the guitar in it, and I remember getting this image of a bright blue sky when I heard it—so maybe weave that into the lyrics? Let’s see what you can come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted an upbeat acoustic song that fits your description, complete with a male vocalist, guitar strumming, and of course, the imagery of a bright blue sky woven into the lyrics. Here's a preview of the lyrics:
+
+[verse]
+Strumming my guitar under a bright blue sky,
+The rhythm's got me feeling so high,
+Every note I play, it tells my story,
+Of chasing dreams and catching glory.
+
+[chorus]
+Oh, the sky's so wide, endless and free,
+Like a melody that carries me,
+Through the highs and lows, I'll find my way,
+With every chord and dream I play.
+
+[verse]
+Walking down this road with music in my soul,
+Each strum takes me closer to my goal,
+I see the world through sunglasses' hue,
+Every shade of life feels brand new.
+
+[chorus]
+Oh, the sky's so wide, endless and free,
+Like a melody that carries me,
+Through the highs and lows, I'll find my way,
+With every chord and dream I play.
+
+[bridge]
+In this journey, I've found my tune,
+Underneath the watchful moon,
+But it's the daylight that sets me free,
+Bright blue skies are calling me.
+
+[chorus]
+Oh, the sky's so wide, endless and free,
+Like a melody that carries me,
+Through the highs and lows, I'll find my way,
+With every chord and dream I play.
+
+Now, press the "generate" button to bring this song to life!

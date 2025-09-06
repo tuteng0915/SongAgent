@@ -1,0 +1,44 @@
+User : 
+I'd like a fun, poppy song with folky undertones, telling a story about someone born with fur, from a young male singer's perspective. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can work with that. Given your request, I will tag the song with "fun", "pop", "folk", "storytelling", and "young male singer". Now let's generate the lyrics.
+
+[Verse]
+In a town not far away
+A boy was born in a peculiar way
+Covered in fur, oh so rare
+With a heart as big as the open air
+
+[Chorus]
+Furry boy, don't you hide
+You're a wonder, far and wide
+In this world, you've got a place
+With your wild smile and gentle grace
+
+[Verse]
+Growing up, he faced some strife
+But his spirit was the light of life
+In the fields, he'd dance and sing
+Underneath the stars, where dreams take wing
+
+[Bridge]
+Oh, furry boy, you're one of a kind
+Your story's unique, it's written in time
+Don't let them bring you down
+For you wear your difference with pride
+
+[Chorus]
+Furry boy, don't you hide
+You're a wonder, far and wide
+In this world, you've got a place
+With your wild smile and gentle grace
+
+Please press the "generate" button to manually generate the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The tags and lyrics have been set successfully. Please press the "generate" button to manually generate the song.

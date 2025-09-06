@@ -1,0 +1,56 @@
+User : 
+Sure thing! Let's start by focusing on the theme of the song. Since you don't want any mention of strange lights in the title, could you suggest an alternative theme or subject for the song?
+Agent : 
+Certainly! Let's go with a theme of "Exploration and Discovery." This theme can encompass a wide range of topics, from personal growth to adventurous journeys, without mentioning any specific elements like strange lights. 
+
+I'll proceed to generate a song based on this theme. First, I'll set the tags and lyrics accordingly.
+
+### Tags:
+- Exploration, Discovery, Adventure, Journey, Wonder
+
+Let me create the initial structure for the lyrics.
+
+
+Successfully set the parameter tags
+Now, let's create the lyrics for the song based on the theme of "Exploration and Discovery."
+
+### Lyrics:
+```
+[Verse]
+Waking up to a brand new day
+Paths untrodden, skies so gray
+Hear the whispers in the breeze
+Calling out from distant seas
+
+[Chorus]
+We're explorers in an endless quest
+For treasures hidden in the west
+With every step, we find our way
+In this journey, come what may
+
+[Bridge]
+Through valleys deep and mountains high
+Beneath the vast unending sky
+Each moment holds a mystery
+A world unknown, waiting for me
+
+[Chorus]
+We're explorers in an endless quest
+For treasures hidden in the west
+With every step, we find our way
+In this journey, come what may
+
+[Outro]
+And when the night falls, stars will guide
+Our hearts that beat with dreams inside
+Forever searching, forever free
+Bound by wonder, you and me
+```
+
+Let me set these lyrics.
+
+
+Successfully set the parameter lyrics
+The song based on the theme of "Exploration and Discovery" has been set up with appropriate tags and lyrics. 
+
+You can now press the "generate" button to manually generate the song. Enjoy the music! 🎵

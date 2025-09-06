@@ -1,0 +1,50 @@
+User : 
+Hello, Song Agent! I’d like you to generate a groovy, slow-tempo song for me. The song should start with a guitar and bass riff that goes "ba ba ba baaaaa," followed by a male vocalist singing the opening line, "I can make (something something...)." This track should capture that quintessential romantic vibe you often hear in cliche movie scenes, TV shows, or commercials when two lovers lock eyes. Think dreamy, smooth, and full of longing.
+
+Can you create this song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set up your song with a groovy, slow-tempo style that captures the romantic vibe you're looking for. The male vocalist will start off singing "I can make (something something...)" after an introductory guitar and bass riff. Here's how the lyrics continue:
+
+[intro]
+ba ba ba baaaaa
+
+[verse 1]
+I can make (something something...) 
+
+[chorus]
+In this moment, time stands still,
+Our eyes meet, I feel the thrill.
+Heartbeats echo, love unfolds,
+In this dream, my heart you hold. 
+
+[verse 2]
+Every glance, a sweet surprise,
+In your gaze, I see the skies.
+Whispers softly, promises made,
+In this dance, no shade of gray.
+
+[chorus]
+In this moment, time stands still,
+Our eyes meet, I feel the thrill.
+Heartbeats echo, love unfolds,
+In this dream, my heart you hold.
+
+[bridge]
+Oh, the silence speaks our names,
+In this night, we light the flames.
+No words needed, love's so clear,
+In this scene, I disappear.
+
+[chorus]
+In this moment, time stands still,
+Our eyes meet, I feel the thrill.
+Heartbeats echo, love unfolds,
+In this dream, my heart you hold.
+
+Please press the "generate" button to create your song.

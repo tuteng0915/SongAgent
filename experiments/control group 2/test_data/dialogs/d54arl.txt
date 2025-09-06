@@ -1,0 +1,54 @@
+User : 
+Hey there! I’m looking to generate a song that fits the vibe I’m thinking of. It should feel like an early 2000s pop-rock track, with a female artist delivering the vocals—something along the lines of Michelle Branch or Avril Lavigne, maybe even Brandy. The mood is catchy but has that slightly edgy, introspective tone they were known for back then. Think acoustic guitar mixed with some electric elements, heartfelt lyrics about growing up or relationships, and a chorus you can sing along to easily.
+
+Could you whip up something inspired by this era and style? Let’s create it from scratch!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song that fits the vibe you're thinking of—an early 2000s pop-rock track with heartfelt and introspective lyrics, catchy melodies, and a mix of acoustic and electric elements. The female vocals should remind you of artists like Michelle Branch, Avril Lavigne, or Brandy.
+
+Here's a preview of the lyrics:
+
+```
+[verse]
+Walking down these streets of memories,
+Every corner whispers your name to me.
+I've been trying to find where I belong,
+But every road just leads back to this song.
+
+[chorus]
+We were young, we were wild, and free,
+Chasing dreams like they're destiny.
+Now I'm standing here at the edge of time,
+Wondering if you ever felt the same.
+
+[verse]
+These moments fade but never really die,
+Caught between the truth and a perfect lie.
+I hear your voice in every passing car,
+A melody that tells me who we are.
+
+[chorus]
+We were young, we were wild, and free,
+Chasing dreams like they're destiny.
+Now I'm standing here at the edge of time,
+Wondering if you ever felt the same.
+
+[bridge]
+And it's bittersweet,
+These echoes keeping me awake.
+In the silence, I can hear us break,
+But still, I call out your name.
+
+[chorus]
+We were young, we were wild, and free,
+Chasing dreams like they're destiny.
+Now I'm standing here at the edge of time,
+Wondering if you ever felt the same.
+```
+
+Please press the "generate" button to manually generate the song!

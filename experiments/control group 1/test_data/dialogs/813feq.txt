@@ -1,0 +1,18 @@
+User : 
+I'm excited to help create your song! To start, could you tell me a bit more about the theme or message you'd like the lyrics to convey? Something positive and uplifting, perhaps?
+Agent : 
+Sure thing! Let's aim for a theme that's positive and uplifting. How about we create a song that celebrates personal growth and overcoming challenges? I'll go ahead and set some initial tags and lyrics for this theme.
+
+I'll call the `preference` function to understand your preferences better, and then I'll use the `param_setter` tool to set the tags and lyrics.
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, I'll proceed with a general set of tags that usually fit an uplifting and positive theme. Let's get started on those lyrics and tags.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags and lyrics for your song. The theme is about celebrating personal growth and overcoming challenges, which should be reflected in both the lyrics and the tags.
+
+Remember to press the "generate" button to manually generate the song. After you hear it, we can make any adjustments or refinements you feel are necessary. How does that sound?

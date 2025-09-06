@@ -1,0 +1,28 @@
+User : 
+Request to the Song Generating Agent:  
+I’d like you to generate a song based on the following details. The genre should be upbeat pop or swing with modern, slight electronic influences—nothing too heavy or aggressive. The lyrics should revolve around love, but with an edge: the woman being described is hypnotic and alluring yet dangerous, creating a tension where the singer struggles to resist her. For context, imagine this as if it’s tied to a music video concept from the 2010s (mid-decade). In the visual narrative, there’s a bright white room viewed from above, featuring one man in a classic suit, light-colored hair, and glasses with thick rims. As the song progresses, he starts walking in circles while singing, eventually multiplying into clones that mimic his movements, possibly achieved through clever camera work or effects. By the end, these reflections fade away, leaving him alone again. Capture the mood of intrigue, allure, and subtle danger in both the melody and lyrics. Let’s create something fresh and captivating!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for your song based on your preferences. The tags include "upbeat pop", "swing", "electronic", among others, to capture the genre you're aiming for. Here's a snippet of the lyrics:
+
+```
+[verse]
+In a room so bright, where shadows play,
+I see your eyes in every shade of gray.
+You're a mystery that I can't define,
+A dangerous dance in the blink of time.
+
+[chorus]
+Oh, you're hypnotic, pulling me in,
+Alluring whispers beneath your skin.
+But there's danger lurking in your smile,
+A fleeting moment, but worth the trial.
+...
+```
+
+Please press the "generate" button to manually generate the song.

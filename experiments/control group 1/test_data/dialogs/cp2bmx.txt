@@ -1,0 +1,32 @@
+User : 
+I want a rap song with emotional and introspective lyrics. Can you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can start working on that. Since you want a rap song with emotional and introspective lyrics, I'll generate some tags and lyrics fitting that description. 
+
+To ensure the song meets your expectations, could you please specify any particular themes or topics you'd like the lyrics to cover? If not, I'll proceed with a general emotional and introspective theme.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated the initial lyrics and tags for your rap song with an emotional and introspective theme. 
+
+Here's a snippet of the lyrics:
+
+```
+[verse]
+In the mirror, I see a soul divided
+A heart once whole, now broken and decided
+Each scar a story, each tear a verse
+I navigate this labyrinth, my path perverse
+
+[chorus]
+Lost in thoughts, shadows dance on my mind
+Echoes of laughter from times left behind
+Searching for solace where none can be found
+Building my castle on ever-shifting ground
+```
+
+Please press the "generate" button to manually generate the song. If you have any specific requests or changes, let me know!

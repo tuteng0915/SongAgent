@@ -1,0 +1,52 @@
+User : 
+Hey there! I’m looking to generate a song that fits a specific vibe and theme. Here’s what I’m thinking:
+
+I want the song to capture that chaotic, mischievous energy of someone unintentionally causing mayhem as they go about their day in a carefree way—like bumping into things and tossing objects aside without realizing the chain reactions they’re setting off behind them. The tone should be colorful, fun, and a little wild, matching the kind of quirky humor you'd see in an over-the-top music video.
+
+For style, let’s aim for something inspired by pop punk or California punk bands—high-energy, catchy, with just enough edge to keep it cool but not too serious. Think upbeat rhythms, maybe some crunchy guitar riffs, and lyrics that tell this story of accidental chaos with a playful twist.
+
+Can you help me generate a song like that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for your song to match that chaotic, mischievous energy with a pop punk twist. The lyrics tell the story of someone accidentally causing mayhem in a carefree way, capturing the colorful and fun vibe you're looking for.
+
+Here's a preview of the lyrics:
+
+```
+[verse]
+Walking through the world like a bull in a china shop,
+Knocking things over without even a stop.
+I didn't mean to cause a mess,
+But now it's chaos and I'm loving the stress.
+
+[chorus]
+Oops, there goes another vase,
+And I just knocked my coffee off its place.
+The room’s spinning, everything’s a blur,
+This is my life, ain’t it absurd?
+
+[verse]
+Every step I take leaves a trail of surprises,
+Like dominoes falling before my eyes.
+It's all fun and games till someone gets hit,
+But who needs calm when you can live like this?
+
+[bridge]
+Crash! Bang! Boom!
+Life's one big cartoon,
+With every door I slam,
+Another joke begins again.
+
+[chorus]
+Oops, there goes another vase,
+And I just tripped on my own shoelace.
+The room’s alive, it’s outta control,
+But deep inside, I’ve found my soul.
+```
+
+Now, please press the "generate" button to manually generate the song based on these settings. Enjoy the quirky ride!

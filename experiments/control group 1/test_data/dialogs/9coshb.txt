@@ -1,0 +1,11 @@
+User : 
+
+the value of the parameter tags is: 
+
+ empty
+It seems like the tags haven't been generated yet. Let's ask the agent to generate them.
+Could you tell me more about the specific themes or emotions you'd like the song to convey?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help with that. To better tailor the song to your liking, could you please share what kind of themes or emotions you want the song to express? For example, do you prefer something upbeat and energetic, or perhaps something more mellow and reflective? Any specific topics or feelings you'd like to capture in the song?

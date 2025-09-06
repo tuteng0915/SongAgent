@@ -1,0 +1,51 @@
+User : 
+I want a song about a man who feels stuck in his daily life, can you start with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can start by creating a song about a man who feels stuck in his daily life. Let's set the tags and lyrics for this song.
+
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags and lyrics for a song about a man feeling stuck in his daily life. The tags include "male vocals, melancholic, acoustic guitar, slow tempo, introspective" to capture the mood of the song. Here are the lyrics:
+
+[verse]
+Woke up to the same old sky
+Another day goes flashing by
+I'm trapped inside this endless loop
+My dreams are lost, there's no way out
+
+[chorus]
+Stuck in this rut, I'm losing my mind
+Every day's the same, I'm running out of time
+I need to break free, spread my wings and fly
+But I can't escape this life that I despise
+
+[verse]
+The clock keeps ticking, never slows down
+Each moment drags, like chains around
+I try to find some solace here
+But peace eludes me, year after year
+
+[chorus]
+Stuck in this rut, I'm losing my mind
+Every day's the same, I'm running out of time
+I need to break free, spread my wings and fly
+But I can't escape this life that I despise
+
+[bridge]
+Is there a way to change my fate?
+Or am I doomed to meet the same slate?
+I long for something more than this
+A chance to live, to truly exist
+
+[chorus]
+Stuck in this rut, I'm losing my mind
+Every day's the same, I'm running out of time
+I need to break free, spread my wings and fly
+But I can't escape this life that I despise
+
+Please press the "generate" button to manually generate the song.

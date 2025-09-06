@@ -1,0 +1,72 @@
+User : 
+Sure, I can help with that. Let's start by specifying the genre of the heavy song you're looking for. Do you have any particular style in mind, like metal, hard rock, or something else?
+Agent : 
+
+the user has not given their preferences yet.
+Since you haven't specified your preferences yet, I'll create a heavy metal song with powerful guitar riffs and intense drumming. Here's a draft of the lyrics:
+
+[Verse]
+Beneath the sky of endless night
+Where shadows dance in the pale moonlight
+The echoes ring through the hollow halls
+A hero rises, he stands tall
+
+[Chorus]
+Unleash the beast within
+Feel the power coursing through your veins
+With every breath we scream
+Breaking free from chains
+
+[Verse]
+Steel hearts forged in fire's embrace
+Warriors march to their destined place
+In the heart of battle they find their might
+A symphony of steel under starless skies
+
+[Chorus]
+Unleash the beast within
+Feel the power coursing through your veins
+With every breath we scream
+Breaking free from chains
+
+[Bridge]
+Through the storm, through the pain
+We fight on, never to fall again
+
+Now please press the "generate" button to manually generate the song.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+The tags and lyrics for the heavy metal song have been set. The tags include "heavy metal," "guitar riffs," "intense drumming," and "powerful vocals." Here are the lyrics again for your reference:
+
+[Verse]
+Beneath the sky of endless night
+Where shadows dance in the pale moonlight
+The echoes ring through the hollow halls
+A hero rises, he stands tall
+
+[Chorus]
+Unleash the beast within
+Feel the power coursing through your veins
+With every breath we scream
+Breaking free from chains
+
+[Verse]
+Steel hearts forged in fire's embrace
+Warriors march to their destined place
+In the heart of battle they find their might
+A symphony of steel under starless skies
+
+[Chorus]
+Unleash the beast within
+Feel the power coursing through your veins
+With every breath we scream
+Breaking free from chains
+
+[Bridge]
+Through the storm, through the pain
+We fight on, never to fall again
+
+Now please press the "generate" button to manually generate the song.

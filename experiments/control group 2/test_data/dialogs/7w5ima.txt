@@ -1,0 +1,55 @@
+User : 
+Hey there! I understand you're looking for a song, but how about we create one instead? Based on your description, it sounds like you're after a powerful metal/rock track with clean vocals and an emotionally charged chorus. The vibe seems to align with bands like Three Days Grace, Breaking Benjamin, and Linkin Park—bands known for their heavy yet melodic sound.
+
+Here’s my request:  
+Can you generate a metal/rock song with clean vocals that has a chorus centered around themes of desperation or longing? Something along the lines of "Rescue me... [forgotten lyrics] ...I'm drowning." The tone should be intense and emotional, capturing that same heaviness found in alternative/nu-metal styles. Let's make it epic!
+
+What do you think?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've generated a metal/rock song based on your request, featuring clean vocals and an emotionally charged chorus. The lyrics revolve around themes of desperation and longing, with the chorus centered around "Rescue me... I'm drowning." Here's what we have:
+
+**Tags:** metal, rock, clean vocals, emotional, intense, alternative, nu-metal, epic, Three Days Grace, Breaking Benjamin, Linkin Park, heavy, melodic  
+
+**Lyrics:**
+
+```
+[verse]
+I've been lost in the shadows
+Falling deeper every day
+The weight of this world's too heavy
+There's no light to lead the way
+
+[chorus]
+Rescue me, I'm drowning
+Caught inside this endless fight
+Bring me back to life again
+Before I fade into the night
+
+[verse 2]
+Silent cries echo louder
+A soul on fire, burning cold
+No escape from these chains that bind me
+In this void, I've lost control
+
+[chorus]
+Rescue me, I'm drowning
+Caught inside this endless fight
+Bring me back to life again
+Before I fade into the night
+
+[bridge]
+The clock is ticking faster now
+Every breath feels like my last
+Will you pull me through before it's over?
+Or am I destined to be past
+```
+
+This track should feel intense and emotional, capturing that heaviness found in alternative/nu-metal styles while keeping the melody epic and engaging. 
+
+Now, **press the "generate" button** to create the song! Once it's ready, we can refine or extend it further if needed. Let me know how this looks to you!

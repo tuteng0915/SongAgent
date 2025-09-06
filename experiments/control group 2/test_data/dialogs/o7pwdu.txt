@@ -1,0 +1,32 @@
+User : 
+Request to the Song Generating Agent:
+
+I'm looking to generate a song that captures the essence of a late 90s, radio-friendly, alternative rock track. The song should revolve around the theme of a slacker-type character who sees himself as the hero of his own world. It should have a cheesy, yet catchy vibe that could potentially annoy someone with its repetitive nature. The sound should be typical of 90s alternative music, with a male singer, and feel like it could have been a one-hit wonder played on MTV. Let's create this nostalgic tune!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the parameters for your late 90s alternative rock track. The tags reflect the era, style, and vibe you're aiming for: a slacker hero with a catchy and repetitive tune that could have been a one-hit wonder on MTV. Here's a preview of the lyrics:
+
+[verse]
+Woke up late again, sun's shining in
+Got that same old tune stuck in my brain
+I might not change the world, but I'm alright
+Living life my way, everything's fine
+
+[chorus]
+I'm the king of this place, even if it's just my mind
+Everyday's a new adventure, living life unplanned
+Yeah I'm a slacker, but I've got style
+In my world, I'm number one all the while
+
+... [skipping to the end]
+
+[ending]
+So here's to the slackers, the dreamers, the free
+To heroes in their own minds, just like you and me
+
+Now, please press the "generate" button to create your nostalgic tune!

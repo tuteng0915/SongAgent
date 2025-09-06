@@ -1,0 +1,36 @@
+User : 
+Hey there! I’d like you to generate a song for me. Here’s what I’m thinking:  
+
+It should have some piano in it and be fast-paced. The main singer should sound a bit like Kenny Loggins, and there should be background singers adding harmony. The hook of the song should go something like "C’mon, C’mon, C’mon, C’mon, C’mon in love."  
+
+Can you create that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up your song with the following:
+
+- **Tags**: piano, fast-paced, Kenny Loggins, harmony, hook
+- **Lyrics**:
+  ```
+  [verse]
+  Life's a highway, I'm riding it all night long
+  Got the pedal to the metal, moving strong
+
+  [chorus]
+  C'mon, C'mon, C'mon, C'mon, C'mon in love
+  Feel the rhythm, let's groove from above
+
+  [bridge]
+  We can dance under the stars tonight
+  Let the music take us to new heights
+
+  [chorus]
+  C'mon, C'mon, C'mon, C'mon, C'mon in love
+  Feel the rhythm, let's groove from above
+  ```
+
+Please press the "generate" button to manually generate the song.

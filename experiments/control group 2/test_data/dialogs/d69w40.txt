@@ -1,0 +1,12 @@
+User : 
+Hello, Song Agent! I would like you to generate a song that serves as an interlude for an album. The song should be primarily piano-based and feature a dialogue between a man and a woman. In the dialogue, the man says, "Meaning in life is just something you cultivate." The woman responds, "Like roses?" and the man replies, "Exactly like roses. Until it's not." Please create this song for me.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set up the song according to your request. The tags for the song include "piano, dialogue, interlude, man, woman, meaningful, roses, life," and the lyrics feature the exact dialogue you provided.
+
+To proceed with the generation of the song, please press the "generate" button. Once generated, you will have your piano-based interlude song with the specified dialogue. Enjoy the music!

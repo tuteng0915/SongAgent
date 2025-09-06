@@ -1,0 +1,57 @@
+User : 
+I want a song about a group of deli workers who perform at a secret club at night.
+Agent : 
+
+the user has not given their preferences yet.
+Sure, that sounds like a fun and unique song idea! Let's create a song about these deli workers who have a secret talent. 
+
+Since I don't know your specific preferences yet, I'll make some general assumptions about the style. Do you prefer something more upbeat and lively or slow and soulful?
+
+Let's assume an upbeat and lively vibe for now.
+
+I will set the tags and lyrics for this song next.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set the tags and lyrics for your song about deli workers who perform at a secret club at night. Here's a summary:
+
+**Tags:** upbeat, lively, deli workers, secret club, night performance, pop rock
+
+**Lyrics:**
+```
+[verse]
+In the day we slice and dice, making sandwiches so nice,
+At night we trade our aprons for guitars,
+
+[chorus]
+We're deli by day, rockstars by night,
+Under neon lights, we put on a show,
+Dancing through the secret door, where dreams unfold,
+Oh, what a tale to tell, when the moon is high,
+
+[verse]
+Pickles and jams, we serve with a smile,
+But behind closed doors, we let loose in style,
+
+[chorus]
+We're deli by day, rockstars by night,
+Under neon lights, we put on a show,
+Dancing through the secret door, where dreams unfold,
+Oh, what a tale to tell, when the moon is high,
+
+[bridge]
+The stage is set, the crowd goes wild,
+Who knew these hands could play so mild,
+From slicing meats to playing beats,
+Our double life, a tasty treat,
+
+[chorus]
+We're deli by day, rockstars by night,
+Under neon lights, we put on a show,
+Dancing through the secret door, where dreams unfold,
+Oh, what a tale to tell, when the moon is high,
+```
+
+Please press the "generate" button to manually generate the song.

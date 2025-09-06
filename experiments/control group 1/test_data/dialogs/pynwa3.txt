@@ -1,0 +1,62 @@
+User : 
+I need a slow, emotional song about a breakup. Can you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help with that. Since I don't have your specific preferences on record, I'll go ahead and create a slow, emotional song about a breakup based on general guidelines. Let's start by setting the tags and lyrics.
+
+I will now set the parameters for the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags for the song to reflect a slow, emotional breakup theme with elements of sadness, accompanied by acoustic instruments such as piano and strings.
+
+Here are the lyrics I've crafted:
+
+```
+[verse]
+We've come to an end,
+A silent goodbye we never mend.
+I hold onto dreams of you and me,
+But they're fading away like the autumn leaves.
+
+[chorus]
+Why does love have to hurt so much?
+When it's over, it takes a piece of us.
+I'm lost in this sorrowful symphony,
+Hoping one day I'll be free.
+
+[verse]
+Our memories linger in every corner,
+Every smile and tear a part of my armor.
+I walk these lonely streets at night,
+Wishing stars could bring back what felt so right.
+
+[chorus]
+Why does love have to hurt so much?
+When it's over, it takes a piece of us.
+I'm lost in this sorrowful symphony,
+Hoping one day I'll be free.
+
+[bridge]
+The pain will fade, or so they say,
+But how do I move on when all I want is yesterday?
+Every heartbeat echoes your name,
+In this quiet storm, I'm not the same.
+
+[chorus]
+Why does love have to hurt so much?
+When it's over, it takes a piece of us.
+I'm lost in this sorrowful symphony,
+Hoping one day I'll be free.
+
+[ending]
+Goodbye, my love, I release you now,
+Though letting go feels like breaking vows.
+May you find peace, may I find strength,
+To heal this heart and go the length.
+```
+
+Please press the "generate" button to manually generate the song.

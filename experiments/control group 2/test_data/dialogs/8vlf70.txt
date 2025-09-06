@@ -1,0 +1,45 @@
+User : 
+Hey song agent! I need your help generating a song based on some details I have in mind. Here's what I'm thinking:
+
+- The singer could be male, but it’s not strictly necessary.
+- Modern/electronic style with a fast, dancey tempo.
+- Very bass-heavy with an occasional high-pitched sound effect—like a tropical bird call or something similar made up of four distinct notes.
+- The chorus should repeat the phrase "She can say she can say (x3) yeah that's what she's gonna say."
+
+Can you create something like that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your specifications. Here are the details:
+
+**Tags:** modern, electronic, fast tempo, dancey, bass-heavy, high-pitched sound effects, tropical bird call, four notes, male singer optional
+
+**Lyrics:**
+```
+[verse]
+In the night, lights are bright, moving to the rhythm of the beat
+Feel the bass, it's a test, lose yourself within the heat
+
+[chorus]
+She can say she can say (x3) yeah that's what she's gonna say
+
+[verse]
+Underneath the neon glow, shadows dance, they come and go
+Echoes of a bird's song, four notes ringing, can't go wrong
+
+[chorus]
+She can say she can say (x3) yeah that's what she's gonna say
+
+[bridge]
+The world spins, time begins, caught within the music's grasp
+Lose control, let it roll, feel the pressure as it laps
+
+[chorus]
+She can say she can say (x3) yeah that's what she's gonna say
+```
+
+Please press the "generate" button to manually generate the song.

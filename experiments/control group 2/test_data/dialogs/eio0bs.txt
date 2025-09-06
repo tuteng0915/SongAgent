@@ -1,0 +1,35 @@
+User : 
+Hello, song generating agent! I need your help to create a song based on the following requirements:  
+
+It should feature female vocals and fall into either the disco or house genre, with a strong disco vibe in the vocal style. The beat should have a classic 4-on-the-floor kick drum pattern to give it that dancefloor energy. The lyrics should include the lines “I want yo love. I want yo time,” with "time" drawn out melodically like “tieeiieem.”  
+
+Can you generate a song that fits this description?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the tags and lyrics for your song based on your requirements. The tags include "female vocals," "disco," "house," "4-on-the-floor," and "dancefloor energy" to ensure we capture that disco vibe with a dancefloor-friendly beat. 
+
+Here are the lyrics I've generated:
+
+[verse]
+I want yo love
+I need it now
+
+[chorus]
+I want yo love. I want yo timeeeeem.
+I want yo love. I want yo timeeeeem.
+
+[bridge]
+On the floor tonight
+Feel the rhythm in my soul
+Let's go
+
+[chorus]
+I want yo love. I want yo timeeeeem.
+I want yo love. I want yo timeeeeem.
+
+Please press the "generate" button to manually generate the song. Enjoy the music!

@@ -1,0 +1,47 @@
+User : 
+Hey there! I've got this song idea that's been floating around in my head, and I'd love for you to help me generate it. Here’s what I’m thinking:
+
+- The song should have a synth intro that sets the tune.
+- It should include lyrics with the phrases "I know you’re a dreamer" and "Now you’ve got nothing, nothing left to lose."
+- After the line "nothing left to lose," there should be a little guitar riff, followed by a rhyming line.
+- The style should feel like it could be from a British band, with a definite singer-songwriter vibe.
+
+Can you help me create a song based on these elements? Cheers!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated a song based on your ideas. The tags set for the song are "synth intro, British band, singer-songwriter, dreamy, reflective," which should reflect the style you're looking for.
+
+Here are the lyrics I've put together:
+
+```
+[verse]
+I know you’re a dreamer
+Lost in your world of make-believe
+Floating on clouds, so high above
+Where the air is thin and love's unseen
+
+[chorus]
+Now you’ve got nothing, nothing left to lose
+A guitar riff takes you away
+To find the truth in what you choose
+With a heart that’s brave, there’s no delay
+
+[bridge]
+In the silence, hear your soul
+Whispering secrets, making whole
+The pieces of a broken muse
+Find your path, there’s no excuse
+
+[chorus]
+Now you’ve got nothing, nothing left to fear
+A melody that’s crystal clear
+Guides you forward, break the fuse
+With a newfound vision, pave the way, don’t lose
+```
+
+Please press the "generate" button when you're ready to create the song. Enjoy your music-making journey! Cheers!

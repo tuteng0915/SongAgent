@@ -1,0 +1,52 @@
+User : 
+I need a song that's alternative or alternative rock, with a theme about a city that's ending in a year. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your description. It's tagged with "alternative, alternative rock, city, ending, year" to match the theme you're looking for. Here are the lyrics:
+
+[verse]
+In the shadow of the skyline
+Where the streetlights hum with secrets untold
+We walk together, hearts adrift
+On boulevards where dreams grow old
+
+[chorus]
+This city's got a year to live
+Clocks are ticking, can't you feel it?
+Neon tears begin to spill
+As we dance beneath the final curtain
+
+[verse]
+Concrete towers whisper warnings
+Of the reckoning that draws near
+Skyscrapers stand like ancient sentinels
+Guarding memories we hold dear
+
+[chorus]
+This city's got a year to live
+Clocks are ticking, can't you feel it?
+Neon tears begin to spill
+As we dance beneath the final curtain
+
+[bridge]
+The countdown echoes through the night
+Each chime a reminder of our fleeting time
+But in these streets, love will ignite
+A spark that outlasts the end of rhyme
+
+[chorus]
+This city's got a year to live
+Clocks are ticking, can't you feel it?
+Neon tears begin to spill
+As we dance beneath the final curtain
+
+[outro]
+And when the last bell tolls its knell
+Our love story in stars will dwell
+
+Please press the "generate" button to manually generate the song.

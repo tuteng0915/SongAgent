@@ -1,0 +1,18 @@
+User : 
+Sure, I can help with that. Let's start by specifying the theme of the song. Since you mentioned it should be melancholic and from the 80's or 90's, would you say the theme is about lost love or nostalgia?
+Agent : 
+To better understand your preferences, I'll get some more information.
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, let's go with a theme of lost love, which is quite fitting for a melancholic song. Now, I'll set the tags and lyrics according to this theme and the style you prefer.
+
+Let me work on the tags and lyrics now.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've created a melancholic ballad with themes of lost love, fitting for the 80s or 90s style you requested. The lyrics reflect on memories and longing, with imagery typical of the genre.
+
+To hear this song, please press the "generate" button to create it.

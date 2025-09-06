@@ -1,0 +1,15 @@
+User : 
+Request to the Song Generating Agent:  
+I want you to generate a metal song that blends orchestral elements with intense, heavy segments. The lyrics should evoke imagery of a snowy forest, solitude, and contrast—starting flowy and emotional but building up to an explosive, fiery climax. Include both clean vocals (perhaps sung by a male vocalist) and powerful metal screaming toward the end. Add tags that reflect its cinematic nature, emotional depth, and genre fusion. Let’s create something epic!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated the metal song that blends orchestral elements with intense, heavy segments. The lyrics evoke imagery of a snowy forest, solitude, and contrast—starting flowy and emotional but building up to an explosive, fiery climax. It also includes both clean vocals and powerful metal screaming toward the end.
+
+Here are the tags reflecting its cinematic nature, emotional depth, and genre fusion: metal, orchestral, heavy, cinematic, emotional, fusion, epic, solitude, contrast, clean vocals, screaming, intense, fiery, snowy forest.
+
+Please press the "generate" button to manually generate the song. Enjoy the epic creation!

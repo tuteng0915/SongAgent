@@ -1,0 +1,28 @@
+User : 
+Hey there! I need your help to generate a song that matches a specific vibe I've been obsessing over. Picture this: it's a high-pitched, slow-tempo song sung by a female vocalist. There’s one line in the lyrics something like "look up, the sky is up above," and another part with drawn-out, almost chanting "heya heya heya ha" vocals. Can you create something like that for me? I'd love it to have a dreamy, reflective feel. Let’s make some magic happen!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that should resonate with the dreamy, reflective vibe you're after. With tags highlighting female vocalists, slow tempo, high pitch, and an ethereal feel, it's tailored to your tastes. Here's a snippet of the lyrics I've devised:
+
+```
+[verse]
+Look up, the sky is up above,
+In the silence, we find our love.
+
+[chorus]
+Heya heya heya ha,
+Drifting in a world so vast.
+Heya heya heya ha,
+Moments fleeting, they won't last.
+
+[bridge]
+In the stillness, whispers grow,
+Seeds of dreams in hearts we sow.
+```
+
+This composition aims to capture the essence of your vision. When you're ready, press the "generate" button to bring this piece to life. Let’s weave some sonic magic!

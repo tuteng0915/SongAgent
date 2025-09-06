@@ -1,0 +1,11 @@
+User : 
+Sure, I can help with that. Let's start by specifying the theme or message you want to convey in the lyrics. What's the song about?
+Agent : 
+Great! To better understand your preferences and ensure the song aligns with your vision, could you please share some details about the theme or message you'd like to convey? Additionally, let's call the preference tool to gather more information on your musical tastes.
+
+
+
+the user has not given their preferences yet.
+It seems we don't have your preferences on file yet. Could you provide some details about the type of music you enjoy? For example, do you prefer upbeat and energetic tunes, or something more mellow and introspective? Any specific genres or styles you like?
+
+Once I have a better idea of your preferences, I can craft lyrics that resonate with you.

@@ -1,0 +1,60 @@
+User : 
+Hey there! I’d like you to generate a song based on the following idea: 
+
+It should be an alternative rock song with a male vocalist. The core theme is about the frustration of people pretending to understand what someone else is going through, even though they really can’t. The lyrics should revolve around the idea of "You don't know what it's like to be me, so you can’t say anything." 
+
+The song should build up tension throughout and end with a punchline where the singer admits something like, "And I don’t know what it’s like to be you either," followed by the music abruptly cutting off, leaving the listener with a strong sense of finality.
+
+Can you generate that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated the song based on your idea. Here are the sections of the lyrics:
+
+[verse]
+You nod your head like you get it all
+But the words just bounce off the wall
+I can see it in your eyes, you don't know what it's like
+To walk this road alone
+
+[chorus]
+You don't know what it's like to be me
+No, you can't say anything
+You don't feel my pain, you don't carry my weight
+So don't pretend you understand
+
+[verse]
+The silence screams louder than words ever could
+Your advice feels more like nails in the wood
+Every syllable cuts deep but misses the mark
+'Cause empathy's a language we've lost in the dark
+
+[chorus]
+You don't know what it's like to be me
+No, you can't say anything
+You don't feel my pain, you don't carry my weight
+So don't pretend you understand
+
+[bridge]
+It builds and builds, no release in sight
+The pressure grows with every lie
+You think you're helping, but you're breaking the seal
+And I'm drowning in feelings I can't reveal
+
+[final chorus]
+You don't know what it's like to be me
+No, you can't say anything
+You don't feel my pain, you don't carry my weight
+So don't pretend you understand
+
+[punchline]
+And I don't know what it's like... to be you either
+
+[ending]
+*music abruptly cuts off*
+
+Please press the "generate" button to manually generate the song.

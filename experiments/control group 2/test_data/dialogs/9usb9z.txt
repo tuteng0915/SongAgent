@@ -1,0 +1,30 @@
+User : 
+Hello, Song Agent! I'm looking to generate a song based on some specific requirements. Here's what I have in mind:
+
+## Sound:
+- A slower tempo song that isn't sad but also not upbeat.
+- Synth-heavy with a rhythmic "tchkahkahkah tchkahkahkah" sound and subtle background noise.
+- Styled in 80s electronic music.
+- Features a male vocalist, likely American.
+- Possibly includes some guitar towards the end.
+
+## Lyrics:
+- Contains a phrase similar to "do do do dodo something for Michael" (with "Michael" being a placeholder for a man’s name).
+- The "do" parts are placeholders for forgotten words.
+- Likely includes the word "for," though this is uncertain.
+
+Could you help me generate a song that fits these criteria? Thank you!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your specifications. Here's a summary:
+
+- **Tags**: The song is tagged with characteristics such as "80s, electronic, synth, male vocalist, American, guitar, rhythmic, tchkahkahkah, subtle noise, not sad, not upbeat, slower tempo" to capture the desired style and mood.
+  
+- **Lyrics**: I've composed lyrics that include verses, a chorus, a bridge, and an outro. Each section includes variations of the phrase "do do do dodo something for [Name]" as requested. Names like Michael, Daniel, and James are placeholders and can be personalized.
+
+To proceed with generating the audio for this song, please press the "generate" button when you're ready. If there's anything else you'd like to tweak or add, let me know!

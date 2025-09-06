@@ -1,0 +1,38 @@
+User : 
+I'm ready to help you create your song! To start, could you tell me more about the setting or the specific scenario where this guy and the girl find themselves? Any particular place or time you imagine this happening?
+Agent : 
+Sure, let's first understand your preferences to tailor the song accordingly. I'll go ahead and fetch those details.
+
+
+the user has not given their preferences yet.
+It seems we haven't set any preferences yet. To better customize the song, could you share some of your musical tastes or any specific themes you'd like to explore? For now, I'll proceed with a general approach that can be adjusted later.
+
+Let's imagine the setting is a serene beach at sunset, where the guy and the girl find themselves after a long day of adventures. The mood is reflective yet hopeful. Does this sound good to start with? If so, I will go ahead and set the tags and lyrics for the song.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've crafted some lyrics for our song set against the backdrop of a serene beach at sunset. Here's a preview:
+
+[verse]
+Walking along the shoreline, footsteps in the sand,
+We've journeyed far today, hand in weary hand.
+
+[chorus]
+As the sun dips low, painting skies so wide,
+Our hearts echo the waves, with secrets they confide.
+
+[verse]
+The day's adventures linger, tales we'll always keep,
+In the quiet of the evening, where dreams softly seep.
+
+[chorus]
+As the sun dips low, painting skies so wide,
+Our hearts echo the waves, with secrets they confide.
+
+[bridge]
+And if tomorrow takes us to places unknown,
+We'll carry this moment, where seeds of hope are sown.
+
+Please press the "generate" button when you're ready to create the melody for this song. We can always adjust the preferences and lyrics based on your feedback later.

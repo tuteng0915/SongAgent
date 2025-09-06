@@ -1,0 +1,36 @@
+User : 
+I understand you're looking for a song with a melancholic violin line and a 90s adult pop vibe. To start, could you tell me more about the theme or message you'd like the lyrics to convey?
+Agent : 
+Sure, let's first set the basic parameters for the song based on your preferences.
+
+
+
+the user has not given their preferences yet.
+Since we don't have specific preferences on file for you yet, I'll go ahead and set some initial tags based on our conversation. We'll aim for a melancholic feel with a 90s adult pop vibe, featuring a prominent violin line.
+
+Let's also draft some placeholder lyrics that can be refined once we know more about the message you'd like to convey.
+
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the initial tags and lyrics for our song. The tags include "melancholic", "90s", "adult pop", and "violin" to match your request. Here are the draft lyrics:
+
+```
+[verse]
+Walking down these lonely streets
+Where shadows dance and dreams compete
+
+[chorus]
+In the silence, hear my plea
+A heart lost in melody
+
+[bridge]
+Strings of sorrow, tales untold
+The night embraces, dark and cold
+```
+
+Please feel free to provide more details about the theme or message you'd like the lyrics to convey so we can refine them further.
+
+Once you're ready, press the "generate" button to create the song.

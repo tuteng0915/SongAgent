@@ -1,0 +1,43 @@
+User : 
+Hey there! I’m looking to generate a metal/rock/screamo song that fits the vibe of what I remember. Here’s what I’d like:  
+
+It should be fast-paced, with an intense energy typical of screamo or heavy rock from the 2000s onward. The lyrics need to include "white lie," "white line," or "white noise" repeated twice in succession (like "white lie, white lie"). After that part, there should be another word repeated twice for emphasis, though I don’t have a specific word in mind—feel free to get creative with it!  
+
+Let’s make this track feel raw and emotional, capturing that chaotic yet melodic essence these genres are known for. Can you help me craft something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your requested vibe of fast-paced, intense metal/rock/screamo. Here's what I came up with:
+
+**Tags:** metal, rock, screamo, fast-paced, intense, emotional, 2000s, chaotic, melodic  
+
+**Lyrics:**
+```
+[verse]
+In the chaos of white noise, white noise
+I find solace in the shadows of my mind
+
+[chorus]
+White lie, white lie
+Cutting through the silence, cutting through the silence
+Break me, break me
+Till I'm nothing but a memory, a memory
+
+[bridge]
+Lost in the echoes of screams, of screams
+Fighting against the tide, against the tide
+
+[chorus]
+White lie, white lie
+Cutting through the silence, cutting through the silence
+Save me, save me
+From the darkness that consumes me, consumes me
+```
+
+This track captures that raw and emotional energy you're looking for, blending chaotic elements with a melodic undertone. 
+
+Please press the "generate" button to create the song!

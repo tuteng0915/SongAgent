@@ -1,0 +1,38 @@
+User : 
+Hey there! I've got this song stuck in my head that feels like it’s from the 80s or early 90s, and it’s super upbeat—like a dance/disco vibe. It reminds me a lot of Stevie Wonder's style. The part I remember sounds like the chorus starting with “you’ve got to break (pause) through.” Since I can’t seem to find it anywhere, could you help me generate a song like that? Something with those lyrics and energy would be amazing!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up a song with an 80s and early 90s vibe, capturing that upbeat dance/disco style reminiscent of Stevie Wonder. Here are the lyrics I've generated for you:
+
+```
+[chorus]
+You've got to break (pause) through
+Feel the rhythm, feel it too
+Dancing under starry skies
+Let the music take you high
+
+[verse]
+Step by step, we move along
+In this journey of song and fun
+Every beat, every single sound
+Brings us closer, love unbound
+
+[bridge]
+Turn it up, let's celebrate
+Life's a dance floor, don't be late
+Feel the pulse, hear the groove
+Together we'll make our hearts improve
+
+[chorus]
+You've got to break (pause) through
+Feel the rhythm, feel it too
+Dancing under starry skies
+Let the music take you high
+```
+
+Please press the "generate" button to manually generate the song based on these settings. Enjoy the music!

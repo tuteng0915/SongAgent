@@ -1,0 +1,34 @@
+User : 
+I need a song that starts with an old man in a hospital bed, and then a woman comes in singing "Do you remember" with a marching band. It should have flashbacks and be like Florence and the Machine. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create that song for you. To make sure it fits your expectations, I'll set the tags to include "Florence and the Machine", "marching band", "flashbacks", "hospital", and "nostalgic". Here's a draft of the lyrics:
+
+[Verse]
+In a room where time stands still,
+An old man lies, his heart to fill.
+Memories fade, yet dreams persist,
+A life once lived, now misted twist.
+
+[Chorus]
+Do you remember, do you recall?
+The days we danced through it all.
+With every heartbeat, with every breath,
+We march ahead, defying death.
+
+[Bridge]
+And as she enters, singing clear,
+Her voice ignites what was held dear.
+Flashbacks flood, a vivid stream,
+Of battles fought and love supreme.
+
+Please press the "generate" button to manually generate the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The song has been set up with your specified theme and lyrics. To proceed, please press the "generate" button to manually generate the song. 
+
+Once you have the initial version, we can further refine it if needed. Let me know how it sounds!

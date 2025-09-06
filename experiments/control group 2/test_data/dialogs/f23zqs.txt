@@ -1,0 +1,52 @@
+User : 
+Hey, song agent! I need your help generating a song that fits these requirements:  
+
+It should have a romantic feel, perfect for weddings, with smooth and buttery guitar riffs reminiscent of "Something" by The Beatles. The singer should be a male rock vocalist with a soothing tone. Think heartfelt lyrics, a slow to mid-tempo rhythm, and an overall warm, dreamy vibe. Can you create something like that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for your romantic wedding song. Now, all you need to do is press the "generate" button to create your heartfelt rock ballad with smooth guitar riffs and soothing male vocals. Let me know if there's anything else you'd like to adjust! 
+
+[verse]
+I see your face in every star
+That shines above in skies afar
+With every step, my heart unfolds
+A love so pure, a tale untold
+
+[chorus]
+You're the dream I hold so tight
+My guiding light through endless night
+In your arms, I've found my home
+Together we will never roam
+
+[verse]
+Our whispers dance in quiet breeze
+Beneath the moon, beneath the trees
+Each word you speak, it lingers near
+A sweet refrain for us to hear
+
+[chorus]
+You're the dream I hold so tight
+My guiding light through endless night
+In your arms, I've found my home
+Together we will never roam
+
+[bridge]
+Every moment, every day
+With you, my love will never sway
+The world may turn, seasons may change
+But our story stays rearranged
+
+[chorus]
+You're the dream I hold so tight
+My guiding light through endless night
+In your arms, I've found my home
+Together we will never roam
+
+[outro]
+So here's my heart, my soul, my all
+With you, I'll never have to fall

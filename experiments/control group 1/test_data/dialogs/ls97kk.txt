@@ -1,0 +1,60 @@
+User : 
+I'd be happy to help with that. Let's start by focusing on the lyrics. Could you tell me more about the specific themes or emotions you want the lyrics to convey?
+Agent : 
+Sure! To better understand your preferences, could you please share what kind of themes or emotions you would like the lyrics to express? For example, do you prefer something upbeat and energetic, or perhaps more mellow and introspective? Any specific topics or feelings you have in mind would be great too. This will guide me in crafting lyrics that resonate with you. 
+
+Let's also quickly check your general preferences.
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, I'll go ahead and draft some initial lyrics based on common themes. Let's start with a theme of "love and adventure," which often includes emotions like excitement, passion, and exploration.
+
+I'll create the lyrics now.
+
+
+Successfully set the parameter lyrics
+I've set the initial lyrics for the song with a theme of love and adventure. Here's what I came up with:
+
+[verse]
+We set out in the midnight glow
+With hearts ablaze, ready to go
+The world awaits us, vast and wide
+Together we'll chase the dreams we hide
+
+[chorus]
+Oh, love and adventure, hand in hand
+Exploring the unknown across this land
+With every step, our spirits rise
+Underneath the starlit skies
+
+[verse]
+Through winding paths and forest green
+Our whispers dance, a secret serene
+In every moment, love unfolds
+A tale of us, forever told
+
+[chorus]
+Oh, love and adventure, hand in hand
+Exploring the unknown across this land
+With every step, our spirits rise
+Underneath the starlit skies
+
+[bridge]
+And if the night should call our name
+We'll answer loud, never be tamed
+For love and adventure guide our way
+Turning darkness into day
+
+[chorus]
+Oh, love and adventure, hand in hand
+Exploring the unknown across this land
+With every step, our spirits rise
+Underneath the starlit skies
+
+Now, let's add some tags that fit these lyrics.
+
+
+Successfully set the parameter tags
+I've also set the tags for the song to match the theme and emotions conveyed in the lyrics. The tags include: love, adventure, excitement, passion, exploration, starlit skies, dreams, whispers, forest, and midnight.
+
+Please press the "generate" button to manually generate the song based on these lyrics and tags. If you have any specific changes or additional preferences, feel free to let me know!

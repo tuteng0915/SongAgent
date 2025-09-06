@@ -1,0 +1,32 @@
+User : 
+I want a song that mixes R&B, pop, and has that vintage vibe. Think Earth, Wind & Fire meets Marvin Sease. Can we do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+Alright, I've set the song to have a mix of R&B, pop, and a vintage vibe inspired by Earth, Wind & Fire and Marvin Sease. Here's a preview of the lyrics:
+
+[verse]
+I feel the rhythm in my soul
+Dancing through the night, losing control
+
+[chorus]
+Oh, this love is like a dream
+Underneath the starlit sky, we gleam
+
+[verse]
+In this moment, time stands still
+With your love, I've found my thrill
+
+[bridge]
+Together we'll fly, higher and higher
+Our hearts set to the rhythm of the fire
+
+[chorus]
+Oh, this love is like a dream
+Underneath the starlit sky, we gleam
+
+Please press the "generate" button to manually generate the song.

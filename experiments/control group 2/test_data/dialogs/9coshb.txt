@@ -1,0 +1,64 @@
+User : 
+Hey there! I'd like you to generate a pop punk song that captures the vibe of Sugarcult. The concept for the video should involve people taking selfies and sending them around, symbolizing themes of self-expression or embracing who you are. Let's see those lyrics and tags!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a pop punk anthem inspired by Sugarcult that dives into themes of self-expression and embracing your true identity. Here are the tags and lyrics for your song:
+
+**Tags:** pop punk, Sugarcult, upbeat, catchy, self-expression, embracing identity, energetic
+
+**Lyrics:**
+
+[verse]
+Snapshots in the mirror, who do you see?
+Flashlights and filters, trying to be free
+In a world of facades, we lose our disguise
+Click capture, it's time to realize
+
+[chorus]
+We're sending selfies to the world
+Broadcasting hearts, unfurling
+No more hiding, we're unapologetic
+This is us, so take a picture
+Snap, snap, click, embrace it
+Pop punk style, never gonna fake it
+
+[verse]
+Pixelated memories line up the walls
+Each one a story, each one a call
+To accept the skin that we're living within
+Send it out loud, let the real you win
+
+[chorus]
+We're sending selfies to the world
+Broadcasting hearts, unfurling
+No more hiding, we're unapologetic
+This is us, so take a picture
+Snap, snap, click, embrace it
+Pop punk style, never gonna fake it
+
+[bridge]
+Every frame a declaration
+Of who we are, no preparation
+Throw the poses, let's get reckless
+Life's a photo, take your best guess
+
+[chorus]
+We're sending selfies to the world
+Broadcasting hearts, unfurling
+No more hiding, we're unapologetic
+This is us, so take a picture
+Snap, snap, click, embrace it
+Pop punk style, never gonna fake it
+
+[ending]
+So here's my selfie, it’s the real me
+No filter needed, just let it be
+Press send, watch it ripple
+Through endless streams, we're the ripple
+
+Now, go ahead and press the "generate" button to bring this vibrant track to life!

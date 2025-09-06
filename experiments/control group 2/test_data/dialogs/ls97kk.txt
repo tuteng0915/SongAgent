@@ -1,0 +1,56 @@
+User : 
+Hello, song generating agent! I’d like you to create a song based on a concept I have in mind. The song should be in the electronic music genre, and it would be great if it could feature a female vocalist. Here’s the idea for the song:
+
+The setting for the video would be in a mental hospital, where the opening scene shows a patient pointing at a radio saying something eerie like, "They are here, inside the radio," followed by the music swelling up loudly. The video should then transition into scenes of other patients dancing around the hospital.
+
+Please generate lyrics that capture this mysterious yet danceable vibe, with themes that evoke intrigue and a sense of otherworldly presence coming through the airwaves. Let’s aim for an ethereal and slightly unsettling atmosphere while keeping the energy high enough for people to want to dance.
+
+Looking forward to what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song concept that fits your vision of an eerie yet danceable electronic track with a female vocalist. The lyrics capture the mysterious and otherworldly essence you're looking for, while maintaining a high-energy vibe suitable for dancing.
+
+Here are the lyrics I've generated:
+
+[Verse]
+In the quiet halls of despair,
+A whisper floats in the stale air.
+"They are here," you softly say,
+As shadows twitch and lights decay.
+
+[Chorus]
+Dancing spirits, lost souls spin,
+Echoes of madness within.
+Radio waves, voices crawl,
+Through static, they call... they call.
+
+[Verse]
+Bodies move to a ghostly song,
+The rhythm's right, but something's wrong.
+Silhouettes on the wardened floor,
+An invitation to something more.
+
+[Bridge]
+Static whispers, secrets unfold,
+Truth or madness? The story untold.
+Hand in hand with the unseen force,
+We surrender to this spectral course.
+
+[Chorus]
+Dancing spirits, lost souls spin,
+Echoes of madness within.
+Radio waves, voices crawl,
+Through static, they call... they call.
+
+[Outro]
+And as the night begins to wane,
+The signal fades, but not the pain.
+For every beat, a haunting trace,
+The echoes linger, a timeless embrace.
+
+Now, please press the "generate" button to create the song.

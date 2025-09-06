@@ -1,0 +1,48 @@
+User : 
+Hey there! I need you to generate a song for me. Here's what I'm thinking:  
+
+It should have soft, memorable instrumentals that feel kind of nostalgic—maybe from the 70s or 80s? The singer is male, with a smooth and gentle tone, not too loud or aggressive. There’s one lyric I sort of remember, something like, “Won’t you come to me? Joanna,” though I’m pretty sure “Joanna” isn’t exactly right—it might be another word that rhymes or sounds similar, like “oh-anna.”  
+
+Can you create something based on this vibe? Let me know how it turns out!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've set up the song based on your preferences. Here's what we have:
+
+**Tags:** soft, nostalgic, 70s, 80s, male singer, smooth, gentle
+
+**Lyrics:**
+```
+[verse]
+Won't you come to me? Diana
+In the night so weary
+
+[chorus]
+Oh, Diana, oh-anna
+Let's go back to old Havana
+Where the stars align in sweet surrender
+
+[verse]
+I remember those nights under neon lights
+Dancing like no one’s watching
+
+[chorus]
+Oh, Diana, oh-anna
+Take me back to that forgotten land
+Where love was young and hearts were pounding
+
+[bridge]
+The world keeps spinning, but we can slow it down
+Just you and me, lost in this melody
+
+[chorus]
+Oh, Diana, oh-anna
+Let's fade away into tomorrow
+With dreams of yesterday forevermore
+```
+
+Please press the "generate" button to manually generate the song and see how it turns out!

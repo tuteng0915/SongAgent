@@ -1,0 +1,8 @@
+User : 
+That sounds like a beautiful concept for a song. To start, could you describe the mood or atmosphere you'd like the music to convey? Should it feel more intimate and soft, or grand and sweeping?
+Agent : 
+To better understand your preferences and create a song that truly resonates with you, I'll be using our preference tool. Let me access that now to get a clearer idea of the mood and atmosphere you're envisioning.
+
+
+the user has not given their preferences yet.
+It seems we haven't captured your preferences yet. To ensure we create a song that matches your vision, could you please share whether you're leaning towards an intimate and soft feel or something more grand and sweeping? This will guide the entire creation process.

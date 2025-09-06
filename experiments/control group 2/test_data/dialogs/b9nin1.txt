@@ -1,0 +1,16 @@
+User : 
+Hello, song generating agent! I would like you to create a song for me with the following features: 
+
+The vocals should have a David Usher-like sound, very quiet and possibly distorted as if sung through a megaphone. The song should then transition to a chorus that is primarily instrumental, with a 1920's swing music style. Additionally, there should be a few lyrics spoken at the end of each string of notes.
+
+Please generate the song based on these requirements.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the parameters for your song according to your specifications. The tags reflect the unique vocal style and the transition to a 1920s swing-style instrumental chorus, along with the spoken lyrics at the end.
+
+Now that the tags and lyrics are ready, please press the "generate" button to manually generate the song.

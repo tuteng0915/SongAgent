@@ -1,0 +1,68 @@
+User : 
+Hey there! I’d like you to generate a rock song based on the following requirements:  
+
+- The chorus should repeat a key phrase about three times, and it needs to include something along the lines of "why do you wanna die."  
+- It’s sung by a male vocalist with a clean guitar intro—nothing too heavy, no distortion at first—and it builds into a full rock vibe later.  
+- Keep it emotional and raw, staying true to rock ballad vibes.  
+
+Can you work your magic and create something that fits this description?
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've created a rock ballad based on your requirements. Here's what I came up with:
+
+- **Tags**: Rock, ballad, emotional, male vocalist, clean guitar, raw, build-up  
+- **Lyrics**:
+
+```
+[verse]
+I saw you standing in the rain last night
+Your shadow fading under neon lights
+The echoes of your footsteps filled the air
+But I could feel there was no one there
+
+[chorus]
+Why do you wanna die, why do you wanna cry?
+Why do you let it all slip away this time?
+Why do you wanna die, why won't you even try?
+You've got so much left to give, don't say goodbye
+Why do you wanna die?
+
+[verse]
+There's a fire burning deep inside your soul
+But you keep pushing everyone away, losing control
+I hear your voice—it's screaming through the pain
+But silence answers every time again
+
+[chorus]
+Why do you wanna die, why do you wanna cry?
+Why do you let it all slip away this time?
+Why do you wanna die, why won't you even try?
+You've got so much left to give, don't say goodbye
+Why do you wanna die?
+
+[bridge]
+The storm will pass, and skies will clear
+But only if you face what brought you here
+Hold on tight, don't let go now
+This is your fight, take that vow
+
+[chorus]
+Why do you wanna die, why do you wanna cry?
+Why do you let it all slip away this time?
+Why do you wanna die, why won't you even try?
+You've got so much left to give, don't say goodbye
+Why do you wanna die?
+
+[outro]
+So let the tears fall down tonight
+Let the world feel heavy as you fight
+But remember who you used to be
+Alive with dreams—just let them free
+```
+
+It starts off with a clean guitar intro and builds into an emotional rock anthem, staying true to the raw and heartfelt vibe you requested. 
+
+Press the "generate" button when you're ready to create the song!

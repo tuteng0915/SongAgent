@@ -1,0 +1,34 @@
+User : 
+I'd be happy to help with that! Let's start by specifying the genre and mood of the song. Since you mentioned it should be happy and funny, do you have a specific genre in mind, like pop, rock, or something else?
+Agent : 
+To better understand your preferences, I will first get the user preference details.
+
+
+the user has not given their preferences yet.
+Since we don't have specific preferences on file for you yet, let's go with a pop genre for our happy and funny song. Pop music tends to be catchy and upbeat, which fits well with the mood we're aiming for.
+
+Now I will set the tags for the song as "pop, happy, funny" and begin drafting some lyrics.
+
+
+Successfully set the parameter tags
+Great! With the tags set, let's draft some lyrics for our song. Here’s a basic structure:
+
+[verse]
+In the middle of the day, I saw you in the park,
+Jumping on the trampoline with your polka dot bark,
+Squirrels were clapping, birds were singing too,
+Life is just so funny when it's shared with you.
+
+[chorus]
+We laugh, we dance, spinning round and round,
+Happy days are here, joyous feet off the ground,
+Funny faces made at the fountain splash,
+Every moment feels like a joyful dash.
+
+[bridge]
+Even the clouds giggle as they pass by,
+And the sun can't help but wink from the sky,
+Let's keep this tune going, never let it stop,
+In this pop parade, life's a happy shop.
+
+Please review these lyrics and let me know if there's anything specific you'd like to add or change. Once you're satisfied, press the "generate" button to create the song.

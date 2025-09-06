@@ -1,0 +1,62 @@
+User : 
+Hey there, song agent! I'd like you to generate a sad country song for me. The story should revolve around two kids in school, where one of them is being abused. The plot could involve one kid giving away his lunch (or something similar), and later, the father asking why. Let's see what you can come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a sad country song based on your request. Here's a summary of the song:
+
+**Tags**: sad, country, story, kids, school, abuse, lunch, father, question
+
+The lyrics revolve around two kids in school, with one being abused. The plot involves one kid giving away his lunch, and later, the father asking why. 
+
+Here are the generated lyrics:
+
+```
+[verse]
+In the quiet halls of old Oakwood School,
+Two shadows danced under the watchful rule.
+Little Johnny trembled with his secret so cruel,
+While Tommy stood by him like a steadfast tool.
+
+[chorus]
+Oh, the sandwiches that were never eaten,
+The milk cartons left unopened, forgotten.
+A child's love in silence given,
+A father's question, a heart that's broken.
+
+[verse]
+Tommy shared his lunch without a word,
+Saw the bruises where words had hurt.
+Innocence bound by a silent plight,
+A bond formed in the pale moonlight.
+
+[chorus]
+Oh, the sandwiches that were never eaten,
+The milk cartons left unopened, forgotten.
+A child's love in silence given,
+A father's question, a heart that's broken.
+
+[bridge]
+Underneath the bleachers, secrets whispered low,
+"Why don't you eat?" His daddy asked at home.
+"I'm not hungry," he'd say, but his stomach would moan,
+And the truth lay heavy as the stones they'd throw.
+
+[chorus]
+Oh, the sandwiches that were never eaten,
+The milk cartons left unopened, forgotten.
+A child's love in silence given,
+A father's question, a heart that's broken.
+
+[outro]
+Years passed on, and the boys grew tall,
+But the memory lingered, through it all.
+Of lunches shared and questions unspoken,
+In the land where love and pain are woven.
+```
+
+Please press the "generate" button to manually generate the song.

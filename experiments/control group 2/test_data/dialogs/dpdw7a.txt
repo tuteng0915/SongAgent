@@ -1,0 +1,62 @@
+User : 
+Hey there! I want to create a song that fits the following description:  
+
+It should be a mid-late 2000s rock song with a mellow vibe. The theme of the lyrics should evoke an underwater, dreamlike, and slightly psychedelic atmosphere—imagine two girls living in a surreal aquatic world within their own apartment. There’s a subtle romantic undertone between them, but it's not explicitly stated. Oh, and the singer should have a male voice.  
+
+Can you generate something like this for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated the lyrics and set the tags for your requested song. Here's a preview of what we have:
+
+**Tags:** mid-late 2000s rock, mellow, underwater, dreamlike, psychedelic, surreal, romantic undertone, male singer
+
+**Lyrics:**
+
+[verse]  
+In this submerged sanctuary we find  
+Two hearts adrift in an endless tide  
+Shadows dance on the ocean floor  
+A world unknown lies within our door  
+
+[chorus]  
+Bubbles rise through a liquid sky  
+We drift together, you and I  
+No need for words beneath the waves  
+Just echoes of secrets that time won't save  
+
+[verse]  
+Neon corals light up the night  
+Reflections shimmering out of sight  
+Our fingers brush as we navigate  
+This maze of memories we create  
+
+[chorus]  
+Bubbles rise through a liquid sky  
+We drift together, you and I  
+No need for words beneath the waves  
+Just echoes of secrets that time won't save  
+
+[bridge]  
+The surface feels so far away  
+But here below, we've found our stay  
+Where time dissolves like grains of sand  
+And dreams take shape at every hand  
+
+[chorus]  
+Bubbles rise through a liquid sky  
+We drift together, you and I  
+No need for words beneath the waves  
+Just echoes of secrets that time won't save  
+
+[outro]  
+Fading whispers, the current takes  
+A love unspoken, the silence makes  
+An endless loop, no start or end  
+Forever yours, forever my friend  
+
+Now, to bring this song to life, please press the "generate" button. Let me know if you'd like to make any changes or add more details!

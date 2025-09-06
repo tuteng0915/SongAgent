@@ -1,0 +1,12 @@
+User : 
+Sure, I can help with that. Let's start by specifying the genre of the song. You mentioned punk/rock or alternative. Which one would you prefer for this song?
+Agent : 
+To better assist you, could you please specify which genre you prefer for this song: punk/rock or alternative? This will help me tailor the song to your taste. If you're open to suggestions, I can also provide a mix of both styles. Let me know how you'd like to proceed. 
+
+In the meantime, I'll go ahead and fetch your preferences to ensure the song aligns with your past requests.
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences on file yet, feel free to specify whether you'd prefer the song to be more punk/rock or alternative. Or, if you'd like, I can create a blend of both genres for a unique sound. Once you decide, we can move forward with generating the lyrics and setting the appropriate tags.
+
+Please let me know your choice so we can continue crafting your song. If you need inspiration, I could also suggest some themes or topics for the song. What do you think?

@@ -1,0 +1,30 @@
+User : 
+Hello, song agent! I'd like you to generate a song for me. The song should have a title related to silence, be incredibly calming, and feature gospel choir backing vocals. It would be great if the style could be inspired by Anderson Paak. Can you create such a song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song with the theme of silence, aiming for a calming effect with gospel choir backing vocals and inspired by Anderson Paak's style. Here are the lyrics:
+
+[verse]
+In the silence of the morning light,
+I find my peace, everything feels right.
+Whispers of hope in the gentle breeze,
+Carry my soul to a place of ease.
+
+[chorus]
+Oh, the sweet sound of silence,
+Where our dreams begin to unfold.
+With every breath, with every sigh,
+In this quiet space, we find our gold.
+
+[bridge]
+Together we rise, voices blend,
+In harmony, our souls transcend.
+A gospel choir, soft and true,
+Guided by the light, we pass through.
+
+Press the "generate" button to create the song.

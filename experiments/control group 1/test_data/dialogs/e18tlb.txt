@@ -1,0 +1,10 @@
+User : 
+I need a song with a fast pace, heavy guitar riffs, and the word "girlfriend" in the chorus. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song with fast pace, heavy guitar riffs, and the word "girlfriend" in the chorus. Press the "generate" button to manually generate the song.

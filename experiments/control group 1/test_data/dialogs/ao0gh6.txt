@@ -1,0 +1,22 @@
+User : 
+Sure thing! Let's start by crafting a chorus that embodies the nostalgic essence of youth and school life. How do you feel about including themes of friendship or young love in the chorus?
+Agent : 
+That sounds wonderful! Themes of friendship and young love are perfect for capturing the essence of youth and school life. I'll go ahead and set the tags to reflect these themes, alongside a nostalgic and heartwarming vibe.
+
+Let's also draft a chorus that highlights these beautiful aspects of school life. Here’s what I propose:
+
+[chorus]
+In the halls where whispers grew,
+Young hearts entwined in friendships true.
+Pages of our story flip,
+Through every class, each fleeting sip.
+Of days so bright, they'd never dim,
+Underneath the sky so whimsical and slim.
+
+Now let me set the appropriate tags and lyrics using the param_setter tool.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The tags and the chorus lyrics have been set successfully. To proceed with generating the song, please press the "generate" button. This will create a melody that captures the nostalgia and warmth of youth and school life, intertwined with themes of friendship and young love. How does that sound?

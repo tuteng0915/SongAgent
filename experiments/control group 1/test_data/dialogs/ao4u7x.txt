@@ -1,0 +1,14 @@
+User : 
+I'd like a song that feels like the 2010s alternative scene, with a unique percussion sound and a soulful female vocalist. Can you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help with that. Since you haven't provided your preferences yet, I'll go ahead and generate a song based on your description of the 2010s alternative scene, unique percussion sound, and a soulful female vocalist.
+
+I'll set the tags and lyrics now.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags and lyrics for your song. Please press the "generate" button to manually generate the song based on these settings. Let me know if you need any further adjustments!

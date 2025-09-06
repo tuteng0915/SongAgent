@@ -1,0 +1,12 @@
+User : 
+I want to generate an upbeat 90s-inspired rock/pop song. The track should start with a male voice repeating 'yeahs,' followed by a switch to a female singer for the main verses. For each chorus, the male 'yeahs' should come back in as a recurring element. Keep it energetic and catchy since it’s meant to stand out in public spaces like grocery stores.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The song has been set up according to your preferences. It includes an upbeat 90s-inspired rock/pop style with a catchy and energetic vibe, suitable for public spaces like grocery stores. The lyrics feature a male voice repeating 'yeahs' in the intro and during each chorus, while a female singer takes the lead in the verses.
+
+To generate the song, please press the "generate" button.

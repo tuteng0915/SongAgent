@@ -1,0 +1,67 @@
+User : 
+Hey, song generating agent! I need your help creating a song based on a music video concept that’s been stuck in my head. Here’s the idea:
+
+The song should feel like an upbeat pop track with a catchy rhythm, something that could have come out around 2014 or 2015. It opens with a scene of a kid riding his skateboard, then transitions to a vibrant laundromat filled with quirky characters—a lady carrying a birdcage, some guys with glitter and braids, and more. There’s also this girl who’s clearly frustrated with her boyfriend; she slaps his phone out of his hand to get his attention.
+
+Then, the skateboard kid enters, starts doing laundry, and suddenly becomes the center of attention when the rude girl begins flirting/dancing with him. Meanwhile, at the front of the laundromat stands the band (the lead singer has curly hair), almost like they’re guarding the room as everyone starts dancing wildly. At the end, the kid and the rude girl sneak out together while the party continues behind them.
+
+Can you generate a song that fits this vibe? Something fun, flirty, and full of energy—perfect for a chaotic yet joyful laundromat dance party! Let me know what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've generated a song that fits the vibrant and energetic laundromat dance party concept you described. The lyrics capture key moments from your music video idea, like the skateboard kid, the quirky characters, and the flirty dynamics between the girl and the boy.
+
+Here's what I came up with:
+
+**Tags:** upbeat, pop, catchy, 2014-2015, fun, flirty, energetic, vibrant, dance, retro, youthful
+
+**Lyrics:**
+```
+[verse]
+Skateboard wheels roll down the street
+A kid with a dream and two bare feet
+Laundromat lights, they flicker and glow
+Quirky faces putting on a show
+
+[chorus]
+Oh, we're dancing in the suds tonight
+In this crazy laundromat delight
+Glitter braids and feathers too
+Everyone's here, me and you
+
+[verse]
+There's a girl with fire in her eyes
+Her boyfriend's phone meets an early demise
+But then she sees him, the skateboarding star
+Suddenly he's stealing her heart
+
+[chorus]
+Oh, we're dancing in the suds tonight
+In this crazy laundromat delight
+Glitter braids and feathers too
+Everyone's here, me and you
+
+[bridge]
+The band plays on as the front-line guard
+Curly hair swaying, setting the standard
+Wild moves flying, clothes spinning round
+In this chaotic party town
+
+[chorus]
+Oh, we're dancing in the suds tonight
+In this crazy laundromat delight
+Glitter braids and feathers too
+Everyone's here, me and you
+
+[outro]
+As the night fades to a memory bright
+The kid and the girl sneak out under moonlight
+Laundry forgotten, but who really cares?
+The rhythm stays with us unawares
+```
+
+Press the "generate" button to manually generate the song based on these lyrics and tags. Let me know if there's anything else you'd like to tweak or add!

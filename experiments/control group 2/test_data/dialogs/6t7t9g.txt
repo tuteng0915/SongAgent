@@ -1,0 +1,60 @@
+User : 
+Alright, let me transform this into a generation request for the song agent:
+
+---
+
+Hey song agent! I need you to generate an upbeat, energetic country song in the style of Chris LeDoux, George Strait, or Garth Brooks from the 80s or early 90s. The theme should revolve around rodeos and cowboy life, capturing that classic Western vibe. One key lyric I’d like included is “Houston Dallas Austin and San Anton” — it can be part of a chorus or verse, but make sure it stands out. Keep the tempo faster and lively, something people could line dance to. Can you also include tags so I know what kind of mood and genre we're working with?
+
+--- 
+
+Let’s see what the agent comes up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've set the tags and lyrics for your upbeat, energetic country song in the style of Chris LeDoux, George Strait, or Garth Brooks. The theme captures cowboy life and rodeos, with a key lyric "Houston Dallas Austin and San Anton" included in the chorus. Here's what we came up with:
+
+**Tags:** upbeat, energetic, country, Chris LeDoux, George Strait, Garth Brooks, 80s, 90s, rodeo, cowboy, western, line dance
+
+**Lyrics:**
+
+[verse]  
+Boots on the ground and a hat in my hand  
+Chasin' the sunset across this land  
+The dust in the air and the sweat on my brow  
+This is the life I've been dreamin' of somehow  
+
+[chorus]  
+Houston Dallas Austin and San Anton  
+Ridin' through Texas till the break of dawn  
+With the stars above and the road below  
+A cowboy's heart is all he'll ever know  
+
+[verse]  
+Spurs jinglin', horses neigh  
+Headed to the next big show  
+Livin' for the eight-second ride  
+Where the wild winds blow  
+
+[chorus]  
+Houston Dallas Austin and San Anton  
+Ridin' through Texas till the break of dawn  
+With the stars above and the road below  
+A cowboy's heart is all he'll ever know  
+
+[bridge]  
+The nights are long but the dreams are wide  
+Underneath these vast open skies  
+Every town's a story, every mile's a song  
+And this cowboy's where he belongs  
+
+[chorus]  
+Houston Dallas Austin and San Anton  
+Ridin' through Texas till the break of dawn  
+With the stars above and the road below  
+A cowboy's heart is all he'll ever know  
+
+Press the "generate" button now to create the song!

@@ -1,0 +1,66 @@
+User : 
+Hello, Song Agent! I have a unique request for you. Instead of finding a song based on the details I’m about to share, could you generate an original song that captures the same mood and features? Here’s what I’m envisioning:
+
+- **Mood/Tone**: Low, droning instrumentals with an ethereal quality. The overall atmosphere should feel haunting yet beautiful.
+- **Vocals**: A female vocalist whose style is almost like a chant—soft but commanding, adding to the otherworldly vibe.
+- **Theme/Imagery**: Cinematic storytelling set at night. Think mysterious and surreal visuals:
+  - Children in Victorian-style clothing being rowed down a dark river in a small boat.
+  - A deserted mansion filled with remnants of an extravagant party—broken chandeliers, overturned tables—and lifeless bodies scattered around. Wild animals or dogs prowling through the wreckage.
+  - The singer standing outside under moonlight, her face painted like a skull, exuding both melancholy and power.
+  - At the end, the children are rowed away into the unknown.
+
+Could you create something inspired by these elements? Let me know if anything needs clarification!
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated a song that captures the haunting yet beautiful atmosphere you described, complete with low droning instrumentals and ethereal qualities. The lyrics reflect the cinematic storytelling set at night, incorporating elements such as the children in Victorian-style clothing, the deserted mansion, and the powerful imagery of the singer under moonlight.
+
+The sections of the lyrics are as follows:
+
+```
+[verse]
+Upon the river black as night,
+Children cloaked in pale moonlight.
+A boat that drifts, no oar in sight,
+To realms unseen, beyond the fright.
+
+[chorus]
+Oh, carry me to lands afar,
+Where dead trees stand like notes of tar.
+Beneath the moon's watchful eye,
+We sail away, with nary a sigh.
+
+[verse]
+Through halls once grand, now left to rot,
+Where laughter danced and love was caught.
+Now beasts do roam where guests once sought,
+Their growls echo thoughts distraught.
+
+[chorus]
+Oh, carry me to lands afar,
+Where dead trees stand like notes of tar.
+Beneath the moon's watchful eye,
+We sail away, with nary a sigh.
+
+[bridge]
+Her face adorned, a ghastly grin,
+The mistress calls from deep within.
+With painted skull and eyes so thin,
+She beckons forth, let sins begin.
+
+[chorus]
+Oh, carry me to lands afar,
+Where dead trees stand like notes of tar.
+Beneath the moon's watchful eye,
+We sail away, with nary a sigh.
+
+[outro]
+And as we fade into the haze,
+The river hums its mournful phrase.
+Forever lost, but unafraid,
+The night consumes, our souls displayed.
+```
+
+Please press the "generate" button to manually generate the song.

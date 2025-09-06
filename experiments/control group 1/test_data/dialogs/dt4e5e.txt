@@ -1,0 +1,22 @@
+User : 
+Sure, I can start working on that. Let's begin with the basic structure and theme. How do you envision the overall mood of the song? Should it be more reflective or filled with sorrow?
+Agent : 
+To better understand your preferences, I'll first get some information about what you like.
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, I'll create a song with a reflective and slightly sorrowful mood. This kind of song often resonates well with listeners as it touches on deep emotions.
+
+I will now set the tags for generating this song.
+
+
+Successfully set the parameter tags
+Great! With the tags set, I'll now draft the lyrics for the song. The theme will revolve around reflection and a tinge of sorrow, capturing deep emotions through words.
+
+Let's start with the first draft of the lyrics.
+
+
+Successfully set the parameter lyrics
+The lyrics and the tags for the song have been set. To generate the song, please press the "generate" button.
+
+If you'd like to make any changes or have specific requests for the song, feel free to let me know!

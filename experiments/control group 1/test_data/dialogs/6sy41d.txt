@@ -1,0 +1,16 @@
+User : 
+I would like a song with a high pitched female voice and light guitar or ukulele sounds. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a song with a high pitched female voice and light guitar or ukulele sounds. Let's set the tags for this song.
+
+
+
+Successfully set the parameter tags
+Great! Now, let's generate the lyrics for the song.
+
+
+
+Successfully set the parameter lyrics
+I have generated the lyrics for the song. Please press the "generate" button to manually generate the song.

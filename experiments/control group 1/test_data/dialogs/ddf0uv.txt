@@ -1,0 +1,57 @@
+User : 
+I'm excited to help you create this song! Let's start by focusing on the core theme or emotion you want the lyrics to convey. Since you're aiming for a cowboy-like, rugged feel, should the lyrics tell a story of adventure, heartbreak, or perhaps resilience?
+Agent : 
+That sounds like a great direction! For a cowboy-like, rugged feel, storytelling is key. Let's go with a theme of **resilience**—a story about overcoming challenges and staying true to oneself in the face of adversity. This can include elements of adventure and heartbreak but will ultimately emphasize strength and perseverance.
+
+I'll set the tags and lyrics for this theme. Let me do that now.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the theme and lyrics for your song. It tells a story of resilience, with imagery inspired by rugged landscapes and the enduring spirit of a lone cowboy.
+
+Here are the sections:
+
+**Tags:** rugged, cowboy, resilience, acoustic guitar, slow tempo, heartfelt, storytelling  
+
+**Lyrics:**  
+[verse]  
+Through desert sands and canyon wide,  
+A lone soul rides with nothing but pride.  
+The sun beats down, his shadow fades,  
+But he don't stop, no debts left unpaid.  
+
+[chorus]  
+Oh, hold your ground, you're made of stone,  
+In this wild world, you're never alone.  
+Though the winds howl loud and skies turn gray,  
+Rise again tomorrow, find your way.  
+
+[verse]  
+He lost it all, love turned to dust,  
+Dreams fell apart, yeah, life ain't just.  
+Yet every scar tells what he's worth,  
+A fighter's heart beneath the hurt.  
+
+[chorus]  
+Oh, hold your ground, you're made of stone,  
+In this wild world, you're never alone.  
+Though the winds howl loud and skies turn gray,  
+Rise again tomorrow, find your way.  
+
+[bridge]  
+Mountains crumble, rivers dry,  
+But a man's resolve will never die.  
+With each new dawn, there comes a fight,  
+And hope burns bright even through the night.  
+
+[chorus]  
+Oh, hold your ground, you're made of stone,  
+In this wild world, you're never alone.  
+Though the winds howl loud and skies turn gray,  
+Rise again tomorrow, find your way.  
+
+---
+
+Now that everything is ready, press the "generate" button to create the song!

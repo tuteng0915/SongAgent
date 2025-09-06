@@ -1,0 +1,55 @@
+User : 
+Hey there! I'm looking to generate a high-tempo, pop-punk style song that captures the essence of bands like The Ataris. Here's what I'm thinking:
+
+- **Style & Tempo:** High energy, pop-punk vibe.
+- **Chorus:** Something along the lines of "everything will be alright alright."
+- **Intro:** Starting with lyrics like "go and leave me."
+- **Vocalist:** Younger male singer, probably in his 20s.
+- **Era:** Has that late '90s to early 2000s feel.
+
+Can you help me create a song with these elements? Let's rock it! 🎸
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've set up the song with your preferences for a high-tempo, pop-punk style reminiscent of The Ataris. Here's what the structure looks like so far:
+
+- **Tags:** high-tempo, pop-punk, The Ataris, late 90s, early 2000s, younger male singer, energetic
+- **Lyrics:**
+  - **[Intro]**
+    - Go and leave me
+    - Standing here in the shadows
+  - **[Verse 1]**
+    - I'm caught up in this moment
+    - Can't escape from myself
+    - Every turn I take leads me back
+    - To where I started
+  - **[Chorus]**
+    - Everything will be alright alright
+    - Even when the world is falling apart
+    - We'll find a way to make it through the night alright
+    - With our hearts on fire, we'll light up the dark
+  - **[Verse 2]**
+    - The clock keeps ticking
+    - But time stands still for us
+    - In this crazy game of life
+    - We're just trying to survive
+  - **[Chorus]**
+    - Everything will be alright alright
+    - Even when the world is falling apart
+    - We'll find a way to make it through the night alright
+    - With our hearts on fire, we'll light up the dark
+  - **[Bridge]**
+    - It's not about where you've been
+    - It's where you're going that counts
+    - Let's hit the road and never look back
+  - **[Chorus]**
+    - Everything will be alright alright
+    - Even when the world is falling apart
+    - We'll find a way to make it through the night alright
+    - With our hearts on fire, we'll light up the dark
+
+Now all you need to do is press the "generate" button to create your high-energy pop-punk track! 🎸🔥

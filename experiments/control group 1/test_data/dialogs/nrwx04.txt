@@ -1,0 +1,34 @@
+User : 
+
+the value of the parameter lyrics is: 
+
+ empty
+Sure, I can help with that! Let's start by crafting the chorus based on the emotional and bold vibe you're looking for. Could you clarify if you'd like any specific theme or message in the verses, or should I just go with something that complements the chorus?
+Agent : 
+Sure, let's proceed with creating a song that has an emotional and bold vibe. Since you haven't specified any particular theme or message for the verses, I'll create something that complements the chorus. Let's set some initial tags and lyrics.
+
+I will now set the tags and lyrics for the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags for the song to be emotional, bold, powerful, and dynamic. Here's what I've drafted for the lyrics:
+
+**Chorus:**
+```
+Rise up from the ashes, let your spirit soar,
+In the darkest night, find the lion's roar,
+With every heartbeat, break through the chains,
+Feel the fire burning, ignite the flames.
+```
+
+**Verse:**
+```
+Walking through shadows, where light seldom shines,
+Carrying burdens, yet seeking the signs,
+A whisper of courage amidst all despair,
+Guiding us forward, when hope seems rare.
+```
+
+Please press the "generate" button to manually generate the song. If you need any changes or additional sections, feel free to let me know!

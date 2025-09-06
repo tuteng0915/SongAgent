@@ -1,0 +1,45 @@
+User : 
+Hey there! I’d like you to generate a song based on these details. It’s an upbeat, fast-paced pop song by a female singer, and it would have been released around 2002. The vibe of the song is kind of cold or autumnal, with a music video that features a collage of photos. The chorus has lyrics along the lines of "and life is too shorrrt to something something forrr youuuu." 
+
+Can you create a song that fits this description?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on your description. Here are the sections I've created:
+
+- **Tags**: upbeat, fast-paced, pop, female singer, 2002, cold, autumnal, collage of photos
+
+- **Lyrics**:
+  ```
+  [verse]
+  Walking down these streets
+  Feeling the cold breeze
+  I know it's time to leave
+  But something keeps me here
+  
+  [chorus]
+  And life is too shorrrt to be afraid forrr youuuu
+  We'll dance in the rain, let the world fade to blue
+  
+  [verse]
+  Memories flash by
+  Like pages of a book
+  Each one a little sigh
+  As I try to take a look
+  
+  [chorus]
+  And life is too shorrrt to be afraid forrr youuuu
+  We'll dance in the rain, let the world fade to blue
+  
+  [bridge]
+  In this moment, we're alive
+  Let the pictures tell our story
+  Through the autumn, through the sky
+  We'll find our place in glory
+  ```
+
+Please press the "generate" button to manually generate the song.

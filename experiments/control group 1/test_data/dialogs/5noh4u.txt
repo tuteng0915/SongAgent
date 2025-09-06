@@ -1,0 +1,20 @@
+User : 
+I'm looking for a slow, soulful tune with heartfelt lyrics. Can we start with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, let's create a slow, soulful tune with heartfelt lyrics. I'll go ahead and set the tags and lyrics for this song.
+
+I'll start by setting the tags that will guide the style of the music.
+
+
+Successfully set the parameter tags
+Great! The tags have been set to guide the creation of a slow, soulful, and heartfelt tune. Now let's work on the lyrics.
+
+I'll create a simple structure with a verse, chorus, and bridge section.
+
+
+Successfully set the parameter lyrics
+The lyrics have been set with a verse, chorus, and bridge for our slow and soulful tune. 
+
+Please press the "generate" button to create the song.

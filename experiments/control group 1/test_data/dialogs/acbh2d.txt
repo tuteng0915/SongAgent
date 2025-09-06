@@ -1,0 +1,16 @@
+User : 
+I want a fast-paced metal/rock song with intense energy and some repeated phrases for emphasis. Can you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can start working on that. Since you haven't given your preferences yet, I'll use the default ones.
+
+Next, I will set the tags and lyrics for the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the tags and lyrics for your fast-paced metal/rock song with intense energy and repeated phrases for emphasis. 
+
+Please press the "generate" button to manually generate the song.

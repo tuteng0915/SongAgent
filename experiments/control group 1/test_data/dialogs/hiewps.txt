@@ -1,0 +1,32 @@
+User : 
+I'm looking for a punk/alternative song that starts soft and emotional, then builds up to something louder. It's about a father singing to his son about the son's mother who has passed away. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your requirements. Here are the lyrics:
+
+[verse]
+Daddy's here, little one, don't you cry
+I know you miss her, I do too, every night
+
+[chorus]
+But we'll be okay, you and me
+We'll make it through, just wait and see
+
+[bridge]
+She's watching over us from above
+Her love will guide us, my dear son
+
+[chorus]
+But we'll be okay, you and me
+We'll make it through, just wait and see
+
+[ending]
+Together we stand, hand in hand
+With her love, we'll make our final stand
+
+Now please press the "generate" button to manually generate the song.

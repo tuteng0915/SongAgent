@@ -1,0 +1,12 @@
+User : 
+Hello, song generating agent! I have a unique song idea that I'd love for you to bring to life. I'm looking for an instrumental/shoegaze style track that incorporates an interview clip of an old man sharing his nostalgic memories of Coney Island. The atmosphere should be dreamy and evocative, capturing the essence of days gone by and the charm of Coney Island. Can you generate such a song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the parameters for your unique song idea. The tags reflect the instrumental/shoegaze style with a nostalgic, dreamy atmosphere centered around Coney Island. The lyrics include an interview clip with an old man sharing his memories, integrated into verses and choruses that capture the essence of those bygone days.
+
+You can now press the "generate" button to create your evocative track that brings to life the charm and nostalgia of Coney Island through the recollections of an old man's cherished past. Enjoy the music!

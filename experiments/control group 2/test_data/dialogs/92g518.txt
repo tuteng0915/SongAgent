@@ -1,0 +1,48 @@
+User : 
+Hey there! I'm looking to generate a song that captures a specific vibe. I need it to be soulful, with a male singer who has a powerful, emotive voice—think of someone like a white American singer from the 70s or 80s. The song should feature a harmonica playing a recurring melody that mirrors the chorus. 
+
+The lyrics should include a part that goes something like "woooooooooow girl something something trouble with me noooow" and end with a reflective line about emptiness, maybe something like "have you ever seen such an empty ____." The overall mood should feel raw and emotional, with a touch of nostalgia.
+
+Can you help me create something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on your preferences. Here are the details:
+
+- **Tags:** soulful, male singer, powerful voice, emotive, 70s, 80s, harmonica, recurring melody, chorus, raw emotion, nostalgia
+- **Lyrics:**
+  ```
+  [verse]
+  Woooooooow girl something in your eyes
+  Something I recognize
+  Trouble with me now
+
+  [chorus]
+  Harmonica sings a song so sweet and low
+  A mirror to my soul
+  In this moment, we're whole
+
+  [verse]
+  Walking down these lonely streets at night
+  Underneath the neon lights
+  Searching for a sign
+
+  [bridge]
+  The world spins on without a care
+  But I'm lost in thoughts of you everywhere
+
+  [chorus]
+  Harmonica sings a song so sweet and low
+  A mirror to my soul
+  In this moment, we're whole
+
+  [ending]
+  Have you ever seen such an empty room
+  Echoes of our past, like ghosts in gloom
+  ```
+
+To generate the song, please press the "generate" button. Enjoy the creation of your soulful tune!

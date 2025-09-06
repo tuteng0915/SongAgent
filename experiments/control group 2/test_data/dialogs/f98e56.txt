@@ -1,0 +1,12 @@
+User : 
+Hello, Song Agent! I'm looking to generate a song that captures the essence of an 80s or 90s pop vibe, something you might hear in a shopping mall with semi-synth sounds. The song should feature piano/synth and chimes, creating an up-tempo, bossa nova-like rhythm, reminiscent of "The Girl From Ipanema." It should also have a softer male vocal singing along with the melody. The overall feel should be light and breezy, like a shopping spree soundtrack, but a bit slower than "Vibe" by Cookie Kawaii. Can you help me create this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song with the tags and lyrics that capture the essence of an 80s or 90s pop vibe you're looking for. The lyrics reflect a light and breezy feel, perfect for a shopping spree soundtrack with bossa nova-like rhythm and semi-synth sounds.
+
+To generate the song with these settings, please press the "generate" button. Enjoy your musical creation!

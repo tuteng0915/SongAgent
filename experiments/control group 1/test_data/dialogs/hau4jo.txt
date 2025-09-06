@@ -1,0 +1,27 @@
+User : 
+I'd like to create a song that tells a modern tale of Romeo and Juliet. The chorus should capture their mutual feelings for each other, something like "Romeo is feelin' Juliet and Juliet's feelin' Romeo." Can we start with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, let's create a modern tale of Romeo and Juliet in song form. I'll start by setting the tags that match the theme and then draft some initial lyrics for the chorus based on your input.
+
+Calling the param_setter tool now to set the tags and lyrics.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set the stage with some tags and written a draft for the chorus. Here's what we have so far:
+
+Tags: modern, love, tragic, romance
+
+Lyrics:
+```
+[chorus]
+Romeo is feelin' Juliet and Juliet's feelin' Romeo
+In a world that tries to tear their love apart, they hold on tight
+Through the chaos and the whispers, their hearts beat as one
+Romeo is feelin' Juliet and Juliet's feelin' Romeo
+```
+
+Please press the "generate" button to manually generate the song. Once you hear it, we can work on refining or adding more sections if needed.

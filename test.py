@@ -58,6 +58,7 @@ vd = {
 
 
 def test_single_data(msg, data_id):
+    print(f'test for {data_id} began')
     messages_for_u = [{
         'role': 'user',
         'content': msg
@@ -66,9 +67,10 @@ def test_single_data(msg, data_id):
     messages_for_a = []
 
     dialog_for_saving = []
-    for _ in range(10):
+    for i in range(10):
         for response in user.run(messages_for_u, var_dict=vd):
             ...
+        print(f'test for {data_id} round {i} user responsed')
         if vd['halt']:
             break
         messages_for_u.extend(response)
@@ -80,6 +82,7 @@ def test_single_data(msg, data_id):
         })
         for response in assistant.run(messages_for_a, var_dict=vd):
             ...
+        print(f'test for {data_id} round {i} agent responsed')
         messages_for_a.extend(response)
         curr = '\n'.join(i['content'] for i in response)
         dialog_for_saving.append('Agent : \n' + curr)
@@ -110,7 +113,7 @@ with open('test_data/result.json') as f:
 count = 0
 
 with ThreadPoolExecutor(8) as executor:
-    futures = [executor.submit(test_single_data, i['raw_text'], i['id']) for i in all_data if result[i['id']] >= 25]
+    futures = [executor.submit(test_single_data, i['raw_text'], i['id']) for i in all_data if result.get(i['id'], 0) >= 25]
     for future in as_completed(futures):
         _ = future.result()
         count += 1

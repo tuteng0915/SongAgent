@@ -1,0 +1,40 @@
+User : 
+I want a metal song with orchestral elements, can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a metal song infused with orchestral elements for you. Let's proceed by setting the appropriate tags and crafting some intense lyrics.
+
+I will now set the tags and lyrics for your new song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The metal song with orchestral elements has been crafted. Here are the lyrics:
+
+[Verse]
+In the shadows where heroes fall
+A symphony of silence calls
+War drums pounding, the march begins
+Swords of destiny, the die is cast
+
+[Chorus]
+Rise like fire from the ashes
+With every heartbeat, courage clashes
+The night is ours, we'll make it last
+United we stand, against the past
+
+[Bridge]
+Beneath the skies of burning red
+We forge ahead, though hope may thread
+Our spirits soar on wings of steel
+Echoes ring through valleys deep
+
+[Chorus]
+Rise like fire from the ashes
+With every heartbeat, courage clashes
+The night is ours, we'll make it last
+United we stand, against the past
+
+Please press the "generate" button to create your epic metal song infused with orchestral power.

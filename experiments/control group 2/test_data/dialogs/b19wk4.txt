@@ -1,0 +1,54 @@
+User : 
+Request to the Song Generating Agent:  
+
+I’d like you to generate a song based on these features: It should be an upbeat, triumphant-sounding country song with elements of rock or pop hybridization, reminiscent of something released between 2012-2014. The rhythm is fast and energetic, the kind that would fit into a mall’s “cool music” playlist even though it leans toward country. The song opens with a standout acoustic guitar solo, and the riffs from that solo carry throughout the track. Include lyrics where one line stands out as "Well that's fine by me," but make sure it doesn’t sound like Andy Grammer’s style—keep it more in the country vibe. Let’s see what you can create!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated an upbeat, triumphant country song with rock and pop elements that fits your description. The lyrics feature the line "Well that's fine by me" as requested, and the overall vibe stays true to a country style rather than resembling Andy Grammer's style.
+
+Here’s a preview of the lyrics:
+
+```
+[verse]
+I've been down this road before,
+A one-way ticket to a small town lore.
+But I ain't scared of what's ahead,
+Got my boots on and my hat pulled tight instead.
+
+[chorus]
+Well that's fine by me, I'll take it all in stride,
+With every mountain high, I'll reach the other side.
+These open skies are calling out my name,
+And I'm answering with fire, lighting up the flame.
+
+[verse]
+Guitar strings sing as I drive away,
+From yesterday’s troubles to tomorrow's day.
+No looking back, just dust in my rearview,
+The rhythm of the highway is the only truth I knew.
+
+[chorus]
+Well that's fine by me, I'll ride the stormy weather,
+Through the ups and downs, we’ll be together forever.
+With every sunset fading into night,
+We're chasing dreams under neon lights.
+
+[bridge]
+Oh, the wind is wild and free,
+It whispers secrets only I can see.
+Every heartbeat pounding like a drum,
+This is where I belong, where I'm from.
+
+[chorus]
+Well that's fine by me, let the good times roll,
+With a heart that's brave and an endless soul.
+Underneath the vast and starry dome,
+This life's a journey; our adventures will be home.
+```
+
+Now you can press the "generate" button to manually generate the song! Let me know if you'd like any changes or adjustments.

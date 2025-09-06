@@ -1,0 +1,61 @@
+User : 
+Hello, song generating agent! I have a unique challenge for you. I need you to generate a rock song that matches the following description:
+
+The song should be reminiscent of a childhood memory from Colorado between 2007 and early 2010. It was played on an electronic guitar toy with loud vocals by a male singer, accompanied by drums and guitar music, including prominent guitar chugging.
+
+The lyrics, as far as I can remember, go something like this:
+- First verse: 
+  - (Something, something)
+  - "I'm alive, take a look into my eyes"
+  - (Something something) "gonna take me for a ride"
+
+- Chorus:
+  - "I'm riiiiiding up... I'm riding uuuup!"
+
+- Additional lyrics:
+  - "In your final hour"
+  - "What a way to gooooo."
+
+The first verse starts quietly and then builds up to a louder section. The overall tone is energetic and professional-sounding, not typical for a children's toy.
+
+Can you create a song based on this description? Let's bring back a piece of my childhood memory!
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I have generated a rock song based on your description, capturing the essence of a childhood memory from Colorado between 2007 and early 2010. Here are the lyrics:
+
+[verse]
+I see the sun setting low
+I'm alive, take a look into my eyes
+The excitement that I feel inside
+Gonna take me for a ride
+
+[chorus]
+I'm riiiiiding up... I'm riding uuuup!
+Feel the rush, it's never enough!
+With every step, I'm breaking free
+Riding high where the wild winds blow
+
+[verse]
+In your final hour
+What a way to gooooo.
+Memories they come and go
+But this moment, it will grow
+
+[bridge]
+The mountains echo my refrain
+As I journey through joy and pain
+Together we'll reach for the skies
+Colorado dreams in our eyes
+
+[chorus]
+I'm riiiiiding up... I'm riding uuuup!
+Feel the rush, it's never enough!
+With every step, I'm breaking free
+Riding high where the wild winds blow
+
+Please press the "generate" button to manually generate the song and listen to the piece of your childhood memory brought to life!

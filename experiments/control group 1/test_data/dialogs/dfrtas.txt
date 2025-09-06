@@ -1,0 +1,33 @@
+User : 
+I want a rock song with a male vocalist, and it should be themed for Halloween. Can you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can start working on that. Since you want a rock song with a male vocalist themed for Halloween, I will set the tags to "rock, male vocalist, halloween". Let me prepare the lyrics too.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've prepared a rock song with a male vocalist themed for Halloween. Here are the lyrics:
+
+[verse]
+In the shadows of the night
+Where ghouls and ghosts take flight
+[chorus]
+Halloween, it's here again
+The monsters rise from darkened dens
+[verse]
+The moon is full, casting spells
+The witching hour tolls its bells
+[chorus]
+Halloween, it's here again
+The monsters rise from darkened dens
+[bridge]
+Trick or treat, in disguises
+Mysteries under pumpkin skies
+[chorus]
+Halloween, it's here again
+The monsters rise from darkened dens
+
+Please press the "generate" button to manually generate the song.

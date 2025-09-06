@@ -1,0 +1,43 @@
+User : 
+Hello, song agent! I'm looking to generate a song that captures a specific story and feeling. The song should include the lyric "Left a note by the door" and begin with a girl leaving home in a pickup truck without much notice. As the song progresses, it should recount her journey to fame and eventually reuniting with her parents. The style should evoke nostalgia, reminiscent of popular radio songs, with a touch of country despite me not being a big fan of the genre. Could you help me generate such a song?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that tells the tale of a girl embarking on an adventure to fame and her eventual reunion with family. It captures a nostalgic radio hit style with just a hint of country, as you requested. Here are the sections of the lyrics:
+
+[verse]
+She left a note by the door
+With her dreams packed tight in a pickup truck
+No goodbye, just the open road and the promise of luck
+
+[chorus]
+Chasing stars in the rearview mirror
+Leaving dust on the country border
+Every mile a memory, every song a starter
+On this road to who she is meant to be
+
+[verse]
+Years flew by with the city lights
+Shining bright as she danced through the crowd
+Her name in neon, but her heart stayed down home proud
+
+[bridge]
+Through the tears, through the fame
+Still she hears that old train call her name
+Back to where it all began, to faces that remain the same
+
+[chorus]
+Now she's got stars in her eyes looking back
+To the love that never once lost track
+Of the girl who left but never really went astray
+Coming home, like a long-forgotten melody
+
+[ending]
+They hug her tight under southern skies
+A perfect end where true love lies
+
+Please press the "generate" button to create your song.

@@ -1,0 +1,50 @@
+User : 
+I'd like to create a song with an 80s vibe, can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help you create a song with an 80s vibe. To ensure the song fits your expectations, could you please specify any particular themes or lyrics you'd like included? If not, I'll generate something based on the 80s vibe.
+
+
+Successfully set the parameter tags
+I've set the tags for the song to include "80s, synth-pop, retro". Now let's create some lyrics that match this vibe. 
+
+Here is a draft of the lyrics:
+
+[verse]
+Walking down the neon street,
+Underneath the moonlit sky so sweet,
+Got my Walkman playing tunes so tight,
+Dancing through the night, feeling so right.
+
+[chorus]
+In this 80s world, we'll never fall apart,
+Synthesizers in our hearts, living in a neon paradise,
+Every moment feels like a fantasy ride,
+In this 80s world, where dreams collide.
+
+[verse]
+Neon lights are flashing bright,
+Lost in the rhythm of the night,
+Big hair and denim jackets too,
+Living life with a carefree attitude.
+
+[chorus]
+In this 80s world, we'll never fall apart,
+Synthesizers in our hearts, living in a neon paradise,
+Every moment feels like a fantasy ride,
+In this 80s world, where dreams collide.
+
+[bridge]
+Oh, the arcade games and the VHS tapes,
+Memories captured in time, like vintage postcards,
+Let's take a trip back to when life was simple,
+And every day felt like a brand new adventure.
+
+[chorus]
+In this 80s world, we'll never fall apart,
+Synthesizers in our hearts, living in a neon paradise,
+Every moment feels like a fantasy ride,
+In this 80s world, where dreams collide.
+
+Please press the "generate" button to manually generate the song.

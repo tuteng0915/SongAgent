@@ -1,0 +1,45 @@
+User : 
+Sure thing! Let's get started on crafting that song. I'll kick things off by asking the agent for a moody yet catchy pop song with a female singer, along the lines of Halsey. The theme will be about feeling out of place at a club or party.
+
+I’ll start by requesting:  
+"I want a recent moody pop song with a female vocalist—something introspective but still has energy. Think Halsey vibes."
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+Alright, we've set up the song with a moody pop vibe, featuring a female vocalist, and an introspective yet energetic theme inspired by Halsey. Here's how the lyrics look:
+
+[verse]  
+I walk in, lights flash, but I'm out of sync  
+Heads turn, but I feel like I'm on the brink  
+
+[chorus]  
+Everybody's dancing, but I stand still  
+Caught in a moment, can't shake this chill  
+It's not where I belong, though I try to fit in  
+Lost in the echoes, where do I begin?  
+
+[verse]  
+Neon signs blur, shadows whisper my name  
+The beat is electric, but it feels so tame  
+
+[chorus]  
+Everybody's dancing, but I stand still  
+Caught in a moment, can't shake this chill  
+It's not where I belong, though I try to fit in  
+Lost in the echoes, where do I begin?  
+
+[bridge]  
+Maybe someday, I'll find my place  
+But tonight, I'm just a ghost in this space  
+
+[chorus]  
+Everybody's dancing, but I stand still  
+Caught in a moment, can't shake this chill  
+It's not where I belong, though I try to fit in  
+Lost in the echoes, where do I begin?
+
+Press the "generate" button now to bring the track to life!

@@ -1,0 +1,57 @@
+User : 
+Hello, song generating agent! I have a unique request for you. I'd like you to generate a song that captures the essence of a track I vaguely remember. Here are the details:
+
+- The song should have an atmospheric, almost ethereal quality, with a focus on vocals akin to an a capella style, complemented by subtle background music.
+- It should be performed from the perspective of a female singer.
+- The title must include the word "Rain," and it would be great if it could evoke a similar feeling to Joni Mitchell's work.
+- Keep the duration relatively short, ideally under three minutes.
+
+Could you create something based on these guidelines? Thank you! :)
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on your guidelines. The tags reflect an atmospheric and ethereal quality, with a focus on a capella-style female vocals, complemented by subtle background music. The title of the song includes "Rain" as requested, and the lyrics are inspired to evoke feelings similar to Joni Mitchell's work.
+
+Here’s a preview of the lyrics I’ve generated:
+
+**[verse]**
+In the hush of twilight's glow
+Whispers of the rain I know
+Each droplet sings its ancient song
+Secrets carried, deep and strong
+
+**[chorus]**
+Rain, painting stories on my window pane
+Rain, weaving dreams in the gentle refrain
+I walk with you through misty streets unknown
+With every shower, seeds of hope are sown
+
+**[verse]**
+Clouds converge in a dance so free
+Veiling skies in their mystery
+I hear your voice in every fall
+A symphony where shadows call
+
+**[chorus]**
+Rain, painting stories on my window pane
+Rain, weaving dreams in the gentle refrain
+I walk with you through misty streets unknown
+With every shower, seeds of hope are sown
+
+**[bridge]**
+And when the world is dry and bare
+I'll find the rain, it will still be there
+Echoes linger, soft and warm
+In every storm, there's a soothing calm
+
+**[chorus]**
+Rain, painting stories on my window pane
+Rain, weaving dreams in the gentle refrain
+I walk with you through misty streets unknown
+With every shower, seeds of hope are sown
+
+Please press the "generate" button to manually generate the song.

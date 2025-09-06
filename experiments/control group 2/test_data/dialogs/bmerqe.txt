@@ -1,0 +1,48 @@
+User : 
+Request to the Song Generating Agent:
+
+I would like you to generate a song that starts with a scene of an old man lying in a hospital bed. Suddenly, a woman bursts in, singing "Do you remember" accompanied by a marching band. The song should then transition into flashbacks, perhaps showing scenes of dancing on a hillside, while still featuring the old man in his hospital bed or wheelchair. The overall sound and style should be very similar to Florence and the Machine. 
+
+Please generate this song for me.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated the song based on your request. The tags reflect the emotional storytelling style akin to Florence and the Machine, with elements of a marching band, flashbacks, dancing, and poignant scenes involving an old man in a hospital setting.
+
+Here are the lyrics I've crafted for you:
+
+[verse]
+In the quiet room, an old man lies,
+Memories flicker in his weary eyes.
+A sudden burst, the door flies wide,
+A woman enters with a song to bide.
+
+[chorus]
+Do you remember, do you recall?
+The hills we danced on, the love that was all.
+With every note, the past unfolds,
+A tale of joy, a tale untold.
+
+[verse]
+Flashbacks swirl, like leaves in flight,
+Dancing on the hill under moonlit light.
+Yet here he sits, in his chair so still,
+As she sings her song, defying time's will.
+
+[bridge]
+Marching band joins in the refrain,
+Echoes of laughter, echoes of pain.
+Life's final chapter, yet music remains,
+Binding us close through life's changing lanes.
+
+[chorus]
+Do you remember, do you recall?
+The hills we danced on, the love that was all.
+With every beat, our hearts align,
+In this timeless melody divine.
+
+Please press the "generate" button to manually generate the song.

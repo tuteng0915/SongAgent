@@ -1,0 +1,59 @@
+User : 
+Hey there! I’d like you to generate a song that captures the essence of an "end of an 80's coming of age" vibe. The lyrics should include the line "and the seasons chaaahange!" and it should have a blend of styles as if Elvis were singing an epic Morrissey song. Can you create something with that feel?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song with an "end of an 80's coming of age" vibe, incorporating the lyric line you provided. It blends styles reminiscent of Elvis singing an epic Morrissey song. Here are the tags and lyrics I've set:
+
+**Tags:** 80s, coming of age, epic, Elvis, Morrissey, emotional, rock, ballad
+
+**Lyrics:**
+```
+[verse]
+Walking down the street in my worn-out sneakers
+Leather jacket on, with dreams so much bigger
+In this small town where nothing ever happens
+I feel the world's weight but I carry on dancing
+
+[chorus]
+Oh, and the seasons chaaahange!
+But some things always stay the same
+Underneath the neon lights
+We find our truth, we ignite
+
+[verse]
+Memories echo as we're growing older
+Stories untold, secrets that we hold her
+Every heartbeat is a drum that's calling
+For the courage to keep on falling
+
+[chorus]
+Oh, and the seasons chaaahange!
+But some things always stay the same
+Underneath the neon lights
+We find our truth, we ignite
+
+[bridge]
+And when the night falls
+And all the stars align
+We'll sing our song once more
+With love and pain entwined
+
+[chorus]
+Oh, and the seasons chaaahange!
+But some things always stay the same
+Underneath the neon lights
+We find our truth, we ignite
+
+[outro]
+So let the music play
+As we dance into the greying day
+With every step we take
+Our hearts will never break
+```
+
+Press the "generate" button to manually generate the song.

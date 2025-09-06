@@ -1,0 +1,21 @@
+User : 
+Hey there! I understand you're trying to find a song, but how about we take this intriguing concept and generate a brand-new song instead? Based on your description, it seems like you're looking for a ska-style track with a theme revolving around a dramatic twist: someone discovering their partner is secretly working for the CIA or FBI. The tone seems to mix elements of betrayal, intrigue, and maybe even a bit of humor. Artists like Mighty Mighty Bosstones or Reel Big Fish would likely approach this with high energy and clever lyrics.
+
+So, let’s create something fresh! Can you generate an upbeat ska song with witty lyrics about a person who finds out their significant other is secretly an undercover agent for the CIA or FBI? It should have punchy horns, driving rhythms, and a playful yet slightly suspicious vibe. Let’s channel that fun, theatrical style!
+
+What do you think?
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated the lyrics and set the tags for your ska-style track! The song has a playful yet suspicious vibe, complete with punchy horns, driving rhythms, and clever lyrics about discovering a partner’s secret life as an undercover agent.
+
+Here's a preview of the structure:
+
+- **[verse]** – Sets up the intrigue: “You kissed me goodbye at the break of dawn…”  
+- **[chorus]** – A catchy refrain questioning their loyalty: “CIA or FBI, what’s your undercover lie?”  
+- **[bridge]** – Adds tension with suspicions mounting: “The clues keep piling up…”  
+- **[outro]** – Wraps it up by calling out the double-life charade: “Love shouldn’t come with dossiers…”
+
+Now all that’s left is to bring this concept to life! Press the "generate" button to create the full audio version of the song. What do you think so far?

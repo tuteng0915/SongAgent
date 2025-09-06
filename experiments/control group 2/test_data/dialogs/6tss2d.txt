@@ -1,0 +1,68 @@
+User : 
+Hey there! I’m looking to generate a song based on some specific details I remember. Here’s what I’m thinking:  
+
+It should be in the pop punk genre, reminiscent of bands like Less Than Jake or Goldfinger. The song starts with someone mimicking a phone ringing sound using their voice, and during that ringing noise, there’s dialogue where someone says, “I know she’s home.” After the call is picked up, it turns into a phone conversation where the girl delivers some bad news to the guy—maybe she’s breaking up with him, telling him she cheated, or something along those lines.  
+
+Can you generate lyrics for a song like this? It would also be cool if you could add tags so I can see how it fits within the pop punk style.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated the lyrics and tags for your song based on the details you provided. Here's a breakdown:
+
+### Tags:
+- **pop punk, Less Than Jake, Goldfinger, emotional, breakup, phone call, dialogue, fast-paced, energetic**
+
+These tags reflect the pop punk style with influences from bands like Less Than Jake and Goldfinger, while also emphasizing the emotional and narrative aspects of the song.
+
+### Lyrics:
+
+**[intro]**  
+*imitating phone ringing*  
+"I know she's home."  
+
+**[verse 1]**  
+Hello? Is this real?  
+I heard your voice, it hit like a steal  
+You said you're done, our time's expired  
+But I was blind, thought love was fire  
+
+**[chorus]**  
+The line went dead, but the words still sting  
+She said goodbye, and my heart won't sing  
+Now I'm stuck here with the echoes loud  
+Of promises broken, they never last long  
+
+**[verse 2]**  
+Pick up the pieces, try to move on  
+But every ringtone takes me back home  
+To that moment when honesty cut  
+Like a knife through the fabric of us  
+
+**[chorus]**  
+The line went dead, but the words still sting  
+She said goodbye, and my heart won't sing  
+Now I'm stuck here with the echoes loud  
+Of promises broken, they never last long  
+
+**[bridge]**  
+And if I could rewind, erase that sound  
+Would I change your mind or just fall down?  
+Phone calls end, but scars remain deep  
+In the story of us, there's no receipt  
+
+**[chorus]**  
+The line went dead, but the words still sting  
+She said goodbye, and my heart won't sing  
+Now I'm stuck here with the echoes loud  
+Of promises broken, they never last long  
+
+**[outro]**  
+Click... silence.
+
+---
+
+Press the "generate" button to manually generate the song and hear how it sounds!

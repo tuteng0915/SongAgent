@@ -1,0 +1,63 @@
+User : 
+Request to the Song Generating Agent:
+
+I want to generate a song based on a very specific and eerie concept. The song should revolve around a chilling narrative involving a woman who encounters a mysterious little girl in a wheelchair at a gas station mart. The girl drops a toy, and when the woman tries to return it, she finds herself in a nightmare scenario where she’s forced into a false family role—pretending to be the wife and mother of the people who trapped her. Eventually, she ends up digging her own grave before being buried alive while still singing.
+
+The tone should be haunting, melancholic, and somewhat surreal, with lyrics that capture both her initial confusion and eventual despair. The style can have a dark cinematic feel, reminiscent of gothic or alternative music from before 2015. 
+
+Please include these key elements:
+- A description of the gas station encounter.
+- The moment when she realizes she's trapped in this false life.
+- Her emotions as she digs her own grave and sings through the horror.
+
+Can you create something that fits this mood and storyline?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the tags and lyrics for your requested song. Here's a summary:
+
+- **Tags:** haunting, melancholic, surreal, gothic, alternative, cinematic, dark, eerie, chilling, narrative, despair, confusion, horror, trapped, grave, singing, nightmare, 2010s
+- **Lyrics:**
+  ```
+  [verse]
+  At the gas station mart, a girl in a wheelchair
+  A fallen toy at her feet, so unaware
+  I picked it up with a smile, asked if she was alright
+  Her eyes, they gleamed, under the cold moonlight
+
+  [chorus]
+  Trapped in their web, I'm losing myself
+  In this false life on a cursed shelf
+  Pretend to be wife, pretend to be mom
+  But my soul is screaming, where do I belong?
+
+  [verse]
+  They took me home, their faces so kind
+  But behind closed doors, chains that bind
+  The walls whisper secrets, shadows play their part
+  I'm sinking deeper into this broken heart
+
+  [bridge]
+  Digging my grave, hands bleeding and raw
+  Forced to sing as I face my last straw
+  The melody haunts, like ghosts in the air
+  Each note a tear, each breath a prayer
+
+  [chorus]
+  Buried alive, yet my voice won't die
+  Singing for help beneath the cold sky
+  A nightmare made real, no escape from this place
+  Eternal silence wraps its embrace
+
+  [outro]
+  Still singing softly, though there's no one near
+  My song ascends, carried by fear
+  Through dirt and darkness, it will always remain
+  A haunting echo of my endless pain
+  ```
+
+Please press the "generate" button to manually generate the song based on these settings.

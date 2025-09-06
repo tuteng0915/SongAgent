@@ -1,0 +1,46 @@
+User : 
+Hey there, song agent! I'm looking to generate a song that captures the essence of TLC or Salt n' Pepa's style. The lyrics should tell a story about a guy who's a real player, smooth-talking his way through life. However, the twist is that his reckless lifestyle catches up with him, leading to a tragic end due to something like AIDS. It’s meant to be a cautionary tale wrapped in a catchy, 90s hip-hop vibe. Can you help me create something with this concept?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for a song that tells the story you envisioned, capturing the 90s hip-hop vibe of TLC or Salt n' Pepa with a cautionary tale at its heart. The lyrics portray the rise and fall of a smooth-talking player whose lifestyle ultimately leads to tragedy.
+
+Here are the sections of the lyrics I've prepared:
+
+```
+[verse]
+There once was a player in the game of life,
+Smooth talk on his lips, living with no strife.
+Ladies loved him, his charm was gold,
+But his secrets were many, his heart was cold.
+
+[chorus]
+Playaz ballin', living tall with no falls,
+Till the rhythm of truth catches y'all.
+The choices you make can lead to dismay,
+A lesson learned too late along the way.
+
+[verse]
+He danced through danger, never heeded the signs,
+Infectious whispers where true love declines.
+Love turned lethal, pleasure turned pain,
+The reaper's knocking, can't play no more games.
+
+[bridge]
+Life ain't a game when it slips through your hands,
+Regret's heavy burden, death's reprimands.
+AIDS took its toll, now he pays the price,
+No rewind button, not rolling the dice.
+
+[chorus]
+Playaz ballin', living tall with no falls,
+Till the rhythm of truth catches y'all.
+The choices you make can lead to dismay,
+A story retold in sorrowful relay.
+```
+
+To bring this song to life, please press the "generate" button when you're ready.

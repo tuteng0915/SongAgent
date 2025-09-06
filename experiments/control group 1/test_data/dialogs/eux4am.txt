@@ -1,0 +1,53 @@
+User : 
+Got it! Let me start by checking if you have any specific theme or mood in mind for the song—like is it romantic, sad, or more upbeat?
+Agent : 
+
+the user has not given their preferences yet.
+Sure thing! Since you haven't specified a theme or mood yet, how about we go for something romantic? I'll generate a song with that in mind. Let me set the tags and lyrics for you.
+
+I'll proceed to set the tags and lyrics now.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set the tags and lyrics for a romantic song. Here's what the song will look like:
+
+**Tags:** romantic, heartfelt, emotional, acoustic guitar, soft vocals
+
+**Lyrics:**
+```
+[verse]
+In the quiet of the evening, beneath the starlit sky,
+I found my heart in your eyes, where forever I would lie.
+
+[chorus]
+Love's sweet melody, it carries us away,
+On wings of dreams, through night and day.
+With every beat, with every sigh,
+Together we'll dance under the moonlit sky.
+
+[verse]
+Whispers of time fade away, as moments stand still,
+Hand in hand, we walk this path, our hearts ready to fill.
+
+[chorus]
+Love's sweet melody, it carries us away,
+On wings of dreams, through night and day.
+With every beat, with every sigh,
+Together we'll dance under the moonlit sky.
+
+[bridge]
+And if the world should crumble down,
+Our love will rise, above all sound.
+Through storms and shadows, we'll never part,
+Bound by the strings of a tender heart.
+
+[chorus]
+Love's sweet melody, it carries us away,
+On wings of dreams, through night and day.
+With every beat, with every sigh,
+Together we'll dance under the moonlit sky.
+```
+
+Please press the "generate" button to manually generate the song.

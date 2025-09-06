@@ -1,0 +1,24 @@
+User : 
+I’d like you to create a French pop song with a male and female vocalist trading lines, harmonizing on the chorus, and using "if" followed by rhyming words like "exclusif" and "négatif." The tempo should be medium-slow, reflective, and the title should be one word. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set up the song according to your preferences. The song is titled "Différent" and it's a reflective French pop piece with a male and female vocalist trading lines and harmonizing on the chorus, incorporating rhyming words like "exclusif" and "négatif." 
+
+Here's how the lyrics are structured:
+
+- **[verse 1 - male]** introduces a longing for inclusiveness.
+- **[verse 2 - female]** continues with imagery of dancing with shadows.
+- **[chorus - both]** wonders what could be if things were different, more elusive.
+- **[verse 3 - male]** expresses feelings about the silence between two people.
+- **[verse 4 - female]** contemplates under the complicit midnight sky.
+- **[chorus - both]** repeats the hopeful wondering of change.
+- **[bridge - both]** considers the possibilities that tomorrow may bring.
+- **[chorus - both]** once again ponders the potential for change.
+- **[outro - both]** ends with lingering thoughts.
+
+When you're ready, press the "generate" button to create the song.

@@ -1,0 +1,35 @@
+User : 
+Hey there! I'm looking to generate a song that has a call and response style. The vibe I'm going for is something where they draw out the first "yeahh" and then start saying it faster. It should feel like a classic rock or "oldies" type of track. Can you help me create something like that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help you create that song. Since we're going for a call and response style with a classic rock or "oldies" vibe, let's set some appropriate tags and lyrics.
+
+For the tags, we'll go with: classic rock, oldies, call and response, energetic, upbeat.
+
+Now, for the lyrics, here's a draft:
+
+[Verse]
+Yeahhh...
+Yeah, yeah, yeah, yeah
+Yeah, yeah, yeah, yeah
+
+[Chorus]
+Oh, oh, oh-oh, oh-oh
+Yeah, yeah, yeah, yeah
+Oh, oh, oh-oh, oh-oh
+Yeah, yeah, yeah, yeah
+
+[Bridge]
+Hey now, hey now
+This is our time to shine
+Hey now, hey now
+Let's keep it in rhythm and rhyme
+
+Please press the "generate" button to manually generate the song.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+The tags and lyrics have been set for your classic rock, oldies style call and response song. Please press the "generate" button to manually generate the song.

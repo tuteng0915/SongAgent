@@ -1,0 +1,54 @@
+User : 
+Request to the Song Generating Agent:  
+I'd like you to generate a song based on the following details: It should be in the pop genre with a moderately paced, groovy, and chill vibe—something that feels catchy and fits well within a "Trap" influenced station. The singer should be female, and the chorus needs to include the lyrics "ooooh... owee owee owee owee in the sha-dow" (feel free to adjust the number of 'owees' to make it flow better). Keep the overall tone engaging but laid-back, capturing that memorable and addictive quality. Let's create something that could easily be mistaken for a hit song I might hear during a workout!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your preferences. Here are the details:
+
+- **Tags**: pop, female singer, trap beat, groovy, chill, catchy, workout song, laid-back, engaging, memorable
+
+- **Lyrics**:
+    ```
+    [verse]
+    Walking through the night, feeling so alive
+    Heartbeat in my chest, ready to survive
+    City lights are shining, they light up my way
+    Every step I take is a brand new day
+    
+    [chorus]
+    ooooh... owee owee owee owee in the sha-dow
+    Dancing through the silence, let the rhythm flow
+    ooooh... owee owee owee owee in the sha-dow
+    Feeling so electric, steal the night's glow
+    
+    [verse]
+    Underneath the stars, where dreams come to play
+    Let the music guide us, we'll never fade away
+    Feel the bassline pumping, it's taking control
+    We'll keep moving forward, let it feed our soul
+    
+    [chorus]
+    ooooh... owee owee owee owee in the sha-dow
+    Dancing through the silence, let the rhythm flow
+    ooooh... owee owee owee owee in the sha-dow
+    Feeling so electric, steal the night's glow
+    
+    [bridge]
+    Tonight we own the city, our shadows cast
+    With every heartbeat, memories amass
+    In this moment forever, we'll stay
+    Lost within the magic, till the break of day
+    
+    [chorus]
+    ooooh... owee owee owee owee in the sha-dow
+    Dancing through the silence, let the rhythm flow
+    ooooh... owee owee owee owee in the sha-dow
+    Feeling so electric, steal the night's glow
+    ```
+
+Please press the "generate" button to manually generate the song.

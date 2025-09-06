@@ -1,0 +1,24 @@
+User : 
+I'd like a song with a male singer, an upbeat tempo, and a specific lyric about windows or wind. Can you work on that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song with a male singer and an upbeat tempo, incorporating themes of windows and wind as you requested. Here are the lyrics:
+
+[verse]
+I feel the wind in my hair,
+Racing through the open air.
+Windows down on a sunny day,
+Driving away, far away.
+
+[chorus]
+The wind is calling, setting me free,
+Windows open wide to eternity.
+Every road leads to somewhere new,
+With the wind and windows, life feels so true.
+
+Please press the "generate" button to create the song.

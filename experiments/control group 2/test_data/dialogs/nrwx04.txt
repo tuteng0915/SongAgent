@@ -1,0 +1,24 @@
+User : 
+Alright, let's transform this into a generation request!
+
+---
+
+**Request to the Song Agent:**  
+I need you to generate a song for me. The singer should be female, and the genre is a mix of happy punk, alternative rock, and pop rock. The chorus needs to feel bold and emotionally charged, with lyrics along these lines:  
+
+*"I'd give anything just to hear you say to me that I was right and you were wrong, it's not that hard, go on, go on."*  
+
+Make it catchy, with an upbeat yet slightly edgy vibe that fits the genres mentioned. Can you create something awesome based on this?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've generated the song based on your preferences and instructions! Here's a quick summary:
+
+- **Tags**: Female singer, happy punk, alternative rock, pop rock, bold, emotionally charged, catchy, upbeat, edgy.
+- **Lyrics**: The lyrics include verses, a powerful chorus, and a bridge. The chorus is especially bold and emotionally charged, just like you requested.
+
+To finalize the song generation, please press the "generate" button to create the audio version of the song!

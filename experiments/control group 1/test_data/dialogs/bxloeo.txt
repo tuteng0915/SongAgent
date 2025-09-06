@@ -1,0 +1,32 @@
+User : 
+Sure thing! Let's start by narrowing down the vibe. When you say "black-and-white aesthetic with a disco vibe," are we talking about a fast-paced dance track or something more mellow and mysterious?
+Agent : 
+To better understand your preference, I will use the preference tool to get more information.
+
+
+the user has not given their preferences yet.
+I see you haven't set your preferences yet. No worries! Let's go with a more mellow and mysterious vibe for our black-and-white aesthetic disco track. I'll start by setting the tags to capture this unique blend.
+
+
+Successfully set the parameter tags
+Great! We've set the tags to 'mellow, mysterious, disco, black-and-white aesthetic.' Now, let's craft some lyrics that fit this vibe. Here's a draft:
+
+[Verse]
+Underneath the moon's soft glow,
+Shadows dance, as we both know.
+In a world of monochrome dreams,
+We find our truth in silent screams.
+
+[Chorus]
+Oh, the night is young, and so are we,
+Dancing through the shadows, feeling free.
+Black and white, our colors blend,
+In this disco, where stories never end.
+
+[Bridge]
+Lights flicker, hearts confide,
+In this mysterious place, we hide.
+A touch of mystery, a dash of grace,
+In our mellow disco, we find our space.
+
+Please press the "generate" button to manually generate the song with these settings.

@@ -1,0 +1,36 @@
+User : 
+Hello, song generating agent! I have a fun challenge for you. I'd like you to generate a song that fits the following description:
+
+The song should be in the style of classic pop from the 60s to the 80s, featuring a female vocalist with a light, catchy pop sound. The only lyrics I can recall are "Down, down," so could you incorporate those words into the song? 
+
+Let's create something that captures the essence of that era while being a fresh, new tune.
+
+Can you do that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've tailored a song that embodies the classic pop sound from the 60s to the 80s, complete with a female vocalist's light and catchy touch. Here are the lyrics I've come up with:
+
+```
+[verse]
+Down, down, like a leaf falling to the ground
+Wandering freely without a sound
+
+[chorus]
+Down, down, where the dreams are never found
+In this crazy world, we keep spinning round
+
+[bridge]
+Shadows dance as daylight fades away
+But there's a spark that will always stay
+
+[chorus]
+Down, down, where the dreams are never found
+In this crazy world, we keep spinning round
+```
+
+Now that we have our tags and lyrics ready, please press the "generate" button to create the song.

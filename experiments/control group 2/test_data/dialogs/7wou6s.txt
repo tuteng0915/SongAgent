@@ -1,0 +1,51 @@
+User : 
+Request to the Song Generating Agent:  
+I want you to generate a song that has an 80s vibe with a deep, smokey male voice singing about how you can never go wrong with a certain drink—maybe a martini or margarita—or even just stories of picking up girls. The chorus should sound something like this:  
+*"You can never go wrong, with a dirty old martini."*  
+Let’s create a fun, retro track with those elements!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up a fun, retro track with an 80s vibe featuring a deep, smokey male voice. The song is about the timeless charm of a dirty old martini and includes stories of picking up girls in a neon-lit city. Here are the lyrics I've generated:
+
+[verse]
+I walked into the bar, lights were dim and low,
+A saxophone was playing soft, in this place I know.
+The bartender he winked, as he slid me a glass,
+It's a dirty old martini, time just seemed to pass.
+
+[chorus]
+You can never go wrong, with a dirty old martini,
+In the world of neon shadows, where the nights are plenty.
+You can never go wrong, with a sip so fine,
+In the heart of the city, under neon signs.
+
+[verse]
+She sat at the end of the bar, her eyes locked on mine,
+With a smile so wicked, like a secret sign.
+We talked about old stories, we laughed until dawn,
+And I knew right then, she was the one to spawn.
+
+[chorus]
+You can never go wrong, with a dirty old martini,
+In the world of neon shadows, where the nights are plenty.
+You can never go wrong, with a sip so fine,
+In the heart of the city, under neon signs.
+
+[bridge]
+Oh those nights, they roll and sway,
+In the haze of smoke and music play.
+Where every drink, tells a tale,
+Of romance and adventures that never pale.
+
+[chorus]
+You can never go wrong, with a dirty old martini,
+In the world of neon shadows, where the nights are plenty.
+You can never go wrong, with a sip so fine,
+In the heart of the city, under neon signs.
+
+Please press the "generate" button to manually generate the song. Enjoy the creation of your retro-inspired track!

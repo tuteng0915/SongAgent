@@ -1,0 +1,12 @@
+User : 
+I'd like to create a rock song with a mellow vibe, evoking an underwater, dreamlike atmosphere. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the stage for your rock song with a mellow, underwater dreamlike atmosphere. The lyrics reflect an ambient journey through an oceanic dreamscape. 
+
+Please press the "generate" button to bring this aquatic melody to life.

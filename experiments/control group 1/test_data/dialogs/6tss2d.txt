@@ -1,0 +1,23 @@
+User : 
+I want to create a pop punk song, something like Less Than Jake or Goldfinger. It starts with someone making a phone ringing sound and saying "I know she's home." Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can work with that. Let's create a pop punk song in the style of Less Than Jake or Goldfinger. 
+
+I'll set the tags and lyrics accordingly. Here's what I've come up with:
+
+Tags: pop punk, Less Than Jake, Goldfinger, energetic, upbeat
+
+Lyrics:
+[verse]
+(Sound effect: phone ringing)
+"I know she's home."
+
+Let me set these parameters for you.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I have set the tags and lyrics for your pop punk song. Now you can press the "generate" button to manually generate the song. Enjoy the music!

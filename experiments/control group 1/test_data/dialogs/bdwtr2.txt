@@ -1,0 +1,13 @@
+User : 
+I need to create a song with breaks in the chorus and includes a viral segment. Let's start with the basic theme of the song. What's it about?
+Agent : 
+Sure, let's start by defining the theme of the song. Could you tell me more about what you'd like the song to be about? For example, is there a particular story or emotion you want to convey? 
+
+In the meantime, I'll set some initial tags to get us started.
+
+
+
+Successfully set the parameter tags
+Great! I've set some initial tags for our song: "breaks, viral-segment, emotional, storytelling". 
+
+Once you provide more details about the theme or story of the song, we can refine these tags and start working on the lyrics. What would you like this song to be about?

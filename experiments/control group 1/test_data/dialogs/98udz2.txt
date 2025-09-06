@@ -1,0 +1,42 @@
+User : 
+Sure thing! Let's get started on crafting that love song for you. To kick things off, could you tell me a bit more about the theme or the specific emotions you want to convey in the song?
+Agent : 
+To better understand your preferences and create a love song that truly resonates with you, I'll gather some more information about the style and emotional tone you're aiming for.
+
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, I'll go ahead and create a general outline for a love song. We can always adjust it later based on your feedback.
+
+Let's start by setting some tags that will guide the overall style of the song. For a typical love song, we might consider tags like "romantic", "emotional", "melodic", etc.
+
+I'll go ahead and set these tags now.
+
+
+
+Successfully set the parameter tags
+Great! With the style of our love song set, let's move on to drafting some lyrics. I'll create a basic structure with a verse, chorus, and bridge to get us started.
+
+Here's a preliminary draft:
+
+[verse]
+In the quiet of the night, I think of you
+Every heartbeat sings your name, it's true
+
+[chorus]
+Love like a fire, burning so bright
+Guiding me through the darkest night
+With you, my heart finds its home
+Together we'll never be alone
+
+[bridge]
+Hand in hand, we walk this path
+Every moment feels so vast
+
+Let me know what you think of these lyrics or if there are any specific changes you'd like to make. Once we're happy with the lyrics, we can proceed to generate the music for the song.
+
+
+Successfully set the parameter lyrics
+The lyrics have been set. Now that we have both the tags and the lyrics in place, you can press the "generate" button to create the initial version of your love song.
+
+Once you've listened to it, feel free to provide feedback or request any changes you'd like to make. We can refine the song until it perfectly captures the emotions you're aiming for.

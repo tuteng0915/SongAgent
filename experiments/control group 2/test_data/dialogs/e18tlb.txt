@@ -1,0 +1,35 @@
+User : 
+Hey, song generating agent! I need you to create a song based on these details:  
+
+- The word “girlfriend” should be mentioned frequently in the chorus.  
+- It needs to be a fast-paced rock song with a male singer.  
+- Make sure it has heavy guitar riffs.  
+- The style should lean toward alternative rock.  
+
+Go ahead and generate that for me!
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+Alright, I've set up the song just the way you described. It's a fast-paced rock song with heavy guitar riffs and a male singer, leaning toward alternative rock. The word "girlfriend" is mentioned frequently in the chorus.
+
+Here’s a preview of the lyrics:
+
+**[verse]**  
+I've been searching for a love that's true  
+Everywhere I go, I'm thinking of you  
+Through the highs and the lows, through the wrongs and rights  
+Your laughter's my favorite sound in the night  
+
+**[chorus]**  
+Girlfriend, you're my shining star  
+Girlfriend, no matter who you are  
+With every breath, with all my heart  
+Girlfriend, you set my world apart  
+
+*(...continues)*
+
+Now, press the **generate** button to bring this rocking anthem to life! 🎸🔥

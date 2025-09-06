@@ -1,0 +1,8 @@
+User : 
+Sure, I can help with that. Let's start by specifying the main theme or message you want the lyrics to convey. Should it be about love, freedom, or something else?
+Agent : 
+Great! To better understand your preferences, let's first get an idea of what you generally like in music. I'll fetch your preferences and then we can proceed with setting the theme and generating the song.
+
+
+the user has not given their preferences yet.
+It seems like we don't have your preferences on file yet. To make sure the song aligns with your tastes, could you please share some details? What themes do you enjoy in music (e.g., love, freedom)? Also, do you prefer a specific genre or style? Once I have this information, I'll set the parameters for the song generation.

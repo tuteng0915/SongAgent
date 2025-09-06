@@ -1,0 +1,51 @@
+User : 
+I would like a song with a mild tempo, similar to Enya's style but a bit faster and more cheerful. Could you create something along those lines?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a song with a mild tempo, similar to Enya's style but a bit faster and more cheerful. Let me set the tags and lyrics for this song.
+
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the tags and lyrics for your song. The tags are "mild tempo, Enya style, cheerful, fast" to reflect the desired style. Here are the lyrics:
+
+[verse]
+In the morning light I see
+A world of dreams and fantasy
+With every step that I take
+I find a new path to awake
+
+[chorus]
+Feel the rhythm in my heart
+Dancing to the music's art
+Lift your voice and sing along
+We'll make this world our own song
+
+[verse]
+Through the forest deep and wide
+I wander free with joyful stride
+The sun shines bright above my head
+Guiding me where dreams are led
+
+[chorus]
+Feel the rhythm in my heart
+Dancing to the music's art
+Lift your voice and sing along
+We'll make this world our own song
+
+[bridge]
+Let the melody take flight
+On wings of hope through day and night
+Together we will always be
+In harmony like the rolling sea
+
+[chorus]
+Feel the rhythm in my heart
+Dancing to the music's art
+Lift your voice and sing along
+We'll make this world our own song
+
+Please press the "generate" button to manually generate the song.

@@ -1,0 +1,12 @@
+User : 
+I would like to generate a song that fits the following description: The singer is a woman with a nice voice, and the song has a mild tempo, somewhat similar to Enya's style but a bit faster and more cheerful. The lyrics are mostly unclear, but the chorus sounds like "hooray, hooray" (though that's probably not the exact wording). At the end of the song, the singer says "but now I don't" three times. Could you please create a song based on these features?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The song has been set up with your specified features: a female singer with a mild tempo, in a style similar to Enya's but more cheerful. The lyrics are mostly unclear, featuring a chorus that sounds like "hooray, hooray" and ending with the phrase "but now I don't" repeated three times.
+
+Please press the "generate" button to manually generate the song.

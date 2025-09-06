@@ -1,0 +1,10 @@
+User : 
+I'd be happy to help with that. Let's start by specifying the genre and the overall mood of the song. Since you mentioned it's uptempo, do you have a specific genre in mind, or should I suggest one?
+Agent : 
+To better assist you, let's first determine your preferences. I'll go ahead and fetch those details for us.
+
+
+the user has not given their preferences yet.
+Since we don't have your specific preferences on file, I'll suggest a genre and mood that often works well for an uptempo song. How about an energetic pop song with a positive and uplifting vibe?
+
+If this sounds good to you, I can proceed with generating the lyrics and setting the appropriate tags. If you have another genre or mood in mind, please let me know!

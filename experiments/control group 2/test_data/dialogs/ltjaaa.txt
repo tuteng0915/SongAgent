@@ -1,0 +1,43 @@
+User : 
+Request to the Song Generating Agent:  
+I’d like you to generate a song based on some details I remember from my childhood. The song is about a mother who faces hardships but keeps persevering, finding small treasures like gems or grain for her daughter while walking along the roadside. There might be a line about painful shoes, though I’m not entirely sure. It was performed by a popular female artist and accompanied primarily by a violin. Can you create something in that vein? I’d love it to capture the same emotional depth and beauty of the original memory I have.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for a song that captures the essence of your childhood memory. The song is emotional, with a focus on female vocals and violin accompaniment, telling the story of a mother's perseverance through hardships and her finding small treasures for her daughter. Here are the lyrics:
+
+[verse]
+Walking down the old road,
+With worn-out shoes that hurt so,
+Every step a silent ode,
+To treasures found amidst the dirt and flaws.
+
+[chorus]
+Oh mother, your strength never fades,
+Through every storm, through every shade,
+Finding gems where no one dares to look,
+A testament to love, in the stories that you took.
+
+[verse]
+In the whispers of the wind,
+I hear your gentle voice again,
+Guiding me through paths untold,
+With lessons stitched in threads of gold.
+
+[chorus]
+Oh mother, your strength never fades,
+Through every storm, through every shade,
+Finding gems where no one dares to look,
+A testament to love, in the stories that you took.
+
+[bridge]
+The world may be cruel, unforgiving and vast,
+But within your arms, I was always home at last,
+Though the journey was tough, and the nights were long,
+In your eyes, I saw where I truly belong.
+
+Please press the "generate" button to manually generate the song.

@@ -1,0 +1,51 @@
+User : 
+Hey there! I need your help to generate a song that matches some specific details. Here's what I'm looking for:
+
+I want a pop punk song with an ascending melody in the chorus, and it should have a bit of a whiney tone to it—something that feels emotionally raw. The key lyric I’m imagining is something like **"gonna leave me here on my own"**, which should be central to the chorus. Keep it punchy and energetic, but also reflective of classic pop punk vibes.
+
+Can you create something based on these requirements?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on your preferences. Here's a summary of what you can expect:
+
+- **Tags:** pop punk, ascending melody, whiney tone, emotionally raw, punchy, energetic, classic pop punk vibes
+- **Lyrics:**
+
+```
+[verse]
+Woke up to the sound of silence,
+No one around, feels so violent.
+I'm staring at the ceiling high,
+Wondering if I'll ever fly.
+
+[chorus]
+You're gonna leave me here on my own,
+In this cold world, I'm lost, I'm thrown.
+Every heartbeat's a ticking bomb,
+Gonna leave me here, can't find a home.
+
+[verse]
+Walking down these lonely streets,
+Counting shadows, counting beats.
+I hear your voice in every song,
+But it’s been wrong, it's been so long.
+
+[chorus]
+You're gonna leave me here on my own,
+In this cold world, I'm lost, I'm thrown.
+Every heartbeat's a ticking bomb,
+Gonna leave me here, can't find a home.
+
+[bridge]
+If I could turn back time,
+I'd rewrite every line.
+But you're already gone,
+And I'm left with this song.
+```
+
+Press the "generate" button to manually generate the song. Enjoy the music!

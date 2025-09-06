@@ -1,0 +1,43 @@
+User : 
+Hello, song generating agent! I would like you to create a song for me with the following features: 
+
+- High pitched female voice
+- Light acoustic guitar or ukulele instrumentation
+- Opening lines: "freeeee, whoa oh"
+- Later in the song, include the lyrics: "gets the best of me at nighttt"
+- Decently slow tempo
+
+Please generate a song based on these requirements. Thank you!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your preferences. Here are the tags and lyrics:
+
+Tags: high_pitched_female, acoustic_guitar, ukulele, slow_tempo
+
+Lyrics:
+```
+[verse]
+freeeee, whoa oh
+
+[chorus]
+gets the best of me at nighttt
+
+[verse]
+Underneath the starlit sky,
+Dreams are weaving through my mind.
+Stories told in whispers soft,
+In the quiet, love we find.
+
+[chorus]
+Gets the best of me at night,
+When silence wraps around so tight.
+Thoughts of you, they dance and play,
+In the moonlight's gentle sway.
+```
+
+Please press the "generate" button to manually generate the song.

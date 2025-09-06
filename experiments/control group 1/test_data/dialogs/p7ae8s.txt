@@ -1,0 +1,18 @@
+User : 
+Sure thing! Let's kick things off. Could you tell me more about the theme or message of the song?
+Agent : 
+Sure! To better understand your preferences and create a song that truly resonates with you, I'll need to gather some information. Let's start by identifying the theme or message of the song. Are you looking for something upbeat and energetic, or more mellow and introspective? Any specific topics or emotions you'd like the song to convey?
+
+
+the user has not given their preferences yet.
+Since you haven't specified your preferences yet, I'll go ahead and generate a song with a general theme of love and positivity. If you'd like to adjust the theme or any other aspect of the song, feel free to let me know!
+
+Let's set some initial tags and lyrics for the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the initial tags and lyrics for the song. The theme is centered around love and positivity, with an upbeat and melodic style.
+
+To generate the song based on these settings, please press the "generate" button. If you'd like to make any adjustments or have specific preferences, let me know, and I can modify the song accordingly!

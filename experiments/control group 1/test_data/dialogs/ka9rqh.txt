@@ -1,0 +1,21 @@
+User : 
+I'm looking for a country song with a cowboy theme. It should have a bit of a sad ending. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a country song with a cowboy theme just for you. It tells the tale of a lone cowboy riding through vast plains, reflecting on lost love and dreams under the stars. The song ends on a melancholic note as our cowboy rides off into the sunrise, carrying the weight of his memories.
+
+Here are the sections I've created:
+
+- **[verse]**: Sets the scene with the cowboy riding alongside his faithful horse.
+- **[chorus]**: Celebrates the freedom of the cowboy's life but hints at underlying sadness.
+- **[verse]**: Introduces a reminiscence of past love that haunts the cowboy.
+- **[bridge]**: Explores themes of lost loves and dreams aligned with each shining star.
+- **[chorus]**: Repeats the bittersweet reflection on the cowboy's life.
+- **[outro]**: Concludes with the cowboy continuing his journey alone, accumulating more sorrow with time.
+
+Press the "generate" button to bring this vision to life!

@@ -1,0 +1,34 @@
+User : 
+I'm excited to help you create your song! Let's start by discussing the theme and mood. You mentioned a mellow love song, but could you also tell me if there is a specific message or feeling you'd like to convey?
+Agent : 
+Sure, let's dive into the details. Since you're looking for a mellow love song, I imagine it will have a soft and soothing melody with heartfelt lyrics. To better capture your vision, could you share any specific preferences or elements you'd like included in the song? 
+
+In the meantime, I'll set some initial tags that fit a mellow love song, and we can adjust them based on your input.
+
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+I've set the initial tags for your song to: mellow, love, heartfelt, acoustic, and romantic. These tags will guide the overall style and mood of the song.
+
+Now, let's draft some lyrics based on a mellow love theme. Once we have a basic structure, you can provide feedback or suggest changes. Here’s a starting point:
+
+[Verse]
+In the quiet of the night,
+Your voice is my guiding light,
+Every word, every sigh,
+Fills my world with why.
+
+[Chorus]
+Love like a gentle breeze,
+Carries us through the trees,
+Hand in hand, we'll never part,
+You hold the key to my heart.
+
+[Bridge]
+Through every storm, through every fight,
+With you, everything feels right,
+Our journey's just begun,
+Together, we are one.
+
+Please review these lyrics and let me know if there's anything specific you'd like to add or change. After finalizing the lyrics, remember to press the "generate" button to create your song.

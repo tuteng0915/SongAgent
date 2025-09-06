@@ -1,0 +1,51 @@
+User : 
+Sure thing! Let's start by focusing on the theme of the song. Do you want it to be about love, loss, or something else?
+Agent : 
+That's a great start! Let's go with the theme of **love** for this song. I'll proceed to generate some lyrics and set appropriate tags that align with this theme. Let me handle that now.
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, I'll go ahead and create a song with a general theme of love. Let's set the tags and lyrics accordingly.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags for the song to reflect a love theme, and I've also crafted some fitting lyrics. Here's what we have so far:
+
+- **Tags**: love, romantic, heartfelt, emotional, acoustic
+
+**Lyrics:**
+```
+[verse]
+In the quiet of the night,
+I find your face in every star,
+Every whisper of the wind,
+Carries your name from afar.
+
+[chorus]
+Love like ours will never fade,
+It's written in the skies,
+With every heartbeat, every breath,
+Together we'll never die.
+
+[verse]
+Morning comes too soon,
+Yet I hold you in my dreams,
+Your laughter fills my soul,
+Like rivers to the seas.
+
+[chorus]
+Love like ours will never fade,
+It's written in the skies,
+With every heartbeat, every breath,
+Together we'll never die.
+
+[bridge]
+Through every storm, through every fight,
+Our bond grows stronger still,
+In this world of fleeting moments,
+Our love stands eternal till.
+```
+
+Please press the "generate" button when you're ready to create the song. Feel free to let me know if there’s anything else you’d like to adjust!

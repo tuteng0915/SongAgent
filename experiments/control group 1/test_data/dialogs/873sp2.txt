@@ -1,0 +1,53 @@
+User : 
+I'm looking for a really emotional and kind of sad song. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create an emotional and somewhat sad song for you. To ensure it matches your taste, could you please share some of your music preferences? Like any specific themes, instruments, or styles you enjoy? If not, I'll proceed with a general approach. 
+
+Let's start by setting the tags and lyrics for the song.
+
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set up the lyrics and tags for an emotional and sad song as per your request. Here's a preview of the lyrics:
+
+```
+[verse]
+Tears fall like rain from the sky,
+Each one a memory, a silent goodbye.
+
+[chorus]
+In the silence, I hear your name,
+A whisper carried by the wind's refrain.
+Lost in this world of bittersweet pain,
+Holding on to love, that forever remains.
+
+[verse]
+The night is long, stars hide their glow,
+Moonlight kisses the tears that overflow.
+
+[chorus]
+In the silence, I hear your name,
+A whisper carried by the wind's refrain.
+Lost in this world of bittersweet pain,
+Holding on to love, that forever remains.
+
+[bridge]
+Time may heal, but scars will stay,
+In every shadow, in every shade.
+
+[chorus]
+In the silence, I hear your name,
+A whisper carried by the wind's refrain.
+Lost in this world of bittersweet pain,
+Holding on to love, that forever remains.
+
+[outro]
+Echoes linger, as hearts mend,
+In the quiet, our story never ends.
+```
+
+Please press the "generate" button to manually generate the song.

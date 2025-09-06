@@ -1,0 +1,46 @@
+User : 
+I’d like a song with an emotional arc—starting urgent, moving to happiness, then tension and heartbreak, ending hauntingly. Could you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a song based on the emotional arc you've described. Since I don't have your specific preferences on file, I'll use a general set of tags that fit the emotions you're looking for: urgency, happiness, tension, heartbreak, and haunting. Let's proceed with generating the lyrics and setting the appropriate tags.
+
+I will now set the tags and generate the initial lyrics.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've generated the initial lyrics and set the tags for your song based on the emotional arc you requested. Here's a preview of the sections:
+
+[verse]
+In the quiet of the night, I call your name
+Running through shadows, consumed by the pain
+
+[chorus]
+We rise, we fall together
+In this moment, there's no fear
+Our laughter fills the silence
+And chases all the ghosts so clear
+
+[verse]
+But now the sky is dark and heavy with rain
+Promises broken like fragile glass panes
+
+[chorus]
+Tension grows, hearts collide in vain
+The echoes of love lost, they chain
+
+[bridge]
+Shattered dreams under moonlit skies
+Heartbreak paints a tearful goodbye
+
+[chorus]
+In the haunting whispers of the breeze
+I hear your voice, memories freeze
+
+[outro]
+A lingering specter of what we had
+Haunting steps on a desolate path
+
+Please press the "generate" button to manually generate the song with these settings. Once you're ready, let me know if there are any additional changes or edits you'd like to make.

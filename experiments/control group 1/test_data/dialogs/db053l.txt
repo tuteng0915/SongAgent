@@ -1,0 +1,6 @@
+User : 
+Sure thing! Let's start by specifying the main emotion you want to convey in the song. Should it feel more angry, sad, or something else?
+Agent : 
+
+the user has not given their preferences yet.
+To better tailor the song to your tastes, could you please share what kind of emotion or vibe you're aiming for? For instance, do you prefer it to be more reflective and sad, energetic and happy, or perhaps intense and angry? Your input will guide the creation process. Once I have this information, I'll set the appropriate tags and begin crafting the lyrics.

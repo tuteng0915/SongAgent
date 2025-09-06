@@ -1,0 +1,10 @@
+User : 
+I want to create a song with a cinematic opening, featuring dialogue quotes from a film scene. The first quote should be "I was just in my office and I heard a ruckus," followed by "Could you describe the ruckus?" After that, the music should transition into loud, energetic guitars with intense screaming vocals. Can you generate lyrics and tags for this aggressive rock anthem?
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated the lyrics and tags for your aggressive rock anthem. The tags include "cinematic," "aggressive rock," "intense," "dialogue intro," "energetic guitars," and "screaming vocals." The lyrics feature a cinematic opening with dialogue quotes, followed by intense verses and choruses that capture the aggressive energy of the song.
+
+To generate the song based on these parameters, please press the "generate" button.

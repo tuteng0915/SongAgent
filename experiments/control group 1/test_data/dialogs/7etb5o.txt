@@ -1,0 +1,9 @@
+User : 
+Sure, let's start crafting your song. How about we begin with the vibe and theme? Do you want the song to feel more introspective or energetic?
+Agent : 
+To better understand your preferences, I'll first check what you've liked in the past.
+
+
+
+the user has not given their preferences yet.
+Since I don't have your past preferences, let's decide together! Would you like this song to be more introspective or energetic? And do you have a preferred genre such as pop, rock, or something else? This will help shape the initial tags for our song.

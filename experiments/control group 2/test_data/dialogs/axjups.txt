@@ -1,0 +1,12 @@
+User : 
+Request to the Song Generating Agent:
+
+I would like you to generate a song that blends R&B, pop, and psychedelic soul, capturing the essence of the late 1960s to early 1970s. The song should be upbeat and catchy, reminiscent of "September" by Earth, Wind & Fire. It should feature a deep male voice singing the lyrics "can you dig it baby," supported by female backup vocalists. The overall feel of the song should be beautiful and vibrant, with a touch of Marvin Sease's style in the male vocals. Let's create something that could have been played at a lively dance party from that era. Please include suitable tags for the song as well.
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song with a blend of R&B, pop, and psychedelic soul, capturing the vibrant essence of the late 1960s to early 1970s. The lyrics feature the upbeat and catchy vibe you're looking for, with a deep male voice singing "can you dig it baby" supported by female backup vocalists. This creation is reminiscent of a lively dance party from that era, inspired by the styles of Earth, Wind & Fire and Marvin Sease.
+
+Now, please press the "generate" button to manually generate the song. Enjoy this beautiful and soulful journey back in time!

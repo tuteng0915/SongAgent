@@ -1,0 +1,12 @@
+User : 
+Hello, song generating agent! I'd like you to create a song for me that captures the essence of the 80s with its synth-driven verses, evoking a somewhat gloomy atmosphere. As we move into the chorus, I want the singer to really belt out the words "I can feeeel you" in a voice reminiscent of Kenny Loggins when he sang Danger Zone – perhaps a bit hoarser to add an edge. The song should be a rock anthem, done in the new wave style, similar to the Top Gun soundtrack's energetic and powerful vibe. Can you generate this song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated the song based on your preferences for an 80s synth-driven rock anthem with a gloomy yet powerful atmosphere, akin to the Top Gun soundtrack and Kenny Loggins' style. The lyrics are crafted to build up to a chorus where the singer can belt out "I can feeeel you" with a hoarse edge, capturing that intense emotional delivery you're looking for.
+
+Please press the "generate" button to manually generate the song and hear how these elements come together in a new wave style track.

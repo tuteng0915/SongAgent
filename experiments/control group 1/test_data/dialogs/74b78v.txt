@@ -1,0 +1,10 @@
+User : 
+Sure thing! Let's start by specifying the main theme or emotion you'd like the song to convey. Should it be about love, loss, adventure, or something else?
+Agent : 
+To better understand your preferences and create a song that truly resonates with you, I'll gather some information on what you enjoy. Let's start by getting your preferences.
+
+
+the user has not given their preferences yet.
+It seems like we're starting from scratch. No problem at all! Let's define the theme or emotion for your song. Do you want it to express love, narrate an adventure, convey a sense of loss, or perhaps something entirely different? Your choice will guide the lyrics and the mood of the music.
+
+Once you provide a theme, I'll generate some sample lyrics and set the appropriate tags to match the style and emotion you're aiming for. Just let me know what direction you'd like to take!

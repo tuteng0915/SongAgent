@@ -1,0 +1,56 @@
+User : 
+Request to the Song Generating Agent:  
+I’d like you to generate a pop song that feels energetic and vibrant, capturing the essence of a magical night in a theatre where different eras come alive through dance. Picture "dance battles" between iconic styles—like swing dancers facing off against hip-hop crews—all set against the backdrop of an enchanted, glowing stage. The lyrics should reflect this clash and celebration of cultures, blending retro vibes with modern beats. The song needs to feel cinematic yet radio-ready, pulsing with rhythm and excitement. Let’s create something that tells this story while getting people on their feet!  
+
+Can you generate that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated the song based on your request. Here are the tags and lyrics:
+
+Tags: pop, energetic, vibrant, magical, theatre, dance battles, swing, hip-hop, retro, modern, cinematic, radio-ready, rhythm, excitement
+
+Lyrics:
+```
+[verse]
+In the heart of the night where the stage lights gleam,
+A portal to the past in a timeless dream,
+From jazzy steps to the beats so tight,
+The rhythm takes us on a thrilling flight.
+
+[chorus]
+Feel the magic in the air tonight,
+Dance through centuries under neon light,
+Swing meets hip-hop in a dazzling fight,
+We're the stars of this enchanted night.
+
+[verse]
+Under the glow where history's alive,
+Retro vibes and modern souls collide,
+In this theatre, every move's a story untold,
+Eras clashing yet blending gold.
+
+[bridge]
+Every step a brushstroke painting time,
+In this dance of shadows intertwining rhyme,
+Together we rise as the music ignites,
+A symphony of cultures bathed in moonlight.
+
+[chorus]
+Feel the magic in the air tonight,
+Dance through centuries under neon light,
+Swing meets hip-hop in a dazzling fight,
+We're the stars of this enchanted night.
+
+[outro]
+As the curtain falls, the echoes remain,
+An eternal celebration defying restraint,
+On this glowing stage where legends ignite,
+The spirit of dance carries us into the night.
+```
+
+Please press the "generate" button to manually generate the song.

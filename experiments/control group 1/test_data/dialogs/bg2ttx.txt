@@ -1,0 +1,34 @@
+User : 
+I want a song that feels like the transition from being a kid to an adult, with a pop and rap style. Can you start by giving me something with a dreamy and playful intro?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help with that. Since you're looking for a song that captures the transition from childhood to adulthood with a pop and rap style, and you want it to start with a dreamy and playful intro, I'll go ahead and set those tags for you.
+
+I'll also draft some lyrics that fit this theme.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set the tags to reflect a pop and rap style song with a dreamy and playful intro that represents the transition from being a kid to an adult. Here are the lyrics I've drafted so far:
+
+[intro]
+Dreams in my eyes, chasing the skies
+Life's a playground, where imagination flies
+
+[verse]
+Step by step, we grow up too fast
+Holding onto memories from the past
+Running through fields, climbing every tree
+Innocence fading, reality calling me
+
+[chorus]
+We're kids at heart, never wanna let go
+Reaching for stars, even when they don't show
+Riding the waves of change, setting our sails
+From storybooks to life tales
+
+[rap]
+
+Now you can press the "generate" button to create the initial version of the song. Once you have it, we can continue refining or extending it as you wish.

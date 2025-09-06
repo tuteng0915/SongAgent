@@ -1,0 +1,26 @@
+User : 
+I want a song that has a classic g-funk/rap/hip-hop vibe, something like "Forgot About Dre." Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up a song with a classic G-funk/rap/hip-hop vibe, complete with tags to capture that "Forgot About Dre" essence. Here's a preview of the lyrics:
+
+[verse]
+Rollin' down the street in my '64
+Feelin' like a player, got my swagger on the floor
+Got the beats bumpin', system's got the bass
+Cruisin' through the hood, got a smile on my face
+
+[chorus]
+This is the sound that makes you nod your head
+The rhythm's got you hooked, it's the G-funk thread
+We keep it real, keep it funky, keep it fresh
+With every single word, we're makin' it the best
+
+...and there's more!
+
+To hear this tune come to life, press the "generate" button now.

@@ -1,0 +1,8 @@
+User : 
+Sure thing! Let's start by confirming the genre and style. Would you like this song to be purely comedic with a light-hearted tone throughout, or should it have some serious undertones?
+Agent : 
+To better understand your preferences, I'll first get the details on what you generally like in a song.
+
+
+the user has not given their preferences yet.
+It seems like we don't have your preferences on file yet. Could you please specify if you'd like the song to be purely comedic with a light-hearted tone throughout, or should it have some serious undertones? This will help guide the creation process.

@@ -1,0 +1,57 @@
+User : 
+Hey there! I need your help to generate a song based on some details I have. It’s not about finding an existing song but creating something new that matches the vibe I’m looking for. Here’s what I’m thinking:
+
+I want you to generate a catchy, indie-style Christmas song with a prominent brass or trumpet hook. The singer should be female, and the song should feel upbeat and modern, yet festive. The chorus should repeat “Merry Christmas” several times to make it super memorable. Think of a melody that could easily get stuck in someone’s head while shopping in a trendy store like Free People.
+
+Can you work your magic and create this for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the perfect vibe for your original Christmas song based on your preferences:
+
+**Tags:** indie, christmas, brass, trumpet, female singer, upbeat, modern, festive
+
+**Lyrics:**
+```
+[verse]
+Walking down the snowy lane,
+Christmas lights in every pane,
+I can feel it in the air,
+Magic's everywhere
+
+[chorus]
+Merry Christmas, Merry Christmas,
+Let the bells ring out,
+Merry Christmas, Merry Christmas,
+With joy there's no doubt,
+
+[verse]
+Underneath the mistletoe,
+With you is where I want to go,
+Let's dance the night away,
+In this winter ballet
+
+[chorus]
+Merry Christmas, Merry Christmas,
+Let the bells ring out,
+Merry Christmas, Merry Christmas,
+With joy there's no doubt,
+
+[bridge]
+Oh oh oh, hear the children sing,
+Fa la la, welcome winter's king,
+Deck the halls with love and cheer,
+Christmas time is here
+
+[chorus]
+Merry Christmas, Merry Christmas,
+Let the bells ring out,
+Merry Christmas, Merry Christmas,
+With joy there's no doubt,
+```
+
+Press the "generate" button now to create your catchy, indie-style Christmas song featuring a memorable brass or trumpet hook and a festive female vocal performance. Enjoy the music! 🎄🎶

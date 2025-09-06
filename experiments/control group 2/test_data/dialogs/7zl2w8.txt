@@ -1,0 +1,40 @@
+User : 
+Hello, Song Agent! I’d like to request a song that captures a specific vibe and structure. Here’s what I’m looking for:
+
+The track should open with dialogue quotes from a film scene. Specifically:  
+- First quote: *"I was just in my office and I heard a ruckus."*  
+- Second quote: *"Could you describe the ruckus?"*  
+
+Immediately following the dialogue, the music should kick in hard with loud, energetic guitars—think raw, powerful rock instrumentation. If possible, include intense screaming vocals to amplify the chaotic and explosive mood.
+
+Can you generate lyrics and tags for this concept? Let’s call it an aggressive rock anthem with cinematic flair!  
+
+Looking forward to seeing what you come up with!
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a concept for your aggressive rock anthem with cinematic flair. The song features an intense dialogue intro followed by powerful instrumentation and screaming vocals, capturing the chaotic and explosive mood you requested.
+
+Here’s a preview of the lyrics:
+
+**[intro]**  
+*"I was just in my office and I heard a ruckus."*  
+*"Could you describe the ruckus?"*
+
+**[verse 1]**  
+Chaos reigns, the world's undone,  
+Echoes scream when all is said,  
+Voices clash, the battle's won,  
+In the eye of storm, we tread.  
+
+**[chorus]**  
+Ruckus in the night, thunder shakes the ground,  
+Fury in the air, where silence used to be found.  
+Scream it out loud, let the chaos take its crown,  
+This is our war cry, hear the shadows drown.  
+
+*(... continued with additional verses, choruses, and a bridge)*
+
+Now that the tags and lyrics are ready, press the "generate" button to create the track! Let me know if there’s anything else you’d like to tweak or extend.

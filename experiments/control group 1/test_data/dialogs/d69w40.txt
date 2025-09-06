@@ -1,0 +1,30 @@
+User : 
+Hello, Song Agent! I need a piano-based interlude song with a dialogue about cultivating meaning in life, likened to roses. Can you work on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create that for you. To ensure the song fits your tastes, could you please provide your preferences? Once I have those details, I'll set the tags and lyrics accordingly.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set the tags and lyrics for your piano-based interlude song featuring a dialogue about cultivating meaning in life, likened to roses. Here's a preview of the lyrics:
+
+[verse]
+In the garden of life, we toil and sow
+Cultivating dreams in the soil below
+
+[chorus]
+Oh, roses of meaning, bloom so bright
+Through trials and shadows, find your light
+
+[verse]
+Each petal a story, each thorn a test
+In the heart of the rose, we find our rest
+
+[bridge]
+Life and meaning entwined, like roots deep in clay
+Nurture the flower that blooms today
+
+Please press the "generate" button to manually generate the song.

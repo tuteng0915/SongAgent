@@ -1,0 +1,42 @@
+User : 
+I need a song that captures a haunting yet beautiful atmosphere with low, droning instrumentals and ethereal qualities. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I have set the parameters for your song to capture that haunting yet beautiful atmosphere with low droning instrumentals and ethereal qualities. Here are the lyrics I've generated:
+
+[verse]
+Shadows fall where silence reigns
+Whispers echo through the plains
+A spectral dance in moonlit glow
+Secrets linger, none will know
+
+[chorus]
+Haunting beauty fills the air
+Drones of sorrow, beyond compare
+Ethereal dreams in shadows cast
+Bound by night, forever vast
+
+[verse]
+Voices call from realms unknown
+In twilight's grasp, they've overgrown
+The echoes weave a mournful tune
+Beneath the watchful, pale-lit moon
+
+[chorus]
+Haunting beauty fills the air
+Drones of sorrow, beyond compare
+Ethereal dreams in shadows cast
+Bound by night, forever vast
+
+[bridge]
+In liminal spaces, we dwell
+Where heaven and earth entwine and swell
+An endless night, a timeless tale
+Of spectral wonders, frail and pale
+
+Please press the "generate" button to manually generate the song.

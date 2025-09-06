@@ -1,0 +1,50 @@
+User : 
+Sure, I can help with that. Let's start by specifying the genre and mood of the song. Would you say this song is more pop or more bossa nova?
+Agent : 
+To better understand your preferences, I'll first call the preference tool.
+
+
+the user has not given their preferences yet.
+It seems like we haven't set any preferences yet. Since you're considering between pop and bossa nova, let's go with a blend of both genres to create something unique. I'll set the genre tag to "pop, bossa nova" for now. If you'd like to adjust this or add more details such as mood or tempo, please let me know!
+
+
+Successfully set the parameter tags
+Great! We've set the genre tags to "pop, bossa nova." Now, let's work on the lyrics. Here's a basic structure for the song:
+
+[verse]
+In the morning light I see your smile
+It warms my heart and makes me dial
+The number that I know by heart
+To hear your voice before I start
+
+[chorus]
+Oh, how I love you so
+In this world of fast-paced woe
+You're my calm in the stormy weather
+Together we'll last forever
+
+[verse]
+Evening comes with stars above
+Thinking of you fills me with love
+I'll send a kiss through the air tonight
+Hoping it reaches you alright
+
+[chorus]
+Oh, how I love you so
+In this world of fast-paced woe
+You're my calm in the stormy weather
+Together we'll last forever
+
+[bridge]
+Every beat, every rhythm we share
+In this dance of life, you're always there
+With every step, with every sway
+Our hearts sing in perfect ballet
+
+[chorus]
+Oh, how I love you so
+In this world of fast-paced woe
+You're my calm in the stormy weather
+Together we'll last forever
+
+Please press the "generate" button to manually generate the song based on these lyrics and tags. If you want any changes or additions, feel free to let me know!

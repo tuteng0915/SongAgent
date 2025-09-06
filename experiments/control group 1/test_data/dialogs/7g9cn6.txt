@@ -1,0 +1,29 @@
+User : 
+I need a song with a spoken-word intro where a guy vents about being hurt by a girl. He's angry and talking over guitar strumming for about 15 seconds. The song should be angsty, reflecting betrayal but also reclaiming power. Can you create this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song with an angsty vibe, capturing feelings of betrayal and reclaiming power. It starts with a spoken-word intro where the guy vents his anger over guitar strumming for about 15 seconds. Here's a snippet of what the lyrics look like:
+
+[spoken-word intro]
+You think you can just walk all over me?
+I gave you everything, trusted you with my soul,
+and this is how you repay me?
+
+[chorus]
+Broken promises, shattered dreams,
+Your deceitful whispers cut deeper than it seems.
+But I rise from the ashes of your lies,
+Stronger than ever, watch me fly.
+
+[verse]
+The scars you left are fading now,
+Pain turns to power, I'll show you how.
+Every heartbeat fuels my fire,
+In the end, you'll see I'm the one who's higher.
+
+Press the "generate" button to manually generate the song based on these settings.

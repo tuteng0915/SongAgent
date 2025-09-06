@@ -1,0 +1,26 @@
+User : 
+Sure thing! Let's start by specifying the theme or message you want the rap song to convey. Should it be about overcoming challenges, celebrating success, or something else?
+Agent : 
+To better understand your preferences and create a rap song that truly resonates with you, I'll gather some information first.
+
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, I'll create a rap song with a general theme of overcoming challenges. This is a common and powerful message in rap music. Let me know if you'd like to adjust the theme or any details!
+
+I'll now set the tags and lyrics for our rap song.
+
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for your rap song with a theme of overcoming challenges. Here's a summary of what we have:
+
+- **Tags**: rap, overcoming challenges, inspirational, urban, determined
+- **Lyrics**:
+  - Verse: Talking about waking up every day with a purpose, facing obstacles head-on.
+  - Chorus: A message of rising from the ashes, reaching for the sky, and paving one's way with hope.
+  - Bridge: Every setback is a setup for a major comeback, standing tall against the world.
+
+Now that everything is ready, please press the "generate" button to manually generate the song. Once you do this, the system will create your custom rap track based on these settings. Enjoy the music!

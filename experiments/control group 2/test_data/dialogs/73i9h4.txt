@@ -1,0 +1,19 @@
+User : 
+Hey there! I need your help to generate a song based on some specific requirements. Here's what I'm looking for:
+
+I want to create a punk song that captures the energy of Oktoberfest 2010 in Munich. The theme should revolve around a cheating girl named Rosie. Despite the betrayal, the song should be upbeat and party-like, reminiscent of a big hit in Germany from a few decades back.
+
+Can you generate something like that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the parameters for your song based on the requirements you provided. Here's a summary of what we've configured:
+
+- **Tags**: Punk, upbeat, party, betrayal, Oktoberfest, Munich, 2010, cheating, Rosie, Germany, nostalgic, hit
+- **Lyrics**: The lyrics capture the energy of Oktoberfest in Munich with an upbeat and party-like vibe, despite the theme revolving around a cheating girl named Rosie. 
+
+Remember to press the "generate" button to manually generate the song. Let me know if there are any other changes or additions you'd like to make!

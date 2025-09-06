@@ -1,0 +1,44 @@
+User : 
+Hey there! I need your help to generate a song that reminds me of kids or teenage years, specifically involving school. The vibe should be something from around 2010-2014, and it would be great if the intro could feel familiar, like it's been used in multiple songs before. Let's create something that captures those nostalgic vibes of youth and school life! Can you work your magic and come up with some lyrics and tags for this kind of song?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that should resonate with the nostalgic vibes of youth and school life from the 2010-2014 era. Here are the lyrics I came up with:
+
+[verse]
+Woke up to the sound of my old alarm clock
+Pages of my textbook waiting to be unlocked
+Backpack on my shoulder, yeah, I'm ready to go
+To a place where dreams are born, and we all grow
+
+[chorus]
+Oh, these are the days that we won't forget
+Chasing our dreams, no regrets
+In this classroom, we find our way
+Learning lessons every day
+
+[bridge]
+Remember scribbling notes in the margins
+Laughing 'bout the things we did last weekend
+Friends by our side, through thick and thin
+This is our time, let the memories begin
+
+[chorus]
+Oh, these are the days that we won't forget
+Chasing our dreams, no regrets
+In this classroom, we find our way
+Learning lessons every day
+
+[outro]
+So here's to the friends and the times we've had
+To the future we dream of, it's not so bad
+With a little bit of hope and a lot of fun
+We'll keep moving forward, till our journey's done
+
+The tags for this song are set to capture the essence of those years: nostalgia, school, youth, 2010-2014, pop, acoustic, catchy, upbeat.
+
+To generate the music for this song, please press the "generate" button.

@@ -1,0 +1,34 @@
+User : 
+I'm excited to help you with that! Let's start by clarifying a few details. What kind of mood or emotions should the song primarily convey?
+Agent : 
+To better understand your preferences and create a song that truly resonates with you, I'll be asking a few questions. 
+
+Let's start by setting the mood of the song. Do you prefer something more upbeat and energetic, or would you like it to be slow and melancholic?
+
+
+the user has not given their preferences yet.
+It seems like we haven't received any specific preferences yet. No worries! Let's proceed with a general approach.
+
+We'll aim for a song that is upbeat and energetic, which often appeals to a wide range of tastes. If you have any specific themes or emotions in mind, feel free to share them now.
+
+
+Successfully set the parameter tags
+Great! We've set the initial tags for our song to be "upbeat, energetic, pop, catchy, vibrant."
+
+Now, let's generate the lyrics. I'll create a basic structure with a verse, chorus, and bridge. 
+
+Here’s a draft:
+
+[verse]
+Walking down the street, feeling so free,
+Sunshine on my face, living life happily.
+
+[chorus]
+We'll dance under the stars, feel the rhythm in our hearts,
+Every moment's a celebration, let the music start.
+
+[bridge]
+In this journey, we find our way,
+With every step, a brighter day.
+
+Please press the "generate" button to manually generate the song based on these lyrics and tags. If you have any changes or additional requests, let me know!

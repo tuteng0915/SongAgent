@@ -1,0 +1,54 @@
+User : 
+Sure thing! Let's start by specifying the theme or story you'd like the song to tell. A love story, perhaps, or an uplifting message?
+Agent : 
+That sounds wonderful! For a song that tells a story or conveys a specific theme, I would recommend considering the emotions and imagery you want to evoke. Since you mentioned a love story or an uplifting message, let's focus on an uplifting love story theme.
+
+To ensure the song fits well with your vision, I'll set some tags that align with this theme. Then, I will draft some initial lyrics that can be adjusted later based on your feedback.
+
+Let me go ahead and set the parameters for our song.
+
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+Great! I've set the tags for our song to include "uplifting, love, acoustic, romantic, hopeful, emotional." These tags will guide the style and mood of the song.
+
+Now let's draft some lyrics for the song. Here's a basic structure with verses, a chorus, and a bridge:
+
+[verse]
+In the morning light, I see your face
+Every little thing falls into place
+With you near me, all my fears erase
+Our love's a timeless embrace
+
+[chorus]
+Together we'll soar, higher than before
+Love ignites, like never felt before
+Through every storm, we'll find our way
+With you, every day feels like May
+
+[verse]
+Walking hand in hand under starry skies
+Whispering secrets where eternity lies
+In this journey, it’s you I realize
+A perfect love that never dies
+
+[chorus]
+Together we'll soar, higher than before
+Love ignites, like never felt before
+Through every storm, we'll find our way
+With you, every day feels like May
+
+[bridge]
+When shadows fall, and hope seems far
+I hold on tight to who we are
+For in my heart, shines our guiding star
+Leading us home, wherever we are
+
+[chorus]
+Together we'll soar, higher than before
+Love ignites, like never felt before
+Through every storm, we'll find our way
+With you, every day feels like May
+
+Please review these lyrics, and once you're ready, press the "generate" button to create the song. Afterward, you can provide feedback if any adjustments are needed.

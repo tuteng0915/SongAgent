@@ -1,0 +1,24 @@
+User : 
+I want a fun, upbeat song with a twist of mystery and humor. Think you can whip something up?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a fun and upbeat song with a dash of mystery and humor, as you requested. Here's a sneak peek of the lyrics:
+
+[verse]  
+In the shadows of the night, looking for a clue to find  
+
+[chorus]  
+We dance under moonlight, with laughter we unwind  
+
+[bridge]  
+Tick-tock goes the clock, but we don't care about time  
+
+[chorus]  
+We dance under moonlight, with laughter we unwind  
+
+Press the "generate" button to bring this whimsical tune to life!

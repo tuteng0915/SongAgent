@@ -1,0 +1,11 @@
+User : 
+Sure thing! Let's get started on creating your song. I'll go ahead and generate something based on what you've told me so far. 
+
+
+
+the value of the parameter tags is: 
+
+ empty
+It seems like we need to add more details before we can generate the song. What kind of theme or mood are you looking for in the song? Happy, sad, romantic?
+Agent : 
+Sure, let's define the theme and mood of the song. Could you please specify what kind of atmosphere you want the song to have? For example, do you prefer it to be uplifting and energetic, or perhaps more introspective and mellow? Once I have a better idea, I can generate something that fits your vision.

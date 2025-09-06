@@ -1,0 +1,22 @@
+User : 
+Hey there! I'm looking to generate a song that matches some specific features. The song should have a highish-pitched vocal line with the lyrics "daaaaance, baby let's dance," followed by violins. It should be light and airy, reminiscent of an 80s sound but not limited to that decade. The style is group singing, somewhat similar to "Come on Eileen" by Dexys Midnight Runners. Can you help me create something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on your preferences. It will feature a high-pitched vocal line with lyrics that say "daaaaance, baby let's dance," followed by violins. The style is light and airy, reminiscent of an 80s sound, but it also incorporates elements from other decades. The song is designed to be performed in a group singing style, similar to "Come on Eileen" by Dexys Midnight Runners.
+
+Here are the lyrics:
+[verse]
+daaaaance, baby let's dance
+[chorus]
+with the violins and the rhythm so sweet
+we'll dance all night until our feet can't keep beat
+[bridge]
+light and airy like a summer's breeze
+the music takes us back with memories
+
+Please press the "generate" button to manually generate the song.

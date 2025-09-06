@@ -1,0 +1,32 @@
+User : 
+I'd love to create a song with that early 2000s folksy acoustic vibe. Can we start with some basic lyrics that capture nostalgia and mention Cuba or Che Guevara?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up some basic lyrics that aim to capture the nostalgic and folksy vibe you're looking for, with mentions of Cuba and Che Guevara. Here's what we have so far:
+
+```
+[verse]
+In the shade of a worn-out hat
+Dreaming 'bout the roads we've sat
+Che's shadow on the wall
+In Havana's echoing hall
+
+[chorus]
+Oh the stories in the air
+Of revolution everywhere
+With a spirit that won't fade
+In the dance of every serenade
+
+[bridge]
+From the hills to old cuba's shore
+Memories forever soar
+Carried on a gentle breeze
+Whispered in the mango trees
+```
+
+When you're ready, press the "generate" button to create the song.

@@ -1,0 +1,26 @@
+User : 
+I want to create a song with a sad and eerie vibe in the emo/punk genre. Can we start with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, let's start by setting the tags for your song to capture that sad and eerie emo/punk vibe.
+
+
+
+Successfully set the parameter tags
+Great! We've set the tags for your song to "sad, eerie, emo, punk". Now let's work on some lyrics that match this vibe. I'll draft a verse and chorus to get us started.
+
+
+
+Successfully set the parameter lyrics
+I've set the initial lyrics for your song. Here's what we have so far:
+
+[verse]
+In the shadows where whispers reside,
+I find my solace, where darkness meets the sky.
+
+[chorus]
+Eyes of despair, in a world so cold,
+We scream our silence, stories untold.
+
+Please press the "generate" button to manually generate the song with these settings. Once you hear it, we can make any adjustments you'd like.

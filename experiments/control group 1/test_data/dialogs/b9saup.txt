@@ -1,0 +1,48 @@
+User : 
+I'd like to create a modern country rock song that's catchy yet has some stereotypical and over-the-top elements. It should also have an overly produced sound. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+Alright, I've set up the parameters for your modern country rock song. It's catchy with some stereotypical and over-the-top elements, plus an overly produced sound just as you wanted. Here are the lyrics:
+
+[verse]
+Now I'm rolling down the highway
+With my cowboy hat on high
+I've got a truck full of troubles
+But I'm feeling kinda fly
+
+[chorus]
+Cuz I'm a country rock star
+Living life in a fancy car
+With my boots and spurs on
+I'll be singing this song till the morning sun
+
+[verse]
+Got my guitar on my shoulder
+And a song in my heart
+Every little town I go to
+Is where the party starts
+
+[chorus]
+Cuz I'm a country rock star
+Living life in a fancy car
+With my boots and spurs on
+I'll be singing this song till the morning sun
+
+[bridge]
+From the mountains to the valleys
+To the rivers and the plains
+Everyone's got a story
+And I'm here to entertain
+
+[chorus]
+Cuz I'm a country rock star
+Living life in a fancy car
+With my boots and spurs on
+I'll be singing this song till the morning sun
+
+Please press the "generate" button to manually generate the song.

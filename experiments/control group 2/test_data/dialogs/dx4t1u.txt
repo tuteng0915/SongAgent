@@ -1,0 +1,56 @@
+User : 
+Hello, song generating agent! I would like you to create a song for me that has the following features: 
+
+1. The style should be similar to Lincoln Park.
+2. The song should begin and end with sound effects that have been edited to have rhythm.
+3. The lyrics should focus on the theme of addiction, specifically heroin addiction or addiction to some other drug.
+
+Please generate the lyrics and tags for this song based on these requirements. Thank you!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated the song based on your requirements. The tags for the song include elements reminiscent of Linkin Park's style, with a focus on rock and addiction themes, specifically heroin addiction, along with rhythmic sound effects and electronic components.
+
+Here are the lyrics:
+
+[Intro]
+Sound Effects (rhythmic)
+
+[Verse 1]
+Caught in the haze of a shadowed past,
+Needle's whisper, a kiss that doesn't last.
+Chasing highs in the dead of night,
+In the arms of fleeting pleasure, out of sight.
+
+[Chorus]
+Drowning deep in the venom's embrace,
+Lost within this endless chase.
+Can't break free from this cruel charade,
+Heroin dreams that never fade.
+
+[Verse 2]
+Cold sweat dripping as morning breaks,
+The mirror shows a soul that quakes.
+Voices echo through an empty room,
+Haunted by memories and impending doom.
+
+[Bridge]
+But there’s a spark amidst the despair,
+A chance to fight back, to show you care.
+Rebuild the ruins, mend your ways,
+Seek the truth behind the haze.
+
+[Chorus]
+Drowning deep in the venom's embrace,
+Lost within this endless chase.
+Can't break free from this cruel charade,
+Heroin dreams that never fade.
+
+[Outro]
+Sound Effects (rhythmic)
+
+Please press the "generate" button to create the song.

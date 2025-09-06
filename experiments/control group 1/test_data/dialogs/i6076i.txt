@@ -1,0 +1,54 @@
+User : 
+I want a rock/pop song about unrequited love, with a tempo that's not too fast or slow. The guy is stuck in the friendzone, and the girl is oblivious to his feelings. Can you generate some lyrics for this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've created a set of lyrics and tags for your rock/pop song about unrequited love, capturing the essence of being stuck in the friendzone while the other person remains oblivious to deeper feelings. The tempo is moderate, not too fast or slow, as you requested. Here are the sections of the lyrics:
+
+[verse]
+I've been standing here for too long
+Hiding my feelings, playing along
+You smile and it cuts like a knife
+We're dancing on the edge of what might've been
+
+[chorus]
+Stuck in the friendzone, can't break free
+Wanting more than you'll ever see
+I'm just a shadow in your sunny sky
+A love that's doomed to pass you by
+
+[verse]
+Every laugh we share is bittersweet
+Every casual touch sends chills down my spine
+But you're oblivious to the signs I show
+I guess some things are better left unsaid
+
+[chorus]
+Stuck in the friendzone, can't break free
+Wanting more than you'll ever see
+I'm just a shadow in your sunny sky
+A love that's doomed to pass you by
+
+[bridge]
+If only I could turn back time
+Erase these feelings, make you mine
+But I know that dreams don't come true
+When you're living half a life with you
+
+[chorus]
+Stuck in the friendzone, can't break free
+Wanting more than you'll ever see
+I'm just a shadow in your sunny sky
+A love that's doomed to pass you by
+
+[outro]
+So here's to us, and all we'll never be
+Forever friends, but never meant to be
+
+The tags suggest a blend of rock and pop elements with emotional and heartfelt undertones suitable for this theme.
+
+Now, please press the "generate" button to manually generate the song based on these lyrics and tags.

@@ -1,0 +1,55 @@
+User : 
+Hey there! I've got this song idea that's been stuck in my head for days, and I think it would be awesome if you could help me generate a song based on it. Here’s what I’m thinking:
+
+The song should have a screamo vibe, with intense emotions and powerful vocals. It should feel like something that could have come out between 2008-2010. The theme of the song revolves around people playing King of the Hill, where they fight on a hill until one person remains. This gives the song a raw, competitive, and somewhat chaotic energy.
+
+Here are some lyrics that I remember (or at least close to what I remember):
+
+"No regrets, nothing left to lose  
+I may not make it back  
+This night is mine, this night is mine"
+
+Can you help me create a song with these features? Let's call it "King of the Hill." Looking forward to what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song "King of the Hill" with a screamo vibe that fits the 2008-2010 era, packed with intense and powerful vocals. The lyrics have been crafted to reflect the raw, competitive, and chaotic energy of people battling it out in a game of King of the Hill.
+
+Here's a preview of the song structure:
+
+```
+[verse]
+No regrets, nothing left to lose
+I may not make it back
+This night is mine, this night is mine
+
+[chorus]
+We fight on the hill, till one remains
+Blood and sweat, in the pouring rain
+The crown is heavy, but I'll bear the pain
+King of the Hill, till the morning breaks
+
+[verse]
+Every step taken, another falls
+The echo of battle, it calls and calls
+With every breath, I hear the brawl
+The summit's lonely, but worth it all
+
+[bridge]
+In the chaos, we find our way
+Through the darkness, till the break of day
+Each challenge faced, each price we pay
+For the throne, for the throne we pray
+
+[chorus]
+We fight on the hill, till one remains
+Blood and sweat, in the pouring rain
+The crown is heavy, but I'll bear the pain
+King of the Hill, till the morning breaks
+```
+
+Please press the "generate" button to create the song. Looking forward to your feedback!

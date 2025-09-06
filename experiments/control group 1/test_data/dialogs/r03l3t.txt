@@ -1,0 +1,12 @@
+User : 
+Great! Let's start by focusing on the overall theme and message of the song. Do you have any specific topics or emotions in mind that you'd like the lyrics to convey?
+Agent : 
+Sure! To better understand your preferences, could you please share some details about the themes or emotions you're interested in? For example, are you looking for something upbeat and energetic, or more mellow and introspective? Once I have a clearer idea, I can generate a song that aligns with your vision. 
+
+Let's use the preference tool to gather more information.
+
+
+the user has not given their preferences yet.
+It seems like we need more information from you regarding the themes or emotions you'd like the song to convey. Could you please specify if you're looking for an upbeat and energetic vibe, or perhaps something more mellow and introspective? This will help me tailor the song to your liking.
+
+Once you provide your preferences, I'll generate a song that fits your vision. Please let me know what you have in mind!

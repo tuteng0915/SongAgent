@@ -1,0 +1,31 @@
+User : 
+I want a rock song with a male singer who sounds like a boy-band. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a rock song with a male singer who has a boy-band vibe. Let's set the tags for this song.
+
+
+
+Successfully set the parameter tags
+Now let's create the lyrics for the song. Here is a draft:
+
+[Verse]
+Walking down this lonely road
+I hear my heartbeat, it's a heavy load
+But I keep on moving, can't slow down
+Got my sights set on higher ground
+
+[Chorus]
+I'm singing out loud, I'm feeling alive
+With every step, I'm starting to thrive
+This boy's got a beat, and he's here to stay
+Rocking all night, till the break of day
+
+[Bridge]
+There's a fire burning deep inside
+I won't back down, I'll take that ride
+Through the storm, I'll find my way
+With this rock 'n roll, every single day
+
+Please press the "generate" button to manually generate the song.

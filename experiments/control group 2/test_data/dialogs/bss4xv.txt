@@ -1,0 +1,68 @@
+User : 
+Hey, song generating agent! I need your help crafting a song based on some vivid details I have in mind. Here's what I'm looking for:
+
+I want you to **generate an indie rock or emo rock-style song**—something raw and emotional with heartfelt lyrics. The tone should feel like it could’ve been released between 5 and 15 years ago, so think of that era's sound: guitar-driven melodies, angsty yet poetic.
+
+The concept is this:  
+- It’s sung from the perspective of a boyfriend who’s recounting the final words his girlfriend said to him as she died in his arms after a tragic accident.  
+- To add complexity, the boyfriend feels overwhelming guilt because he believes the accident was his fault.  
+
+For imagery, imagine a rainy night on a dimly lit street, surrounded by flashing police lights and medics trying to help but ultimately unable to save her. This scene plays out in the music video (if we were making one!).  
+
+Can you create something hauntingly beautiful with these elements? Let me know the lyrics and tags when you're done!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song based on your vivid and emotional concept. Here are the details:
+
+### Tags:
+indie rock, emo rock, raw, emotional, heartfelt, guitar-driven, angsty, poetic, haunting, tragic, guilt, rainy night, flashing police lights, medics, accident, 2000s, 2010s
+
+### Lyrics:
+```
+[verse]
+Rain falls in sheets on this dim-lit street
+Your breath gets heavy, your words incomplete
+I hold you closer, but it's not enough
+The weight of the world feels so brutally tough
+
+[chorus]
+'You'll be okay,' were your last words to me
+But how can I live when I'm the one to blame?
+Flashing lights and the sound of regret
+Echo through the dark as I try to forget
+
+[verse]
+The sirens wail while time stands still
+Medics racing, but they never will
+Fix what’s broken inside my head
+A thousand could've-beens where love instead
+
+[chorus]
+'You'll be okay,' were your last words to me
+But how can I live when I'm the one to blame?
+Flashing lights and the sound of regret
+Echo through the dark as I try to forget
+
+[bridge]
+Guitar solo with a melancholic tone
+Every note bleeds out like it's carved in stone
+This pain is mine; no one else can bear
+The storm outside mirrors the void you left there
+
+[chorus]
+'You'll be okay,' but I won't ever be
+These wounds run deeper than the eye can see
+Flashing lights fade, but shadows remain
+Haunted by the love that I couldn’t sustain
+
+[outro]
+Rain keeps falling, washing away
+The life we had, the price that I pay
+```
+
+Press the "generate" button to manually generate the song. Let me know if you need any further adjustments or additions!

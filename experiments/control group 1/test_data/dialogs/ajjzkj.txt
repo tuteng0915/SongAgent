@@ -1,0 +1,48 @@
+User : 
+Hey there! So you're looking for a funky, upbeat tune in the style of Fatboy Slim, capturing an energetic and fun vibe, right? Could you tell me a bit more about the specific elements or themes you'd like to be included in the lyrics, or should I just go with the general feel?
+Agent : 
+
+the user has not given their preferences yet.
+Sure thing! Since you haven't specified any particular themes or elements for the lyrics, I'll just go with the general energetic and fun vibe that matches the style of Fatboy Slim. Let's create something lively and dance-worthy!
+
+I will now set the tags and generate some lyrics for our funky, upbeat tune.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set the tags to reflect a funky, upbeat style reminiscent of Fatboy Slim, capturing an energetic and fun vibe. Here are the lyrics I've generated for our song:
+
+```
+[verse]
+Move your feet to the funky beat
+Feel the rhythm, can't be beat
+Dance floor's calling, come on complete
+Let the music take your seat
+
+[chorus]
+Jump up, jump up, it's time to dance
+Shake it off, give it a chance
+Everybody get in the groove
+Let's make this party a blast to prove
+
+[verse]
+Electric vibes, they light us up
+Hands in the air, we can't stop
+Spin around, let the bass drop
+In this moment, we're non-stop
+
+[chorus]
+Jump up, jump up, it's time to dance
+Shake it off, give it a chance
+Everybody get in the groove
+Let's make this party a blast to prove
+
+[bridge]
+The night is young, so much fun
+Underneath the strobe lights, we become
+One with the music, lose control
+Together we'll rock this golden soul
+```
+
+Now that we have our tags and lyrics ready, please press the "generate" button to manually generate the song.

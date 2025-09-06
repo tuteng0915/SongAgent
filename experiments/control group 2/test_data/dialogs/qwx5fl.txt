@@ -1,0 +1,16 @@
+User : 
+Hello, song generating agent! I'm looking to create a rock song inspired by British music from the 80s or 90s. The chorus should convey a message of happiness and contentment, with lyrics along the lines of: 
+
+"You must be happy. You must be happy. You must be happy in this woooooorld."
+
+Could you generate a song with these features for me? Thank you!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the parameters for your rock song inspired by British music from the 80s or 90s. The chorus now reflects a message of happiness and contentment as you requested.
+
+To generate the song, please press the "generate" button. Enjoy your musical creation!

@@ -1,0 +1,28 @@
+User : 
+I want a song that sounds like Lincoln Park, with some rhythmic sound effects at the start and end. The lyrics should be about addiction, maybe heroin or something similar. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have crafted a song inspired by Linkin Park with rhythmic sound effects that also delves into the serious theme of addiction, specifically referencing heroin. The lyrics are packed with emotional and powerful imagery fitting for a rock and alternative style.
+
+To hear your song, please press the "generate" button now. 
+
+Here is a snippet of your song's lyrics:
+
+[verse]
+Woke up in a cold sweat again
+The taste of metal on my lips
+...
+[chorus]
+Heroin, you pull me under
+A tide of needles and despair
+In your arms, I lose myself
+Sinking deeper, unaware
+
+...and more.
+
+Remember, after pressing generate, the resulting track will feature the thematic elements we discussed including sound effects at the start and end as per your request. Enjoy your song!

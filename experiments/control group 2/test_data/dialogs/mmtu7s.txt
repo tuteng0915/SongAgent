@@ -1,0 +1,62 @@
+User : 
+Hey there! I need your help to generate a song that matches some specific details. Here's what I'm looking for:
+
+I want an alt-rock song with a really unique and trippy vibe, something that could have been made in the early 2000s. The lyrics should evoke imagery of a Victorian-style character, maybe someone eccentric or mysterious, surrounded by surreal floating objects—perhaps sheep or other whimsical things. The overall mood should feel dreamlike, slightly weird, but still captivating.
+
+Can you create something based on this concept?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song concept based on your vision. Here's what we have:
+
+**Tags:** Alt-rock, early 2000s, trippy, eccentric, Victorian, surreal, dreamlike, whimsical, floating objects, sheep, mysterious, captivating  
+
+**Lyrics:**
+
+[verse]  
+In the haze of a dreamworld night  
+Floats an oddity dressed in black and white  
+A top hat perched upon his head  
+As he wanders through this realm widespread  
+
+[chorus]  
+Oh, the sheep they float like clouds above  
+Carried by whispers of another love  
+In this strange parade of curiosities  
+We drift along on endless seas  
+
+[verse]  
+Candelabras light the velvet air  
+Their glow reflected everywhere  
+The man with eyes that pierce the soul  
+Commands the dance of each wandering goal  
+
+[chorus]  
+Oh, the sheep they float like clouds above  
+Carried by whispers of another love  
+In this strange parade of curiosities  
+We drift along on endless seas  
+
+[bridge]  
+Through the looking glass we go  
+To lands where only dreamers know  
+With every step, reality bends  
+And leads us back to where it ends  
+
+[chorus]  
+Oh, the sheep they float like clouds above  
+Carried by whispers of another love  
+In this strange parade of curiosities  
+We drift along on endless seas  
+
+[outro]  
+So if you see him, tip your hat  
+To the master of this dreamscape flat  
+Where time stands still and visions play  
+Amongst the flock that lost its way  
+
+Press the "generate" button now to bring this concept to life!

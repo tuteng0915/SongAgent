@@ -1,0 +1,14 @@
+User : 
+
+the value of the parameter tags is: 
+
+ empty
+I need more information to proceed. Could you describe the mood or theme of the song you're envisioning?
+Agent : 
+Sure, I can help with that. To better understand your preferences, could you please provide some details about the mood or theme of the song you're imagining? For example, do you prefer something upbeat and energetic, or more slow and melancholic? Any specific themes or emotions you'd like to capture in the song?
+
+
+the user has not given their preferences yet.
+I see you haven't shared your preferences yet. No worries! Let's start by setting a basic direction for the song. Could you tell me if you'd prefer the song to be upbeat and energetic, or more slow and melancholic? Also, are there any specific themes or emotions you'd like the song to capture? This will help me generate something closer to your liking. 
+
+Once I have this information, I'll set the appropriate tags and begin crafting the lyrics. After that, you can press the "generate" button to create the song.

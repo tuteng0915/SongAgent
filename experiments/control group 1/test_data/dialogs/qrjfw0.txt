@@ -1,0 +1,54 @@
+User : 
+Hey, I'm ready to help you create that song! Let's start by nailing down a few more details. What sort of setting or scenario do you imagine for this chaotic character? It'll help shape the storytelling in the lyrics.
+Agent : 
+Sure, let's dive into the details to make this song vivid and engaging. Since we're focusing on a chaotic character, we could explore a setting that amplifies this theme. Imagine a bustling city at night, where our character thrives in the chaos, manipulating events from the shadows.
+
+To better capture your preferences and ensure the song aligns with your vision, I'll go ahead and fetch your preferences first.
+
+
+the user has not given their preferences yet.
+It seems like we haven't set any preferences yet. No worries, we can establish them based on the scenario we discussed. 
+
+Given the chaotic character thriving in a bustling city at night, I imagine the song to have an energetic and mysterious vibe, with elements of intrigue and suspense. Let's use tags that reflect this mood: `urban, night, chaos, energetic, mysterious`.
+
+Now, let me set these tags and draft some lyrics for the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags and lyrics for the song based on the chaotic character in a bustling city at night. Here's a preview of the lyrics:
+
+```
+[verse]
+In the shadows where secrets lie
+City whispers under the sky
+Neon lights paint the deceit
+Every corner, a new deceit
+
+[chorus]
+Dancing through the chaos, unseen
+Strings pulled in the urban scene
+Minds tangled in this nightly game
+Where no one knows your real name
+
+[verse]
+Footsteps echo on rain-soaked streets
+Silhouettes move with silent feats
+Eyes watching from every pane
+In this chaos, nothing’s in vain
+
+[bridge]
+The night is alive, hearts collide
+Invisible threads, they cannot hide
+The puppeteer in the city's breath
+Breathing life into the dance of death
+
+[chorus]
+Dancing through the chaos, unseen
+Strings pulled in the urban scene
+Minds tangled in this nightly game
+Where no one knows your real name
+```
+
+Please press the "generate" button to manually generate the song and hear how it sounds. If you have any changes or additional ideas, feel free to share them!

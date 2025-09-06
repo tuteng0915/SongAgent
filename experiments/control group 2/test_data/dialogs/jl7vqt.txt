@@ -1,0 +1,35 @@
+User : 
+Alright, let me transform this into a generation request for the song agent:
+
+---
+
+Hey there, song agent! I need your help to *generate* an upbeat, fast-paced indie rock song that’s super cheerful and reminiscent of Weezer’s "Surf Wax America." Here are the details:  
+
+- The song should have a 3-chord electric guitar sequence running through most of it.  
+- After each chorus, include a short drum solo accompanied by male voices shouting “EY-EY-EY-EY.”  
+- Sprinkle in some surf-style flute solos throughout the track—it gives it that quirky, beachy vibe.  
+
+If you can whip up something like this, I’ll be eternally grateful (and owe you a virtual pop). Let’s make some magic happen!  
+
+--- 
+
+Your turn, song agent! Generate away! 🎶
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+Alright, I've set up the tags and lyrics for your upbeat, fast-paced indie rock song inspired by Weezer's "Surf Wax America." Here's a quick breakdown:
+
+- **Tags**: Upbeat, fast-paced, indie rock, cheerful, with elements like 3-chord electric guitar sequences, drum solos, male shouts ("EY-EY-EY-EY"), and surf-style flute solos.
+  
+- **Lyrics Structure**:
+  - Verse: Riding the waves where the sun shines bright...
+  - Chorus: The rhythm's high, hearts are on fire...
+  - Drum Solo & Male Voices: EY-EY-EY-EY
+  - Bridge: Keep it loud, keep it wild and free...
+  - Outro: Endless summers, we'll never fade...
+
+Now all you need to do is press the **generate** button to bring this song to life. Let me know how it goes! 🎸🎶

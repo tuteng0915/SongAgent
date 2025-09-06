@@ -1,0 +1,50 @@
+User : 
+I’d like a fast, upbeat country song with some rock or pop elements. Can you start working on that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can start working on that. Since you prefer a fast, upbeat country song with rock or pop elements, I'll generate something along those lines. Let's set the tags and lyrics for your song.
+
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I have generated a fast, upbeat country song with rock and pop elements. Here are the lyrics:
+
+[verse]
+Driving down that open road
+Got my freedom, got my load
+Sun is shining on my face
+I'm in love with this wild race
+
+[chorus]
+Living life like a country song
+With a beat that makes the party strong
+Rolling by with some rock and roll
+And a touch of pop in my soul
+
+[verse]
+Radio's playing loud and clear
+Every note takes me right here
+Where the skies are big and blue
+And the nights are made for you
+
+[chorus]
+Living life like a country song
+With a beat that makes the party strong
+Rolling by with some rock and roll
+And a touch of pop in my soul
+
+[bridge]
+Oh, we're dancing under neon lights
+Feeling alive, feeling alright
+In this moment, nothing else matters
+Just hold on tight, let the music shatter
+
+[chorus]
+Living life like a country song
+With a beat that makes the party strong
+Rolling by with some rock and roll
+And a touch of pop in my soul
+
+Please press the "generate" button to manually generate the song.

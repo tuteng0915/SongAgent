@@ -1,0 +1,10 @@
+User : 
+Hello, song generating agent! I'm looking to create a song based on some details I remember. The song should have the word "stranger" repeated in the lyrics, with a strong synth sound reminiscent of the 80s or early 90s. The vocalist should be male. Can you generate a song that fits these criteria?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the parameters for your song. The tags reflect an 80s synth vibe with a male vocalist, and I've crafted some original lyrics that include the word "stranger" as you requested. To hear your new song, please press the "generate" button. Enjoy the music!

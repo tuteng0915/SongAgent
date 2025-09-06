@@ -1,0 +1,48 @@
+User : 
+Hey there! I’m looking to generate a song that fits a specific vibe I have in mind. I’d love for it to capture themes of overcoming challenges, dealing with pressure or stress, and resilience. The tone should feel acoustic and stripped-down, but I want it to have roots in an 80s rock style—think emotional yet powerful. It would be sung by a male vocalist, and the lyrics should evoke that moment when someone is facing tough times but starts pushing through with determination. Could you create something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've crafted a song that fits your requested vibe. The tags include themes of overcoming challenges, resilience, and stress, all wrapped up in an acoustic yet powerful 80s rock style with a male vocalist. Here are the lyrics:
+
+[verse]
+Woke up to the sound of the rain
+Knocking hard on my window pane
+Every shadow whispered fear
+But I've learned to face it all this year
+
+[chorus]
+I'm standing tall in the eye of the storm
+No more running from the battles I've fought
+With every scar, there's a story untold
+And I'll rise above like warriors of old
+
+[verse]
+Heavy skies press down on me
+But I carry the weight with dignity
+Each step forward feels so wrong
+Still, I march along, I'll prove them wrong
+
+[chorus]
+I'm standing tall in the eye of the storm
+No more running from the battles I've fought
+With every scar, there's a story untold
+And I'll rise above like warriors of old
+
+[bridge]
+The night is dark but I see the light ahead
+Through the cracks in the pavement where dreams are bred
+Heartbeats loud, echoing through empty halls
+This fight ain't over till the final call
+
+[chorus]
+I'm standing tall in the eye of the storm
+No retreat now, no surrender in sight
+With every scar, there's a fire that ignites
+And I'll rise above like warriors of old
+
+Please press the "generate" button to manually generate the song.

@@ -1,0 +1,28 @@
+User : 
+Sure, let's start crafting your song. How do you envision the mood at the beginning of the song? Should it be more reflective or filled with a sense of urgency?
+Agent : 
+To better understand your preferences, I'll first gather some information about the style and mood you're aiming for.
+
+
+the user has not given their preferences yet.
+I see you haven't specified your preferences yet. No worries! Let's go with a reflective start that builds into a more energetic and urgent feel as the song progresses. I'll set the initial tags and lyrics accordingly. Let's proceed with generating the song.
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The tags and lyrics have been set for your song. Here's a summary of what we've established:
+
+- **Tags:** reflective, building, energetic, urgent
+- **Lyrics:**
+  - [verse]
+    In the quiet of the night
+    I reflect on days gone by
+  - [chorus]
+    Rising up, breaking through
+    The urgency takes control
+  - [bridge]
+    The time is now, no looking back
+    We race towards the unknown
+
+Please press the "generate" button to manually generate the song based on these settings.

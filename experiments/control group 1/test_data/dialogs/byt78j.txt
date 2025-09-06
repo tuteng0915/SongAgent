@@ -1,0 +1,18 @@
+User : 
+I'd like a dreamy, synth-heavy track with a minimalist approach to lyrics. Can you start by crafting a chorus that repeats "... to take the pain away"?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags for your track to be dreamy, synth-heavy, and minimalist. Here's a chorus that repeats the line you provided:
+
+[chorus]
+... to take the pain away
+... to take the pain away
+... to take the pain away
+... to take the pain away
+
+Please press the "generate" button to create your song.

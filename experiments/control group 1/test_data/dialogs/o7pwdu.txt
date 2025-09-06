@@ -1,0 +1,18 @@
+User : 
+I want to create a song that has a late 90s alternative rock feel, something that could have been a radio hit. It's about a slacker who thinks he's the hero of his story. Can we work on the vibe and sound next?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, let's dive into the details to capture that late 90s alternative rock vibe. Considering the theme of your song—a slacker who fancies himself as the hero—we can aim for a sound that mirrors bands like Weezer or Blink-182. They had a way of blending catchy hooks with a laid-back, somewhat sarcastic attitude that fits well with your concept.
+
+For the instrumentation, we'll want crunchy electric guitars with a bit of a fuzzy distortion, steady and punchy drums, and a driving bass line. The tempo should be upbeat but not too fast, capturing that carefree yet self-aware energy.
+
+Let me set the tags to reflect this style, and then we can move on to the lyrics.
+
+
+Successfully set the parameter tags
+Great! We've set the style and vibe for your song. Now, let's work on the lyrics that will bring our slacker hero to life. I'll draft some verses that paint a picture of this self-proclaimed hero in his everyday surroundings, with a chorus that lifts up his imagined grandeur. Let me put together a sample.
+
+
+Successfully set the parameter lyrics
+The lyrics are set, capturing the essence of a slacker who, in his mind, is a superhero dodging the mundane. Now that we have both the tags and lyrics ready, you can press the "generate" button to create your song and hear how this slacker's anthem comes to life with a late 90s alternative rock feel. Let me know when you're ready!

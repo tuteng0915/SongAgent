@@ -1,0 +1,45 @@
+User : 
+I'd like to generate a slow, soulful song in the style of Motown, but not the doo-wop by Maurice Williams. The lyrics should express deep affection, with lines like "baby I love you, I really love you," and feature harmonies where other singers repeat the word "stay." It should feel like it could be performed by a male vocal group, perhaps similar to The Temptations. Can you help me create this song?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the parameters for your song. Here's a summary of what you requested:
+
+- Tags: slow, soulful, motown, male vocal group, harmonies, deep affection, not doo-wop
+- Lyrics:
+    ```
+    [verse]
+    baby I love you
+    I really love you
+    
+    [chorus]
+    all my life
+    I've been waiting for you
+    stay
+    stay
+    
+    [bridge]
+    every night and every day
+    you take all my worries away
+    
+    [chorus]
+    all my life
+    I've been waiting for you
+    stay
+    stay
+    
+    [chorus]
+    all my life
+    I've been searching for love
+    and now that I've found you
+    I'll never let go
+    stay
+    stay
+    stay
+    ```
+
+Please press the "generate" button to manually generate the song according to these settings. It will be a slow, soulful Motown-style track with rich harmonies and lyrics expressing deep affection. Enjoy the creation of your music piece!

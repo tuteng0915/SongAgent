@@ -1,0 +1,56 @@
+User : 
+Hello, song generating agent! I have a fun challenge for you. I'd like you to generate a comedy acapella-style song about a person whose laptop fails to work. As the song unfolds, it should humorously detail the increasingly crazy obstacles this person must endure in their quest to either fix the laptop or get revenge for it not working. At some point, the lyrics should include a reference to Bill Gates. The chorus of the song should feature these lyrics: "The system has gone down. Down-oooooh, down-oooooh, the system has gone down." 
+
+Can you create such a song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've created the song according to your specifications. It's a comedy acapella-style song about a person dealing with laptop failure and their quest for revenge, including a nod to Bill Gates. The chorus features the lyrics you requested.
+
+Here are the lyrics:
+
+[verse]
+My laptop just froze, I can't believe my eyes,
+The screen turned blue, oh what a surprise!
+I tried to reboot but nothing would happen,
+It's like it's laughing, maybe even clappin'.
+
+[chorus]
+The system has gone down.
+Down-oooooh, down-oooooh,
+The system has gone down.
+
+[verse]
+I consulted the oracle, Dr. Google,
+Searching for answers amidst all the rubble.
+All solutions failed, no luck in sight,
+Is this my curse, my endless plight?
+
+[bridge]
+Then came a thought, so dark and cruel,
+What if I took revenge on this fool?
+I'll send it flying through the air,
+Right into the trash bin without care!
+
+[verse]
+Oh Bill Gates, why hast thou forsaken me?
+This Windows nightmare is driving me to misery.
+But wait, what light through yonder window breaks?
+A Macbook gleams, my heart it takes.
+
+[chorus]
+The system has gone down.
+Down-oooooh, down-oooooh,
+The system has gone down.
+
+[verse]
+Now here I stand with my shiny new Mac,
+No longer do I fear the tech attack.
+But memories linger of that fateful day,
+When my dear old laptop decided to betray.
+
+To generate the actual audio for this song, please press the "generate" button. Enjoy the comedic journey of laptop woes!

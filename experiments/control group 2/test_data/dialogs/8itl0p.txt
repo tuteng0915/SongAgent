@@ -1,0 +1,57 @@
+User : 
+Request to the Song Generating Agent:  
+I’d like you to generate a song that fits the following description: The song should have a rock vibe with a dubstep-inspired guitar effect in the chorus, particularly a "wub wub" sound, though it shouldn’t fully lean into being a dubstep track. It should feel like it could’ve been released around 2012 when dubstep was fading but still influential. The rhythm of the guitar should follow a syncopated pattern like: 1 a + 3 a + 1, giving it a faux-triplet feel. The lyrics and energy should evoke the feeling of breaking free or liberation, as if the walls are metaphorically (or literally) coming down during the chorus. The overall tone should be radio-friendly, catchy, and fit well on rock radio stations from that era. Let’s create something that captures this vibe!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song that fits your description. Here are the details:
+
+### Tags
+- rock
+- dubstep-inspired
+- syncopated rhythm
+- liberation
+- catchy
+- radio-friendly
+- 2012 era
+- wub wub
+- breaking free
+
+### Lyrics
+```
+[verse]
+I've been waiting for the moment to arise
+Trapped inside these walls, can't see the skies
+But now I hear it calling, feel the fire ignite
+Time to break out, let the spirit take its flight
+
+[chorus]
+Walls are crashing down, hear the sound explode
+Dubstep in my veins, rock and roll unloads
+Feel the thunder shake, as we rise above
+Breaking every chain, this is boundless love
+
+[verse]
+Every heartbeat pounds like a drum in my chest
+Syncopated rhythms won't let me suppress
+The power that's been building up inside
+Now's the time to run, no need to hide
+
+[bridge]
+The echoes of the past can't hold us anymore
+We'll tear through the night, unlock every door
+Freedom's in our grasp, nothing left to lose
+Let the music guide us, let the groove seduce
+
+[chorus]
+Walls are crashing down, hear the sound explode
+Dubstep in my veins, rock and roll unloads
+Feel the thunder shake, as we rise above
+Breaking every chain, this is boundless love
+```
+
+Please press the "generate" button to manually generate the song.

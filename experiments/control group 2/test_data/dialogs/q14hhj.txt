@@ -1,0 +1,49 @@
+User : 
+Hello, song generating agent! I'm looking to create a song based on some specific features. The song should be heartfelt and emotional, with lyrics that could move someone to tears. It should be accompanied by a guitar, giving it an acoustic feel. The song shouldn't sound too mainstream, as if it could be something you'd find among hidden gems on YouTube with fewer views.
+
+The key line for the song, which should appear towards the end, is: "I finally remember the sound you used to call me."
+
+Could you help generate such a song for me? I'm excited to hear what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your description. Here are the details:
+
+**Tags:** heartfelt, emotional, acoustic, guitar, hidden gem, youtube
+
+**Lyrics:**
+```
+[verse]
+In the quiet of the night I hear,
+a whisper in the wind so clear.
+
+[chorus]
+Your voice is a melody locked in time,
+haunting these echoes, lost yet mine.
+
+[verse]
+Beneath the silver moon's soft glow,
+I search for pieces of us to show.
+
+[chorus]
+Your voice is a melody locked in time,
+haunting these echoes, lost yet mine.
+
+[bridge]
+Every strum on my guitar sings,
+of moments we lived, of everything.
+
+[chorus]
+Your voice is a melody locked in time,
+haunting these echoes, lost yet mine.
+
+[final]
+And as the silence wraps around,
+I finally remember the sound you used to call me.
+```
+
+Press the "generate" button to manually generate the song. I hope it meets your expectations and touches the hearts of those who listen to it. Enjoy the creation of your heartfelt piece!

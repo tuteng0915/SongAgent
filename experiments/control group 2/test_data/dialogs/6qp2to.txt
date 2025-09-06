@@ -1,0 +1,46 @@
+User : 
+Hey there! I’d like you to generate a song that captures the essence of a story I have in mind. The song should have an extremely catchy beat, but with a softer, emotive voice for the chorus. The theme revolves around a woman who relentlessly pursues a man, faces betrayal, and eventually discovers her own path to independence. The lyrics should reflect her emotional journey—her determination, heartbreak, and ultimate empowerment. To match the mood, the song could be imagined as being set against a black-and-white visual backdrop. 
+
+Can you create something that embodies all of this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that encapsulates the story of a woman's relentless pursuit, heartbreak, and eventual empowerment. The tags reflect a catchy beat with an emotive touch, storytelling elements, and the black-and-white visual theme you envisioned.
+
+Here are the lyrics:
+
+[verse]
+In the shadows she creeps, silent steps in the night,
+With a heart full of dreams and a soul full of fight.
+Her eyes set on him, her compass, her guide,
+Little did she know, the pain that would collide.
+
+[chorus]
+Oh, the world may break us, but we rise,
+From the ashes of love, where the fire lies.
+Betrayed by fate, yet here I stand,
+Stronger than before, in this promised land.
+
+[verse]
+Tears fall like rain, washing away the past,
+The mirror reflects a woman, reborn at last.
+She walks the streets alone, yet not truly apart,
+For her strength is her own, a beat in her heart.
+
+[bridge]
+No longer chasing shadows, no chains to hold,
+In the silence she finds her story untold.
+A silhouette against the world, stark and free,
+In black and white, she found her destiny.
+
+[chorus]
+Oh, the world may break us, but we rise,
+From the ashes of love, where the fire lies.
+Betrayed by fate, yet here I stand,
+Stronger than before, in this promised land.
+
+Please press the "generate" button to create the song.

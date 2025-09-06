@@ -1,0 +1,54 @@
+User : 
+Hey there! I understand you're trying to find a song, but how about we create something new that captures the essence of what you're looking for? Let's generate a song that fits your description. 
+
+I'd like to request a song with the following features:
+- Genre: Punk/Alternative, soft and emotional with a build-up to a louder, more intense part.
+- Theme: A heartfelt story about a father singing to his son about the son's mother or a loved one who has passed away. The verses should narrate their meeting, her illness, and the father imparting life lessons about love and loss.
+- Instrumentation: Prominent piano throughout, complemented by guitar and drums that intensify in the latter part of the song.
+- Emotion: Evokes strong feelings of nostalgia, beauty, and melancholy.
+
+Can you generate such a song for me?
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song that fits your description. Here are the lyrics:
+
+[verse]
+In the quiet of the morning light,
+I saw her face, so full of grace,
+We danced through life, hand in hand,
+Her laughter echoed across this land.
+
+[chorus]
+But now she's gone, my dearest friend,
+And you're the reason her love will never end,
+Oh son, remember her smile so wide,
+In your heart, she'll always reside.
+
+[verse]
+Her illness came like a thief in the night,
+Stealing moments, leaving us to fight,
+But even in pain, her spirit shone,
+A beacon of hope when all seemed gone.
+
+[bridge]
+Life teaches lessons sharp and true,
+Love sometimes fades, but it renews,
+Through every tear, there's strength to find,
+In each goodbye, new loves unwind.
+
+[chorus]
+But now she's gone, my dearest friend,
+And you're the reason her love will never end,
+Oh son, remember her smile so wide,
+In your heart, she'll always reside.
+
+[outro]
+Drums crash, guitars wail loud and free,
+Piano weaves memories tenderly,
+Hold on to these stories, let them guide,
+For in them, forever she'll reside.
+
+Please press the "generate" button to manually generate the song.

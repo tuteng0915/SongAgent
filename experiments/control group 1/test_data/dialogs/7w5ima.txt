@@ -1,0 +1,42 @@
+User : 
+Sure, let's go with that! I want a metal/rock song with clean vocals and a powerful chorus. Something emotional, like "Rescue me... I'm drowning." Can you start working on it?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated a metal/rock song with clean vocals and a powerful chorus based on your preferences. Here are the lyrics:
+
+[verse]
+In the darkness, I'm losing my way
+The shadows whisper, they call me to stay
+
+[chorus]
+Rescue me... I'm drowning
+In this sea of despair
+Bring me back to the surface
+And show me that you care
+
+[verse]
+Every step feels so heavy and cold
+The weight of the world on my shoulders unfold
+
+[chorus]
+Rescue me... I'm drowning
+In this sea of despair
+Bring me back to the surface
+And show me that you care
+
+[bridge]
+I reach for the light, but it fades away
+Will I find a new dawn after this darkest day?
+
+[chorus]
+Rescue me... I'm drowning
+In this sea of despair
+Bring me back to the surface
+And show me that you care
+
+Please press the "generate" button to manually generate the song.

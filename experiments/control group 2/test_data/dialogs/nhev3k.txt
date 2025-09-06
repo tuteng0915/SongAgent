@@ -1,0 +1,24 @@
+User : 
+Hey there! I need you to generate a song for me. Here's what I'm looking for:  
+
+It should be a popular dance/party song from the last couple of years, with a catchy EDM vibe. There’s a part where a female voice says "dance dance dance" right before the beat drops, and then it continues faintly in the background after the drop. It’s super energetic and perfect for getting people moving on the dance floor.  
+
+Can you create something like that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've set everything up for your song! Here's a quick preview of what to expect:
+
+- **Tags**: popular, dance, party, edm, female vocal chops, energetic, beat drop, catchy, electronic, modern  
+- **Lyrics Structure**:  
+  - *[Intro]*: A quiet female vocal chop repeats "dance... dance... dance..." before the beat drops.  
+  - *[Verse 1 & 2]*: Catchy lines about energy and movement on the dance floor.  
+  - *[Pre-Chorus]*: Builds anticipation with rhythmic phrasing.  
+  - *[Chorus]*: Repeats an infectious hook—"Dance, dance, dance, don’t stop the motion"—with high-energy vibes.  
+  - *[Beat Drop Section]*: Faint female vocal echoes in the background as the bass kicks in.  
+
+Now all you need to do is press the **"generate"** button to create your track! Let me know when you're ready or if you'd like any changes. 🎶✨

@@ -1,0 +1,20 @@
+User : 
+Sure, I can help with that. Let's start by specifying the main theme or emotion you want the song to convey. Should it feel more introspective and moody, or energetic and upbeat?
+Agent : 
+To better understand your preferences, I'll first get some information about what you like.
+
+
+
+the user has not given their preferences yet.
+It seems like you haven't set your preferences yet. No worries, we can proceed with a default option. Let's create an energetic and upbeat song. If you want to change this later, just let me know.
+
+Now, I'll set the tags and lyrics for an upbeat song.
+
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags to "upbeat, energetic, pop" and created some lyrics for an upbeat song. 
+
+Please press the "generate" button to manually generate the song based on these settings. If you'd like to make any changes or adjustments, feel free to let me know!

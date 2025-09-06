@@ -1,0 +1,47 @@
+User : 
+Request to the Song Generating Agent:  
+I need you to generate a mellow, smooth acoustic guitar-driven song with English lyrics that could be sung by a Hispanic artist. The song should include the phrases "I can't believe it," "can you feel it," "ohhhh but I —-" and "in the world to realize." Keep the tone emotional and reflective, capturing a sense of introspection and wonder. Let’s create something that feels like it could fit into Marc Anthony's style if he were singing in English.
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+The song has been crafted with your requested style and lyrics. Here's a preview of the sections:
+
+- **Tags:** mellow, smooth, acoustic guitar-driven, emotional, reflective, introspection, wonder, English lyrics, Hispanic artist, Marc Anthony style
+
+- **Lyrics:**
+
+    **[verse]**  
+    I can't believe it, the way the sun sets in hues  
+    Can you feel it, like morning dews?  
+    Every moment feels borrowed, yet so true  
+    In this world to realize, dreams do renew  
+
+    **[chorus]**  
+    Ohhhh but I —- hold on to the past  
+    While stepping into the unknown so vast  
+    With every heartbeat, with every sigh  
+    I find my way under the open sky  
+
+    **[verse]**  
+    Walking paths less traveled, feeling free  
+    I can't believe it's taken all this time to see  
+    The beauty hidden in the simplest of things  
+    A melody played on love's gentle strings  
+
+    **[chorus]**  
+    Ohhhh but I —- embrace what I've found  
+    In the silence between the heartbeats profound  
+    Can you feel it? A connection so deep  
+    In the world to realize, secrets we keep  
+
+    **[bridge]**  
+    Through trials and triumphs, through joy and pain  
+    Life unfolds like a sweet refrain  
+    Each note a story, each song a memory  
+    Together they weave our tapestry  
+
+Please press the "generate" button to manually generate the song.

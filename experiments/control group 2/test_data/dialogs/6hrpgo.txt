@@ -1,0 +1,56 @@
+User : 
+Hey there! I’d like you to generate a song based on the details I’m about to give you. The vibe should be pop or EDM, something fairly recent. Here's the concept: 
+
+The song starts with this boy waking up in his room, getting ready for the day—putting on socks, preparing for ballet class. There are scenes of him practicing at the barre, then after class, he has a conversation with another guy that leaves him feeling disappointed. Later, he’s shown dancing alone on a playground while three other kids nearby seem frozen in place.
+
+Could you create lyrics and tags for a song inspired by this story? Let’s aim for emotional yet uplifting tones, capturing both his struggles and moments of self-expression through dance.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your concept with an emotional yet uplifting tone, capturing both the struggles and moments of self-expression through dance. The tags for your song are "pop, EDM, emotional, uplifting, dance, self-expression, struggle, modern," which should help in setting the right vibe.
+
+Here are the lyrics:
+
+```
+[verse]
+Woke up to the morning light,
+Socks on, ready for the fight.
+Mirror shows a dancer's face,
+In every move, I find my place.
+
+[chorus]
+On the stage or all alone,
+Every step is my own throne.
+Though the world might not understand,
+I speak loudest with my hands.
+
+[verse]
+After class, words cut so deep,
+But in silence, secrets keep.
+Alone on this playground spin,
+While others stand like mannequins.
+
+[chorus]
+On the stage or all alone,
+Every step is my own throne.
+Though the world might not understand,
+I speak loudest with my hands.
+
+[bridge]
+Through disappointment grows the fire,
+Dancing higher, taking it higher.
+In every shadowed corner found,
+A brighter light, a softer sound.
+
+[chorus]
+On the stage or all alone,
+Every step is my own throne.
+Though the world might not understand,
+I speak loudest with my hands.
+```
+
+Please press the "generate" button to manually generate the song based on these lyrics and tags.

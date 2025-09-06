@@ -1,0 +1,52 @@
+User : 
+Hey there! I'm looking to generate a song that fits the vibe of something from the early 2000s or late 90s. The voice should have that distinct computer-generated feel, and I’m not sure if it’s male or female—so maybe we can play around with both? As for the video concept, I’d like it to be similar to *"Wear Sunscreen"* with random shots throughout. Let's create something nostalgic yet fresh! Can you work your magic and generate this for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, I've set up the tags and lyrics for your nostalgic yet fresh song that captures the essence of the early 2000s or late 90s. The computer-generated voice will give it that distinct retro feel we're aiming for, and we can experiment with both male and female vocals.
+
+Here are the lyrics:
+
+```
+[verse]
+Remember when the world stood still,
+Dancing to a dial-up's shrill.
+We had dreams and pixel dreams,
+Living life inside our screens.
+
+[chorus]
+Oh, those days, they came and went,
+In a flash of light, we grew content.
+With every byte, with every code,
+A story in the static told.
+
+[verse]
+Walking down these memory lanes,
+Through the joys, the trends, the pains.
+Neon lights on a discman glow,
+Time was gold; it moved so slow.
+
+[chorus]
+Oh, those days, they came and went,
+In a flash of light, we grew content.
+With every byte, with every code,
+A story in the static told.
+
+[bridge]
+So wear your sunscreen, chase the sun,
+Let the nostalgia have its fun.
+From chatrooms to mixtape cassettes,
+It’s all within us, no regrets.
+
+[chorus]
+Oh, those days, they came and went,
+In a flash of light, we grew content.
+With every byte, with every code,
+A story in the static told.
+```
+
+Now, please press the "generate" button to manually generate the song. Once you’ve done that, we can move forward with any adjustments or additional creative touches you might want!

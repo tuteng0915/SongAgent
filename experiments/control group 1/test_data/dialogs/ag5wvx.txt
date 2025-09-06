@@ -1,0 +1,21 @@
+User : 
+I need a song that starts with funky rock elements, featuring groovy guitar riffs and a playful rhythm. Can you add an exaggerated laugh in the intro?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up your song with funky rock elements, groovy guitar riffs, and a playful rhythm. An exaggerated laugh has been added to the intro as you requested. Here's a snippet of the lyrics:
+
+[intro]
+*exaggerated laugh*
+
+[verse 1]
+Bouncing to the beat, feeling so fine,
+Grooving through the night, under neon signs.
+Shadows dance and they twist and turn,
+In this funky world, there's much to learn.
+
+Press the "generate" button to create the song.

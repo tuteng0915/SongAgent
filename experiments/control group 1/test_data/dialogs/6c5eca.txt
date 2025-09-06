@@ -1,0 +1,15 @@
+User : 
+I would like a soft rock song that tells a love story. Can we start with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, let's start by setting the tags and lyrics for your soft rock love story song.
+
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The tags and lyrics for your soft rock love story song have been set. 
+
+Please press the "generate" button to manually generate the song.

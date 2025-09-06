@@ -1,0 +1,48 @@
+User : 
+I need a song that's upbeat and Latin pop style, like Ricky Martin. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've composed an upbeat Latin pop style song for you, inspired by the vibes of Ricky Martin. Here are the lyrics:
+
+[verse]
+Swaying to the rhythm of the night
+Feel the beat, it's taking flight
+In this moment, we're alive
+Latin beats keeping us in stride
+
+[chorus]
+Dance like nobody's watching, feel the vibe
+Let the music take you higher and higher
+With every step, with every move we make
+We're living in a Latin dream, no time to break
+
+[verse]
+Spinning under starlit skies
+Lost within the melody that never dies
+Our hearts beating as one tonight
+Together we'll dance until the morning light
+
+[chorus]
+Dance like nobody's watching, feel the vibe
+Let the music take you higher and higher
+With every step, with every move we make
+We're living in a Latin dream, no time to break
+
+[bridge]
+The night is ours, let's seize the chance
+To live it up, caught in a passionate trance
+Feel the fire burning deep inside
+With Ricky's beat, there’s nowhere left to hide
+
+[chorus]
+Dance like nobody's watching, feel the vibe
+Let the music take you higher and higher
+With every step, with every move we make
+We're living in a Latin dream, no time to break
+
+Now, to hear how this song sounds, please press the "generate" button to manually generate the song. Enjoy your vibrant Latin pop creation!

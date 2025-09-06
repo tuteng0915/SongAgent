@@ -1,0 +1,38 @@
+User : 
+Hey there! I need you to generate a heavy type song for me. The song should have a part where it transitions from being soft with the vocalist having soft vocals to becoming heavier. The lyrics in the soft part should include the phrase “so how much longer can I take”. Can you create something like that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song with a powerful transition from soft to heavy, just as you requested. The lyrics in the soft part include the phrase "so how much longer can I take". Here's a preview of the song structure:
+
+```
+[verse]
+In the shadows I walk alone,
+Feeling lost, I've nowhere to go.
+My heart's a whisper against the wind,
+So how much longer can I take?
+
+[chorus]
+Break these chains that bind my soul,
+Let the fire within me explode.
+From the ashes, I'll rise again,
+Stronger than I've ever been.
+
+[bridge]
+The storm is coming, I hear it call,
+A surge of power, I'll give it my all.
+Feel the rush, it's time to break free,
+This is who I'm meant to be.
+
+[chorus]
+Break these chains that bind my soul,
+Let the fire within me explode.
+From the ashes, I'll rise again,
+Stronger than I've ever been.
+```
+
+Please press the "generate" button to manually generate the song and listen to how the transition evolves.

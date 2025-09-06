@@ -1,0 +1,60 @@
+User : 
+Hey there! I’m looking to generate a song that fits a very specific vibe. It should capture the essence of mid-2000s emo/post-hardcore bands like Saosin, Senses Fail, and The Used—super nostalgic for anyone who grew up during that era. 
+
+The song needs to have two distinct parts:  
+1. A catchy, emotional first half with heartfelt lyrics (maybe about longing or young love).  
+2. A second half that transitions into a cute storytelling section where the couple goes on a date. They end up back at her house—he opens the gate to her fence, walks her to her doorstep, and they share a sweet kiss.  
+
+Oh, and it’d be awesome if we could include an acoustic version vibe too since those always felt so intimate and perfect for setting a mood. Think warm, romantic, but still with that raw edge these bands were known for.
+
+Can you work your magic and create something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've crafted a song that captures the essence of mid-2000s emo and post-hardcore bands like Saosin, Senses Fail, and The Used. It's packed with nostalgia, emotion, and an acoustic vibe to give it that intimate touch.
+
+Here are the lyrics:
+
+```
+[verse]
+I remember the static in our hearts 
+A melody of longing, tearing us apart
+Every note a memory, every word a scar
+In this symphony of ours, under the same stars
+
+[chorus]
+Oh, how we danced to songs unsung
+Our shadows long where we belong
+Lost in echoes, where love begun
+Chasing dreams through the setting sun
+
+[verse 2]
+You took my hand beneath the moonlit sky
+We laughed like children with no reason why
+Through city lights and whispers in the dark
+Together we painted our own spark
+
+[bridge]
+And then you walked me home that night
+Opened the gate, everything felt right
+Took me to the doorstep, kissed me sweet and slow
+In that moment, I think I came to know
+
+[storytelling section]
+She smiled as she fumbled for her keys
+Her laughter filling up the evening breeze
+"Goodnight," she said, but I stayed awhile
+Memorizing her face, her style, her smile
+
+[acoustic outro]
+The world stood still in that tender embrace
+Just two souls finding their sacred place
+The night was young, but it felt so complete
+As our hearts synced to a rhythm so sweet
+```
+
+Now, all you need to do is press the "generate" button to create the song! Let me know if there's anything else you'd like to tweak or add.

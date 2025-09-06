@@ -1,0 +1,34 @@
+User : 
+Hello, song generating agent! I'd like you to create a song for me that has a "carnival-esque" sound in the beginning. The intro should be lively and vibrant, but then the rest of the song should become rather low-key in comparison. The structure should feature an arpeggio that transitions into chords and then back to the arpeggio. Each chord should be accompanied by a drum hit. Can you generate such a song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set up the song according to your preferences. The tags are "carnival, lively, vibrant, arpeggio, transition, chords, drum hit, low-key" and here are the lyrics:
+
+[intro]
+[arpeggio]
+
+[verse]
+Chords and drums together we go
+Feeling the rhythm start to flow
+
+[chorus]
+Back to the arpeggio we fly
+Music taking us through the sky
+
+[bridge]
+Let the beat drop, let it all fade
+Feel the energy that we've made
+
+[chorus]
+Back to the arpeggio we soar
+Lifting our spirits evermore
+
+[outro]
+[arpeggio]
+
+Please press the "generate" button to manually generate the song.

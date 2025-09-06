@@ -1,0 +1,47 @@
+User : 
+Request to the Song Generating Agent:  
+I need you to generate a song that matches these features: it should feel driven and rhythmic, with an almost industrial or mechanical sound—like a clinking chain in a steady beat: BOOM, CLINK, BOOM, CLINK. Over this relentless rhythm, there needs to be a female vocalist singing somberly about themes of loss and longing. The tone should evoke emotion, as if it could belong in a powerful movie trailer scene. Let’s create something that captures this mood and energy.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated a song that matches your requested features. The tags include "driven, rhythmic, industrial, mechanical, somber, female vocalist, loss, longing, movie trailer" to reflect the mood and energy you're looking for.
+
+Here are the lyrics I've crafted:
+
+```
+[verse]
+In the shadows where silence grows
+A heart of steel begins to close
+Every echo of a memory fades
+Clinging to the chains that bind us here
+
+[chorus]
+Lost in the rhythm of your name
+BOOM CLINK echoes through the pain
+Longing for a touch so frail
+In this endless industrial trail
+
+[verse]
+The clinking chains, they never rest
+Each beat a scar upon my chest
+I sing to you from worlds apart
+Hoping my voice finds your heart
+
+[bridge]
+And if the world should fall away
+Our song will rise from the decay
+We'll find each other in the dark
+Guided by love's eternal spark
+
+[chorus]
+Lost in the rhythm of your name
+BOOM CLINK echoes through the pain
+Longing for a touch so frail
+In this endless industrial trail
+```
+
+Please press the "generate" button to manually generate the song with these settings.

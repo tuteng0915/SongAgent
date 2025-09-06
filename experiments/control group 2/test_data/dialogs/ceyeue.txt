@@ -1,0 +1,47 @@
+User : 
+Hey there! I'm looking to generate a song that captures a specific vibe I have in mind. It should have a Dido/Alanis Morisette feel, with a strong pop essence. The visual concept is unique—imagine a solo artist in a field, slowly floating upwards towards the sky as the music progresses. Can you help me create something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that embodies the vibe you're aiming for, complete with a dreamy and uplifting atmosphere that captures the essence of Dido and Alanis Morisette. Here's a preview of the lyrics:
+
+```
+[verse]
+Standing in a field so wide
+Dreams are calling from the sky
+Taking a step, leaving it all behind
+
+[chorus]
+Floating up where the clouds softly sway
+Chasing dreams that never fade away
+With every heartbeat, I'm soaring high
+Reaching for the endless sky
+
+[verse]
+Whispers of hope in the gentle breeze
+Promises spoken to the trees
+Every moment, a new height I find
+
+[chorus]
+Floating up where the clouds softly sway
+Chasing dreams that never fade away
+With every heartbeat, I'm soaring high
+Reaching for the endless sky
+
+[bridge]
+In this journey, no chains to bind
+Free as the wind, peace of mind
+Higher and higher, leaving shadows behind
+
+[chorus]
+Floating up where the clouds softly sway
+Chasing dreams that never fade away
+With every heartbeat, I'm soaring high
+Reaching for the endless sky
+```
+
+When you're ready, press the "generate" button to create your song!

@@ -60,5 +60,3 @@ workspace/
 *.safetensors
 *.npy
 *.pt
-
-test_data/

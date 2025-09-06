@@ -1,0 +1,57 @@
+User : 
+Hey there! I’m looking for a song that fits a specific vibe, but instead of finding it, I’d love for you to generate one based on these details. Here’s what I’m thinking:  
+
+- The style should be inspired by music from the 90s to mid-2000s.  
+- It needs to feature a female vocalist with an ethereal yet groovy tone.  
+- Ideally, this could fit perfectly onto a movie soundtrack—something cinematic and emotional but still chill.  
+- Bonus points if we can weave in themes or imagery related to “Eden” since that word feels significant here.  
+
+Can you create something like this? Let me know how it turns out!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song based on your vision! The style captures the essence of 90s to mid-2000s music with an ethereal and groovy tone, while featuring a cinematic and emotional vibe that feels perfect for a movie soundtrack. I've also included themes of "Eden" as you suggested.
+
+Here are the lyrics:
+
+[verse]  
+In the garden of Eden, where shadows play,  
+She walks in whispers, beneath skies of gray.  
+A world so vivid, yet lost in time,  
+Dreams entwine her, like a gentle rhyme.  
+
+[chorus]  
+Oh Eden, your echoes linger on,  
+Through every heartbeat, through every dawn.  
+We dance in silence, to a timeless song,  
+Guided by the moonlight, where we belong.  
+
+[verse]  
+Crystal rivers reflect her glowing face,  
+A fleeting moment, frozen in space.  
+Her voice, a melody soft and clear,  
+Sings of hope amidst the fear.  
+
+[chorus]  
+Oh Eden, your echoes linger on,  
+Through every heartbeat, through every dawn.  
+We dance in silence, to a timeless song,  
+Guided by the moonlight, where we belong.  
+
+[bridge]  
+Between the trees, where light breaks free,  
+She finds her solace, she finds her plea.  
+The earth still hums its ancient tune,  
+Beneath the watchful eyes of the moon.  
+
+[chorus]  
+Oh Eden, your echoes linger on,  
+Through every heartbeat, through every dawn.  
+We dance in silence, to a timeless song,  
+Guided by the moonlight, where we belong.  
+
+Now all you need to do is press the "generate" button to bring this song to life! Let me know how it turns out.

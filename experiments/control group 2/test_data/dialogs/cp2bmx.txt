@@ -1,0 +1,49 @@
+User : 
+Hey there! I’d like you to generate a song for me. Here’s what I’m thinking:  
+
+It should be a rap song where the speaker reflects on a past relationship, expressing regret and longing. They admit their mistakes and convey a deep desire to reconcile, making it seem like they’re talking about an ex-girlfriend. However, the twist comes in the final line, which reveals the song is actually about their deceased father—something like “I can’t believe you died, dad.” This revelation should hit hard, giving listeners that shocking moment that makes them want to revisit the lyrics with this new context.  
+
+Let’s go with a raw, emotional tone throughout, blending introspective verses with a powerful beat drop before the last line. Think moody instrumentals, maybe some somber piano mixed with trap beats.  
+
+Can you work your magic and create something based on this idea?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated the rap song based on your concept, complete with introspective and emotional lyrics that build up to the powerful twist at the end. The tags reflect the somber yet impactful tone you requested—blending regret, longing, and raw honesty with moody piano and trap beats.
+
+Here's a preview of the song structure:
+
+**[verse]**  
+I guess I wasn't ready, to see you go  
+Thought we had more time, but you slipped slow  
+Shoulda said the things that mattered most  
+Instead of letting silence burn like ghosts  
+
+**[chorus]**  
+Now every night I'm haunted by your face  
+Regretting all the wrong turns I couldn't replace  
+If only love could turn back time  
+Then maybe you'd still be here, and I'd be fine  
+
+**[verse]**  
+You left me with these echoes in my mind  
+A hollow heart where pieces used to align  
+Every memory cuts deeper than before  
+And now there's nothing left except what we ignored  
+
+**[bridge]**  
+The nights are colder, dreams feel so confined  
+It's like no matter how hard I try, you're one step behind  
+But this time, I won't let you fade away  
+I'll scream it loud, even if it doesn't change a thing  
+
+**[final line]**  
+I can't believe you died... dad.
+
+---
+
+To bring this vision to life, press the "generate" button when you're ready! Let me know if you need any adjustments or further tweaks.

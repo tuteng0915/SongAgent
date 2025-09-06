@@ -1,0 +1,29 @@
+User : 
+Request to the Song Generating Agent:  
+I’d like you to generate a song that fits the following description: it should have a classic rock vibe, possibly from the 80s or reminiscent of that era, with a mix of soft and rock-style vocals. The song should start with just a soft piano melody before building up into the full arrangement. Additionally, I’d love for the theme or lyrics to somehow involve water—whether it’s about oceans, rivers, rain, or even emotions tied to water. Let’s see what you can come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your description! It has a classic rock vibe with an 80s feel, blending soft and rock-style vocals. The song starts with a gentle piano intro before evolving into a full arrangement. The lyrics revolve around water themes—oceans, rivers, rain—all tied together with emotional undertones.
+
+Here’s a preview of the lyrics:
+
+**[verse]**  
+Drops of rain fall on my skin  
+Whispers of the ocean within  
+Piano keys trace through the night  
+A melody bathed in moonlight  
+
+**[chorus]**  
+Rivers run deep like my love for you  
+Oceans overflow with dreams anew  
+Rain will wash away the pain I knew  
+In this endless dance of sky and blue  
+
+*(...and more verses, choruses, bridge, and an outro)*
+
+Press the "generate" button to create the audio version of this song!

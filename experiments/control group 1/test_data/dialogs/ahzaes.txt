@@ -1,0 +1,6 @@
+User : 
+Sure thing! Let's start by specifying the main theme or message of the song. What's the song about?
+Agent : 
+Great! To better understand your vision, could you please tell me more details about the theme or message you have in mind for this song? For example, is it about love, adventure, personal growth, or something else? Also, do you prefer a specific genre or style for this song? This will help me tailor it to your preferences. 
+
+Once I have this information, I'll generate some lyrics and set appropriate tags for your song.

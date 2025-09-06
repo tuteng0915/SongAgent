@@ -1,0 +1,6 @@
+User : 
+Sure thing! Let's start by specifying the genre and mood of the song. Do you have any particular genre in mind, or should I suggest something that fits the vibe you're describing?
+Agent : 
+
+the user has not given their preferences yet.
+To better tailor the song to your tastes, could you please share your preferred genre and mood? For instance, do you lean towards pop, rock, or perhaps something more mellow like folk or jazz? And would you like the mood to be upbeat and energetic, or more laid-back and reflective? If you're unsure, I can certainly suggest a direction based on common themes in songwriting.

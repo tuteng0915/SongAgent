@@ -1,0 +1,50 @@
+User : 
+I'd like you to generate a song that captures the essence of what I'm thinking of. The song should have an upbeat tempo, reminiscent of bands like MGMT or Polyphonic Spree, but unique in its own right. It should feature a female lead singer and evoke the feeling of a well-choreographed dance number involving lots of people. The overall aesthetic should be colorful, with a vibrant palette of primary colors like red, yellow, and blue. The vibe should be modern, fitting into the post-2000 timeframe. Can you create something based on these ideas?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song with an upbeat tempo, inspired by MGMT and Polyphonic Spree, featuring a female lead singer. The lyrics evoke the feeling of a well-choreographed dance number with a vibrant palette of primary colors. Here's a preview of the lyrics:
+
+```
+[verse]
+We're painting the town in primary hues,
+Red, yellow, and blue, there's nothing we can't do.
+With every step, a brushstroke of fun,
+Together we dance under the neon sun.
+
+[chorus]
+Oh, let's get colorful, it's you and me,
+In this dance of life, as free as can be.
+With music that lifts us high above,
+We'll keep on dancing with all our love.
+
+[verse]
+A kaleidoscope world, where dreams come alive,
+Feel the rhythm take hold, let your spirit dive.
+Through streets wide and narrow, our hearts beat as one,
+Chasing horizons till the morning comes.
+
+[chorus]
+Oh, let's get colorful, it's you and me,
+In this dance of life, as free as can be.
+With music that lifts us high above,
+We'll keep on dancing with all our love.
+
+[bridge]
+Beneath the starlit sky so bright,
+Our laughter echoes through the night.
+Each color tells a story true,
+Of friendships formed in vibrant hue.
+
+[chorus]
+Oh, let's get colorful, it's you and me,
+In this dance of life, as free as can be.
+With music that lifts us high above,
+We'll keep on dancing with all our love.
+```
+
+Please press the "generate" button to manually generate the song.

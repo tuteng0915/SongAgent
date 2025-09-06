@@ -1,0 +1,57 @@
+User : 
+Hey there! I’m looking to generate a song based on some details I have in mind. Here’s what I’m thinking:  
+
+It should feel like a 90’s pop ballad, sung by a female artist, and could fit as part of a movie soundtrack. The chorus needs to be catchy with an "ohhhhhhhh"/"oh-ohhhhhh" kind of vibe, followed by three short lines that are almost identical except for the last one, which ends slightly higher in pitch. It would also be great if it had that nostalgic, timeless quality that makes it memorable.  
+
+Can you help me create something like this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your vision! Here's what we have:
+
+- **Tags:** 90s, pop ballad, female artist, movie soundtrack, nostalgic, timeless, catchy chorus, ohhhhhhhh, rising pitch
+- **Lyrics:**
+
+```
+[verse]
+I remember when the world stood still,
+When your voice would echo through the hills.
+We were young and reckless, chasing dreams,
+But love was all we needed in between.
+
+[chorus]
+Ohhhhhhhh, oh-ohhhhhh
+Take me back to where it all began,
+Take me back to the moment you held my hand,
+Take me back, take me higher than before.
+
+[verse]
+The nights were cold, but we burned so bright,
+Our shadows dancing under moonlight.
+Every heartbeat pulling us along,
+But nothing felt as right as this love song.
+
+[chorus]
+Ohhhhhhhh, oh-ohhhhhh
+Take me back to where it all began,
+Take me back to the moment you held my hand,
+Take me back, take me higher than before.
+
+[bridge]
+Time moves on, but memories remain,
+In every whisper of the falling rain.
+If I could turn back time, I’d find
+The place where we left our hearts behind.
+
+[chorus]
+Ohhhhhhhh, oh-ohhhhhh
+Take me back to where it all began,
+Take me back to the moment you held my hand,
+Take me back, take me higher than before.
+```
+
+Press the "generate" button to manually generate the song! Let me know if there’s anything else you’d like to tweak or add.

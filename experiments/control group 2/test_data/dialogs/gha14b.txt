@@ -1,0 +1,32 @@
+User : 
+Hi, I’d like to generate a song that fits the following description:  
+
+It should sound like something composed between 2005-2010, with a post-punk vibe. The first verse needs to start with the line:  
+*"If you find a - letter under the mattress, please don't read it & just leave it alone."*  
+
+Additionally, the chorus should feature the phrase *"It's not the same without you"* repeating throughout.  
+
+Could you create this song for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've crafted the song based on your description. Here's a preview of the lyrics:
+
+**[verse]**  
+If you find a - letter under the mattress, please don't read it & just leave it alone.  
+These secrets buried deep, they're not yours to own,  
+Time has locked them away, let the silence atone.  
+
+**[chorus]**  
+It's not the same without you,  
+Empty rooms echo too true,  
+It's not the same without you,  
+The shadows dance, but we've withdrawn from the view.  
+
+*(... additional verses, bridge, and chorus as described)*  
+
+To generate the full version of this song with the post-punk vibe and emotional tone from 2005-2010, **please press the "generate" button now**.

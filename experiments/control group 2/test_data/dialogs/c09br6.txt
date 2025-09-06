@@ -1,0 +1,50 @@
+User : 
+Hey there! I’m looking to generate a high-energy rock song that gets you pumped up—perfect for an intense workout. The chorus should have a chant-like vibe with lyrics something like, "DUDUDUDU MOONSHINE, DUDUDUDU FINE WINE" (though the "fine wine" part can be swapped out for something else that fits better). The overall feel of the song needs to be powerful and adrenaline-pumping, with strong guitar riffs and a driving beat. Let’s create this beast of a track!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, we've set up the parameters for your high-energy rock song. Here's a preview of the lyrics:
+
+```
+[verse]
+Heart is pounding, feet are moving,
+Sweat is pouring, no excuse in.
+Pushing limits, breaking chains,
+Feel the burn through all the veins.
+
+[chorus]
+DUDUDUDU MOONSHINE,
+DUDUDUDU RAZOR LINE,
+DUDUDUDU BREAK THE CHAINS,
+DUDUDUDU FEEL THE PAIN.
+
+[verse]
+Muscles screaming, lungs on fire,
+Still climbing higher and higher.
+No surrender, no defeat,
+Fuel the beast, feel the heat.
+
+[bridge]
+On the edge of the razor's blade,
+Every step a choice we've made.
+Chasing shadows, chasing dreams,
+Pounding hearts and battle screams.
+
+[chorus]
+DUDUDUDU MOONSHINE,
+DUDUDUDU RAZOR LINE,
+DUDUDUDU BREAK THE CHAINS,
+DUDUDUDU FEEL THE PAIN.
+
+[outro]
+When the night falls and the echoes call,
+We'll rise again, never fall.
+In the moonlight, we'll define,
+The power found in every grind.
+```
+
+Now, please press the "generate" button to create this powerful rock anthem!

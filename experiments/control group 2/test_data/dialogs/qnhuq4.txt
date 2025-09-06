@@ -1,0 +1,44 @@
+User : 
+Hey there! I need your help to generate a song that matches a specific vibe I've been obsessing over. The song should have a fast-paced, metal-inspired sound with a catchy, rhythmic hook similar to the "Bawitdaba, da bang, da dang diggy diggy, diggy" part from Kid Rock's *Bawitdaba*. However, instead of rap-rock, this one needs to lean heavily into a heavier, more aggressive metal style. The singer’s voice should be raspy and intense, adding to the raw energy of the track. Think high-octane instrumentation with pounding drums, shredding guitars, and an overall gritty feel. Can you create something like that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the parameters for your song based on the vibe you described. The tags reflect a fast-paced, aggressive metal style with raspy vocals and shredding guitars. Here are the lyrics I’ve generated:
+
+[verse]
+Riding the storm, feel the thunder in my veins,
+Metal machine roaring, breaking all chains.
+
+[chorus]
+Bang bang, hear the sirens scream,
+Da bang, da dang, diggy diggy dream.
+Shredding through the night, never gonna stop,
+Feel the fire burn, let it rip and pop.
+
+[verse]
+Steel wheels rolling, crushing everything in sight,
+Raspy whispers turning into a banshee's flight.
+
+[chorus]
+Bang bang, hear the sirens scream,
+Da bang, da dang, diggy diggy dream.
+Shredding through the night, never gonna stop,
+Feel the fire burn, let it rip and pop.
+
+[bridge]
+Inferno rising, flames licking the sky,
+Drums pounding loud, making ears comply.
+Guitars wailing, like wolves on the prowl,
+This is our kingdom, this is our howl.
+
+[chorus]
+Bang bang, hear the sirens scream,
+Da bang, da dang, diggy diggy dream.
+Shredding through the night, never gonna stop,
+Feel the fire burn, let it rip and pop.
+
+Please press the "generate" button to create the song!

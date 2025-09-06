@@ -1,0 +1,68 @@
+User : 
+Hello, song generating agent! I have a unique challenge for you. Based on the details I'm about to provide, I'd like you to generate a song that captures the essence of what I'm looking for instead of finding an existing one. Here's what I need:
+
+- The song should feature a repetitive, rustic, mid-range violin line that leans more towards a minor, melancholic tone rather than a major, upbeat one.
+- It should be set in the late 90s to early 2000s "adult" pop and alternative style, reminiscent of artists like Lisa Loeb, Paula Cole, and Barenaked Ladies.
+- The song ideally includes female vocals, fitting into the laid-back vibe with a prominent violin line akin to "Tom's Diner" by Suzanne Vega but not necessarily electronic or trip-hop.
+- The overall sound should capture the "90s" feel—somewhat drab yet catchy enough for radio play.
+
+Could you craft a song that fits this description? I'm excited to hear what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your description based on the details you provided. Here's a summary of what I've done:
+
+- **Tags**: The tags include "violin, female vocals, melancholic, 90s, adult pop, alternative" and references to artists like Lisa Loeb, Paula Cole, Barenaked Ladies, and the style akin to "Tom's Diner" by Suzanne Vega.
+  
+- **Lyrics**: I have written lyrics that capture the essence of a melancholic, laid-back vibe with themes that fit well within the late 90s to early 2000s "adult" pop and alternative style.
+
+Here are the lyrics:
+```
+[verse]
+Waking up to the sound of rain
+Tracing patterns on the window pane
+Memories like whispers call my name
+In this small and quiet town
+
+[chorus]
+Oh, the days slip by so slow
+With a melody that only I know
+Strings of sorrow softly glow
+In the echo of where we used to go
+
+[verse]
+Pages turn like leaves in the wind
+Every story fades but never ends
+I walk these streets, a silent friend
+Underneath the gray and watching skies
+
+[chorus]
+Oh, the days slip by so slow
+With a melody that only I know
+Strings of sorrow softly glow
+In the echo of where we used to go
+
+[bridge]
+And if I could, I'd hold on tight
+To moments lost in fading light
+But time moves on; it won't be kind
+We leave our ghosts behind
+
+[chorus]
+Oh, the days slip by so slow
+With a melody that only I know
+Strings of sorrow softly glow
+In the echo of where we used to go
+
+[outro]
+The violin weeps as the night grows deep
+A tapestry woven in shades of sleep
+Tomorrow waits, but here I keep
+The echoes of dreams that never truly leap
+```
+
+Please press the "generate" button to manually generate the song and hear how it sounds. I'm excited for you to listen to it!

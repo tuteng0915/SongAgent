@@ -1,0 +1,28 @@
+Tags :
+instrumental, shoegaze, nostalgic, dreamy, Coney Island, interview, old man, memories
+Lyrics :
+[intro]
+<|start_time|>Old man's voice:<|end_time|> "Back in the day, Coney Island was a magical place..."
+
+[verse 1]
+<|start_time|>waves gently crashing on the shore<|end_time|>
+<|start_time|>the scent of saltwater fills the air<|end_time|>
+<|start_time|>echoes of laughter and screams from the rides<|end_time|>
+
+[chorus]
+<|start_time|>oh, those nostalgic memories<|end_time|>
+<|start_time|>of cotton candy skies and carousel dreams<|end_time|>
+<|start_time|>time stands still at Coney Island<|end_time|>
+
+[verse 2]
+<|start_time|>the old man pauses, lost in thought<|end_time|>
+<|start_time|>his eyes glistening with bittersweet tears<|end_time|>
+<|start_time|>as he recalls the golden summers of his youth<|end_time|>
+
+[chorus]
+<|start_time|>oh, those nostalgic memories<|end_time|>
+<|start_time|>of cotton candy skies and carousel dreams<|end_time|>
+<|start_time|>time stands still at Coney Island<|end_time|>
+
+[outro]
+<|start_time|>Old man's voice fading out:<|end_time|> "...and I'll never forget the joy it brought to my heart."

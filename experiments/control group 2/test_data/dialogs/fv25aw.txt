@@ -1,0 +1,54 @@
+User : 
+Hello, Song Agent! I’d like you to *generate* a song based on the following features:
+
+The song should feel like it could have been released around the turn of the decade and could have gained popularity on platforms like YouTube or Vimeo. It should feature a single male artist (or possibly a duo), with an artist name consisting of two words, the first being something like “El” or another similar particle.
+
+The melody should prominently include a steel drum loop, and the beat should draw inspiration from reggae or moombahton. The lyrics can be playful yet rhythmic, capturing the vibe of someone performing live and experimenting with sounds.
+
+For the music video concept, imagine shots of the artist energetically banging his drumsticks on a drum pad to the backbeat, alternating with him fiddling around on a keyboard or sample pad. Intersperse these scenes with visuals of girls taking their shirts off, popping balloons, and maybe even shooting a bow and arrow for some quirky, carefree energy.
+
+Let’s create something that feels nostalgic yet fresh—ready to bring this idea to life?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song concept that aligns with your vision. Here's a summary of what we have:
+
+**Tags:** Turn of the decade, YouTube, Vimeo, single male artist, duo, El, steel drum loop, reggae, moombahton, playful, rhythmic, live performance, drumsticks, drum pad, backbeat, keyboard, sample pad, girls, shirts off, balloons, bow and arrow, nostalgic, fresh.
+
+**Lyrics:**
+
+[verse]
+El the beatmaker in his zone
+Drumsticks clickin' on the pad alone
+Got this steel drum in my loop
+Girls poppin' balloons to the groove
+
+[chorus]
+It's a YouTube vibe, Vimeo dream
+Energetic scenes, popping at the seams
+Quirky rhythms, we're shooting bows
+Nostalgic feels with a fresh new glow
+
+[verse]
+Fiddlin' with keys, making samples sing
+Backbeat's so loud, hear the steel drums ring
+Arrows flying as we dance all night
+Underneath the stars, everything feels right
+
+[bridge]
+Steel drums echo, reggae take control
+Moombahton beats with a carefree soul
+Shirts come off, balloons explode
+Live experiments down this road
+
+[chorus]
+It's a YouTube vibe, Vimeo dream
+Energetic scenes, popping at the seams
+Quirky rhythms, we're shooting bows
+Nostalgic feels with a fresh new glow
+
+Please press the "generate" button to manually bring this concept to life into an actual song file.

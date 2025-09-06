@@ -1,0 +1,50 @@
+User : 
+Hello, Song Agent! I would like you to generate a mellow love song for me. The song should include the lyric "they put me in a box/they tried to put me in a box" and evoke the image of Dr. Temperance studying a skeleton while wearing headphones. Let's create something beautiful and soulful!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a beautiful and soulful mellow love song for you, incorporating the lyric "they put me in a box / they tried to put me in a box". The imagery of Dr. Temperance studying a skeleton while wearing headphones is evoked through poetic verses that capture her introspective nature.
+
+Here's how the song goes:
+
+[verse]
+In the quiet of her lab, she studies bones
+The echoes whisper secrets only she could own
+With headphones on, she finds her peace
+And in this solitude, her spirit's released
+
+[chorus]
+They put me in a box / They tried to put me in a box
+But my heart won't conform, it just softly mocks
+This mellow love that flows, like an undercurrent strong
+Beneath the surface, where I truly belong
+
+[verse]
+Her world is built from fragments of the past
+Each piece a story that forever will last
+She listens close, to songs that understand
+Melancholy melodies played by a tender hand
+
+[chorus]
+They put me in a box / They tried to put me in a box
+But my soul won't be caged, it's gently unlocked
+By love so profound, yet delicately soft
+In these moments alone, I am love, aloft
+
+[bridge]
+Underneath the stars, with music as our guide
+We dance through life's mysteries, side by side
+Our hearts entwined within this cosmic sea
+Two souls adrift, yet perfectly free
+
+[chorus]
+They put me in a box / They tried to put me in a box
+Yet here I stand unbroken, my spirit never stops
+For love has set me free, from all they thought was mine
+In this mellow tune, our destinies intertwine
+
+To bring this song to life, please press the "generate" button when you're ready. Enjoy the heartfelt journey of love and freedom!

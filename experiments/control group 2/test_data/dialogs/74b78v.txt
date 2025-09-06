@@ -1,0 +1,44 @@
+User : 
+Hey there! I'm looking to generate a song that fits a specific vibe. I want it to be something newerish, not an older classic like "Sweet Caroline." The song should have a soft rock or folky feel to it. I’m thinking of lyrics that might sound something like, "Oh oh feeeoline, I've been lost since the ????" — you get the drift. Can you generate something with that kind of mood and style?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set the tags and lyrics for your song according to the soft rock or folky feel you were looking for. Here is a glimpse of the lyrics:
+
+```
+[verse]
+Oh oh feeeoline,
+I've been lost since the days gone by,
+Walking down this lonely road,
+Underneath the open sky.
+
+[chorus]
+Guide me home, through the night,
+Be my beacon, be my light,
+In this world of fleeting time,
+Hold me close, let us align.
+
+[verse]
+Rivers flow and winds they sing,
+Stories of the wandering,
+Every step a memory,
+In the heart where shadows cling.
+
+[bridge]
+And if the stars should fall tonight,
+We'll find our way, we'll be alright,
+Together bound by threads unseen,
+In this dance of life, serene.
+
+[chorus]
+Guide me home, through the night,
+Be my beacon, be my light,
+In this world of fleeting time,
+Hold me close, let us align.
+```
+
+Please press the "generate" button to manually generate the song.

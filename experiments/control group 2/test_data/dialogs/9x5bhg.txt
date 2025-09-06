@@ -1,0 +1,12 @@
+User : 
+Hello, Song Agent! I’d like you to generate a song based on some specific requirements. The song should be inspired by driving on Mulholland, with lyrics that reference its curves and the feeling of moving in and out along the road. The vocal delivery should be somewhere between singing and speaking—kind of a half-sung, half-spoken style. The beat and backing music should have a techno vibe, giving it an electronic and rhythmic feel. Can you create something like that for me?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up your song with inspiration from driving on Mulholland, capturing the essence of its curves and the dynamic feeling of movement. The lyrics reflect a journey in rhythm with the road, delivered in a half-sung, half-spoken style over a techno-influenced beat.
+
+To bring this composition to life, please press the "generate" button to create your unique track. Enjoy the ride through sound and scenery!

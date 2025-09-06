@@ -1,0 +1,33 @@
+User : 
+I want a song that feels like those electronic tunes from the 2010s, you know, like Empire of the Sun or MGMT. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a song that captures the vibe of those electronic tunes from the 2010s. Let's go ahead and set the parameters for a song that resembles the style of Empire of the Sun or MGMT.
+
+I'll set the tags now.
+
+
+Successfully set the parameter tags
+Now that the tags are set, I'll proceed to draft some lyrics that fit the style you're looking for.
+
+Here's a possible lyrical structure for your song:
+[Verse]
+Walking on the moon in my dreams again
+Neon lights are blinding as they beam and bend
+We dance like shadows in an endless night
+Under the spell of the stars' soft light
+
+[Chorus]
+Take me higher, like a satellite
+Dancing in the echoes of the twilight
+Electric hearts, they never lie
+Together we will touch the sky
+
+[Bridge]
+Sunrise visions in kaleidoscopes
+Every color's bursting with hope
+Hold onto this feeling so tight
+As we ride the morning light
+
+Please press the "generate" button to manually generate the song.

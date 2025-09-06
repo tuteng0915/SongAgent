@@ -1,0 +1,29 @@
+User : 
+Hello, song generating agent! Based on the details provided, I would like you to generate a soft rock song from the 2000s that tells a love story. The song should be divided into three parts, each representing a different stage in the girl's life: her youth, her late teens/early adulthood, and her as a grown-up.
+
+The final scene should evoke imagery of her walking down a beach, dressed in white, with the camera zooming in on her face. The overall tone should be romantic and reminiscent, capturing the essence of a love that has grown over time.
+
+Please include tags that reflect the style and themes of the song, such as "soft rock," "love story," "romantic," "nostalgic," and any others you feel are fitting. 
+
+Thank you! Let's create this song together.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for a soft rock love story song that spans different stages of a girl's life. To bring this song to life, please press the "generate" button.
+
+Here's a quick overview of what you can expect:
+
+- **Tags:** soft rock, love story, romantic, nostalgic, 2000s, acoustic guitar, piano, emotional, heartfelt, bittersweet
+- **Structure:**
+  - **Verse 1:** Captures her youth with imagery of freedom and new beginnings.
+  - **Chorus:** Recounts shared memories and evolving love over time.
+  - **Verse 2:** Chronicles her late teens/early adulthood filled with dreams and challenges.
+  - **Bridge:** Evokes the scene of her walking down the beach dressed in white.
+  - **Verse 3:** Reflects on her as a grown-up, still an inspiring figure in the narrative of their shared life.
+  - **Outro:** Ends with a poignant goodbye that promises eternity.
+
+Generate the song to hear our creation.

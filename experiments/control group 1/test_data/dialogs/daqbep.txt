@@ -1,0 +1,30 @@
+User : 
+Sure, let's start by specifying the genre and overall mood of the song. How about we go with a Hip-Hop/R&B vibe that's upbeat but still maintains a chill, romantic atmosphere? Does that sound good to you?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+Great! I've set the genre and mood of the song to Hip-Hop/R&B with an upbeat, chill, and romantic atmosphere. Now let's work on the lyrics.
+
+Here's a draft for our song:
+
+[Verse]
+Walking down these streets so cold
+Got my baby, got my gold
+She's the rhythm in my blues
+Every step, I'm falling through
+
+[Chorus]
+You're my sunshine in the rain
+In this crazy world, you're my refrain
+We dance under neon lights
+With you, everything feels right
+
+[Bridge]
+And when the night falls down
+I'll be there to hold my ground
+We'll keep it cool, we'll keep it real
+Our love story, forever sealed
+
+Please press the "generate" button to create the song with these settings.

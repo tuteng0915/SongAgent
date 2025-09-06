@@ -1,0 +1,49 @@
+User : 
+Hello, Song Agent! I need your help to generate a song that fits the following criteria:  
+
+- Genre: Pop/Rock, with a style reminiscent of artists like Decade and Don Broco.  
+- Key Themes: The song should include the words "America" and "foreign land," ideally repeated in the chorus or at significant points in the song.  
+
+Can you craft something that matches this description? I'm excited to hear what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your criteria, incorporating the themes of "America" and "foreign land" with a Pop/Rock genre reminiscent of Decade and Don Broco. Here’s a preview of the lyrics:
+
+```
+[verse]
+I've walked through the heart of America,
+Where dreams are born and hope is near.
+Every corner holds a story,
+Of those who've loved and held so dear.
+
+[chorus]
+In this land called America,
+Underneath its vast sky.
+We find our place in a foreign land,
+Where we dare to live and try.
+
+[verse]
+From sea to shining sea we roam,
+Searching for where we belong.
+In every city, every small town,
+We sing our song as we move along.
+
+[chorus]
+In this land called America,
+Beneath the stars that brightly gleam.
+Finding home in a foreign land,
+Chasing dreams on the golden stream.
+
+[bridge]
+Oh, how sweet the promise of tomorrow,
+In this land of endless opportunity.
+With courage, we stand, hand in hand,
+Together shaping what's yet to be.
+```
+
+Please press the "generate" button to manually generate the song and listen to it. I hope you like it!

@@ -1,0 +1,50 @@
+User : 
+Hey, song agent! I need your help to generate a song that captures the essence of what I’m looking for. The song should have a pounding drumbeat reminiscent of Arctic Monkeys’ “Do I Wanna Know,” but with an 80s vibe in terms of production—think big synthesizers, electric guitars, and a powerful, anthemic sound. It should also feature rich vocal harmonies with noticeable echo effects, giving it a polished boyband feel. If possible, include a key change towards the end to add a dramatic finish. Can you create something based on these ideas?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the tags and lyrics for your custom song based on your preferences. To bring this song to life with a pounding drumbeat reminiscent of Arctic Monkeys' "Do I Wanna Know," an 80s vibe, big synthesizers, electric guitars, and rich vocal harmonies with echo effects, please press the "generate" button to manually generate the song.
+
+Here's a preview of the lyrics:
+
+[verse]
+In the shadows of the night, we rise
+Feel the thunder, hear the cries
+Electric dreams in neon lights
+A symphony of heartbeats ignites
+
+[chorus]
+Do you feel it, too? (Do you feel it, too?)
+The beat that's calling me and you (and you)
+We'll dance beneath the stars so true (so true)
+With every step, our spirits renew
+
+[verse]
+Caught within a web of sound
+Where echoes linger all around
+Voices blend, they intertwine
+In this moment, we're divine
+
+[chorus]
+Do you feel it, too? (Do you feel it, too?)
+The rhythm pulling me to you (to you)
+Together we will chase the moon (the moon)
+And paint the sky with hues anew
+
+[bridge]
+As we climb higher, voices soar
+The music lifts us off the floor
+Electric currents through us flow
+Our hearts are beating fast, I know
+
+[key-change][chorus]
+Does it move your soul? (Does it move your soul?)
+Are we finally where we're whole? (we're whole)
+Let the harmony ensue (ensue)
+In this anthem made for two
+
+Once generated, the song will feature a powerful, anthemic sound with a key change towards the end for a dramatic finish. Let me know when you're ready to proceed!

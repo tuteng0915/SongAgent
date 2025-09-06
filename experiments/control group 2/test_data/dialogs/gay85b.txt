@@ -1,0 +1,30 @@
+User : 
+Hello, song agent! I have a unique request for you. Instead of finding a song, I would like you to generate one based on the following details:  
+
+I'm looking for a recent song in the alternative/alternative rock style that tells the story of a city doomed to be destroyed in a year. The people in this city are fully aware of their impending fate. One of the key lyrics should convey something along the lines of "the kids don't go to school, there's simply nothing left to learn."  
+
+Could you create a song with these features? Thank you so much for your help!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song based on your request. The song is set in an alternative/alternative rock style, telling the story of a doomed city with its inhabitants fully aware of their impending fate. Here's a preview of the lyrics:
+
+[verse]
+In the shadowed streets where whispers echo,
+the clock ticks down to the final show.
+The skyline's changed, no longer a view,
+in this city of ours, painted in hues of blue.
+
+[chorus]
+The kids don't go to school, there's simply nothing left to learn,
+They spend their days embracing every moment, taking turns.
+Beneath the starlit sky, we dance amidst the gloom,
+with a year to live, our hearts rewrite our doom.
+
+... [more lyrics]
+
+To generate this song, please press the "generate" button. Enjoy the creation!

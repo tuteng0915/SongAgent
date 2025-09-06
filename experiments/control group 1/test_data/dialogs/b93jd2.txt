@@ -1,0 +1,36 @@
+User : 
+I need a rock song with background vocals that include 'Woo Woo,' a title that mentions both Devil and Dance, and an energetic vibe. Can you start working on the lyrics?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a rock song with an energetic vibe, including background vocals with 'Woo Woo' as you requested. The title of the song could be "Dance with the Devil." Here are the lyrics:
+
+[verse]
+In the shadows where the devils dance
+Woo Woo, hear them chant
+Through the night, they take a chance
+Woo Woo, in a trance
+
+[chorus]
+Dance with the devil under the moonlight glow
+Woo Woo, let the rhythm flow
+Dance with the devil, feel the fire burn
+Woo Woo, it's our turn
+
+[bridge]
+The night is young, but the clock's ticking
+Devil's tunes got us all picking
+Up the beat, can't resist tricking
+Woo Woo, keep on sticking
+
+[chorus]
+Dance with the devil under the moonlight glow
+Woo Woo, let the rhythm flow
+Dance with the devil, feel the fire burn
+Woo Woo, it's our turn
+
+Please press the "generate" button to manually generate the song based on these lyrics and tags.

@@ -1,0 +1,56 @@
+User : 
+Hey there! I’m looking to generate a song that matches some specific vibes. It needs to be upbeat with a tropical feel, kind of like those songs that came out around 2014-2016. It should also be a love song, featuring two male African artists—though they don’t have to be American-based. The lyrics can be in English or another language, but the overall tone should evoke that warm, summery energy. Think you can whip something up like that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can help with that. Given your preferences for an upbeat tropical love song with a 2014-2016 vibe featuring two male African artists, I'll go ahead and set the tags and lyrics accordingly.
+
+I'll start by setting the tags.
+
+
+Successfully set the parameter tags
+Great! Now let's move on to crafting the lyrics. I'll create a song structure with verses, choruses, and a bridge that captures the summery and romantic essence you're looking for.
+
+Here’s a draft of the lyrics:
+
+[Verse 1]
+Sunset on the horizon, love in the air
+Two hearts beating as one, no need to care
+Golden sands beneath our feet, stars above
+In this moment, it's just us, pure love
+
+[Chorus]
+Oh, la la, feel the rhythm take control
+With every beat, our story unfolds
+Underneath the moonlit sky, we dance
+In this paradise, love's got us in a trance
+
+[Verse 2]
+Palm trees swaying gently, whispers so sweet
+Ocean waves serenade us, can't be beat
+Hand in hand, we walk this path together
+Through every storm, we'll always weather
+
+[Chorus]
+Oh, la la, feel the rhythm take control
+With every beat, our story unfolds
+Underneath the moonlit sky, we dance
+In this paradise, love's got us in a trance
+
+[Bridge]
+Ndinonaka ndiwe (I see you and me)
+Mwana wa mwanamme (Son of man)
+Together we stand, hand in hand
+Love like the ocean, vast and grand
+
+[Chorus]
+Oh, la la, feel the rhythm take control
+With every beat, our story unfolds
+Underneath the moonlit sky, we dance
+In this paradise, love's got us in a trance
+
+[Outro]
+As the night fades away, morning will come
+But our love remains strong, forever as one
+
+Now, please press the "generate" button to manually generate the song.

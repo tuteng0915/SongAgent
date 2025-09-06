@@ -1,0 +1,30 @@
+User : 
+Hello, Song Agent! I need your help to generate a song that fits the following description: It should be a classic rock song with a calm and melancholic tone, sung by a woman, ideally from the 80's or 90's. The song should start with lyrics similar to "I know, you..." or "anno, you..." and include a line that ends with "... and surrender." This is a very popular song that you might have heard on the radio before. Can you create something that matches this description? Thank you!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song that fits your description. Here are the details:
+
+**Tags:** classic rock, calm, melancholic, female singer, 80's, 90's
+
+**Lyrics:**
+```
+[verse]
+I know, you've been through this before
+But somehow, it feels different now
+
+[chorus]
+And I'll stand by you, as we walk through the storm
+Together we'll find a place where we belong
+Embrace the night, and surrender
+
+[bridge]
+The echoes of our past will fade away
+In the arms of tomorrow, we'll find our way
+```
+
+Please press the "generate" button to manually generate the song. Enjoy!

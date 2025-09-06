@@ -1,0 +1,19 @@
+User : 
+Hello, song generating agent! I'd like you to create a song for me that has the following features:
+
+- The song should have an 80s vibe with a female singer.
+- It should include dramatic "shouting" vocals, similar to Bonnie Tyler's raspy style.
+- The overall sound of the song should resemble the chorus of "Love Is a Battlefield."
+- The lyrics should contain the phrases "playing with fire" in the first verse and "I'm gonna give you my heart" during the chorus.
+
+Please generate this song for me. Thank you!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+The song has been crafted according to your specifications, capturing the essence of the 80s with dramatic and raspy vocals akin to Bonnie Tyler's style. The lyrics have been tailored to include your requested phrases in the first verse and chorus.
+
+To bring this song to life, please press the "generate" button to create the audio version of it. Enjoy the music!

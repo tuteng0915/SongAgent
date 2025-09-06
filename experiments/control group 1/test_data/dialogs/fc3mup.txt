@@ -1,0 +1,16 @@
+User : 
+I need a song that feels like a noir-style music video, with a guy going through some city adventures. Think alternative vibe, early 2000s. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a song with a noir-style and alternative vibe reminiscent of the early 2000s. Let's add some tags to capture that essence.
+
+
+
+Successfully set the parameter tags
+Now let's draft some lyrics that fit the mood and theme you're looking for.
+
+
+
+Successfully set the parameter lyrics
+I've set the tags and lyrics for a song that fits a noir-style music video with an alternative early 2000s vibe. You can now press the "generate" button to create the song.

@@ -1,0 +1,20 @@
+User : 
+I want a song that starts with vocals only or very light music, something like "Naa nananana nanananaa nanana Nana" or "La's," in a soft rock style. It should feel nostalgic and calm. Can you do that?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up a song with a nostalgic and calm soft rock style, featuring a vocal intro with light music. Here are the sections of the lyrics I've created:
+
+- **[intro]**: A simple vocal line to start the song softly.
+- **[verse 1]**: Sets the scene of walking down memory lane.
+- **[chorus]**: Recalls fond memories of dancing under the moonlight.
+- **[verse 2]**: Continues reminiscing about past times by the river.
+- **[chorus]**: Repeats the memorable nights spent together.
+- **[bridge]**: Reflects on how time passes but memories stay.
+- **[outro]**: Closes the song with the same gentle vocal line from the intro.
+
+Please press the "generate" button to manually generate the song based on these settings.

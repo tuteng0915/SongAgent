@@ -1,0 +1,55 @@
+User : 
+Hello, Song Agent! I'd like you to generate a song based on some specific requirements. The song should be in the style of an American pop song from the 90s or early 2000s. It should include a part where the singer overhears people gossiping in another room and angrily sings something about "doesn't anybody close their doors anymore." Can you create such a song for me? I'm excited to hear what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that fits your description. It's styled after an American pop song from the 90s or early 2000s, capturing the feeling of overhearing gossip and responding with emotion. The lyrics include the line you specified about closing doors.
+
+Here are the lyrics:
+
+[verse]
+I heard them talking in the other room
+Their whispers cut like a knife
+Every word was like a poison
+Spreading through my life
+
+[chorus]
+Doesn't anybody close their doors anymore
+Keep your secrets behind closed doors
+I don't wanna hear what they're saying
+About me and you
+
+[verse]
+It's like they feed on dirty laundry
+Hanging out for all to see
+I try to block it out but it's everywhere
+In every corner of this house
+
+[chorus]
+Doesn't anybody close their doors anymore
+Keep your secrets behind closed doors
+I don't wanna hear what they're saying
+About me and you
+
+[bridge]
+I'm tired of living in a fishbowl
+With everyone watching my every move
+Can't we find a place where we can be free
+Where our private lives are ours to keep
+
+[chorus]
+Doesn't anybody close their doors anymore
+Keep your secrets behind closed doors
+I don't wanna hear what they're saying
+About me and you
+
+[chorus]
+Close those doors, keep it inside
+Let's not let the world in on our lives
+Doesn't anybody close their doors anymore
+
+Please press the "generate" button to create the song. I hope you enjoy it!

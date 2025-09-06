@@ -1,0 +1,44 @@
+User : 
+Hello, song generating agent! I would like you to create a song based on the following requirements:
+
+The song should be in the style of electronic music from the 2010s, reminiscent of Empire of the Sun, MGMT, or Passion Pit. It should feature a male singer or singers and include a jazz-like part at the very end as the music fades out.
+
+Could you please generate a song with these features? Thank you!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have generated a song based on your preferences. The tags for the song include "electronic, 2010s, male singer, jazz-like ending, Empire of the Sun, MGMT, Passion Pit". Here are the lyrics:
+
+[verse]
+Dancing in the twilight, neon colors in the air,
+We’re chasing shadows, moving without a care.
+
+[chorus]
+Sunset melodies take us higher,
+Empire lights, they ignite the fire.
+In this moment, we own the night,
+With every beat, our spirits alight.
+
+[verse]
+Golden waves crash under moonlit skies,
+Electric dreams in our eyes.
+
+[chorus]
+Sunset melodies take us higher,
+Empire lights, they ignite the fire.
+In this moment, we own the night,
+With every beat, our spirits alight.
+
+[bridge]
+As the night fades to grey,
+The rhythm takes us away.
+
+[outro]
+Now the tempo slows, with a gentle breeze,
+A saxophone whispers through the trees.
+
+Please press the "generate" button to manually generate the song.

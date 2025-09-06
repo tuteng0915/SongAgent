@@ -1,0 +1,40 @@
+User : 
+Hey there! I want to create an upbeat pop song that really gets people moving. The chorus should include the phrase "all my life," and it needs to have a powerful female voice borderline yelling to make it super catchy and memorable. Let's make this happen!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+Alright, we've set up an upbeat pop song with powerful female vocals that's catchy and memorable. The lyrics include your desired phrase "all my life" in the chorus. 
+
+Here’s a preview of the lyrics:
+
+```
+[verse]
+Every step I take is like a beat in my heart
+Every move I make, I'm breaking free, I'm apart
+
+[chorus]
+All my life, I've been waiting for this moment to arrive
+All my life, chasing dreams that seem so far but now they're here
+
+[verse]
+With every breath, I feel the music taking control
+And with every sound, there's nothing left to hold
+
+[chorus]
+All my life, I've been waiting for this moment to arrive
+All my life, chasing dreams that seem so far but now they're here
+
+[bridge]
+I can hear the crowd, their cheers lift me higher
+In this moment, I am unstoppable, my spirit on fire
+
+[chorus]
+All my life, I've been waiting for this moment to arrive
+All my life, chasing dreams that seem so far but now they're here
+```
+
+Press the "generate" button to manually generate the song.

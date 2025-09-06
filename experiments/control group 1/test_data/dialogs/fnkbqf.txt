@@ -1,0 +1,12 @@
+User : 
+Sure, that sounds like a fascinating song concept. Let's start by defining the overall mood and structure of the song. Could you describe the feelings or images you want the music to evoke?
+Agent : 
+To better understand your vision, could you please specify the genre, tempo, and any particular themes or emotions you'd like to convey through the song? This will help in crafting tags that align with your creative direction. Let's also consider if there are any specific lyrics or phrases you want included in the song.
+
+I'll use this information to set the initial parameters for our song using the `param_setter` tool. Please provide your preferences so we can proceed.
+
+
+the user has not given their preferences yet.
+It seems I need more specific input from you regarding the song's style, mood, and any preferred lyrics. Could you please share your thoughts on these aspects? For instance, do you prefer a fast-paced energetic track or something slower and more reflective? Any favorite genres or specific words/phrases you'd like included?
+
+Once I have this information, I'll be able to set the appropriate tags and begin drafting the lyrics for our song.

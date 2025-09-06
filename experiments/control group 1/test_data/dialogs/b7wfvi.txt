@@ -1,0 +1,8 @@
+User : 
+Sure, I can help with that. Let's start by specifying the genre and mood of the song. What kind of genre are we looking at? Something like rock, pop, or maybe something else? And how about the mood—should it be more introspective, energetic, or something different?
+Agent : 
+To better understand your preferences, I will first use the preference tool.
+
+
+the user has not given their preferences yet.
+It seems like we haven't set any preferences yet. To make a song that fits your taste, could you please share what genre and mood you're in the mood for? For instance, do you prefer rock, pop, or another genre? And would you like the song to be introspective, energetic, or have a different vibe?

@@ -1,0 +1,52 @@
+User : 
+Hello, song generating agent! I'd like you to create a song that's either rock, blues rock, or Motown style. Can we start with that?
+Agent : 
+
+the user has not given their preferences yet.
+Sure, I can create a song in either rock, blues rock, or Motown style for you. To make it more personalized, could you please tell me your specific preferences within these genres? If not, I'll just pick something fitting within these styles.
+
+Once I have that information, I will generate the tags and lyrics for your song.
+
+
+Successfully set the parameter tags
+I have set the tags for your song to be in the rock, blues rock, and Motown styles. Now I will generate the lyrics for your song. 
+
+Here is a draft of the lyrics:
+
+[verse]
+I've been walking down this lonely road
+Feeling the weight of the world unfold
+Searching for a light in the dark
+Trying to leave my mark
+
+[chorus]
+Oh, let the rhythm take control
+Feel the beat, let it feed your soul
+Dancing through the night, we'll never grow old
+In this world of rock and roll
+
+[verse]
+Every heartbeat tells a story deep
+Notes of passion that we long to keep
+Through the highs and lows, we lose and find
+Melodies that bind us, intertwined
+
+[chorus]
+Oh, let the rhythm take control
+Feel the beat, let it feed your soul
+Dancing through the night, we'll never grow old
+In this world of rock and roll
+
+[bridge]
+From Detroit's streets to the delta's moan
+The pulse of life in every tone
+We sing our truth, let the music console
+In this eternal dance of rock and roll
+
+[chorus]
+Oh, let the rhythm take control
+Feel the beat, let it feed your soul
+Dancing through the night, we'll never grow old
+In this world of rock and roll
+
+Please press the "generate" button to manually generate the song with these settings.

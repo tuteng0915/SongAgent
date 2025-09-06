@@ -1,0 +1,56 @@
+User : 
+Sure thing! I'll start by asking the agent to focus on some key elements for the song. Let's dive in!
+
+---
+
+I’d like a heartfelt, bittersweet country-style song about unspoken love and missed chances. Can you work with that?
+Agent : 
+
+the user has not given their preferences yet.
+
+Successfully set the parameter tags
+
+Successfully set the parameter lyrics
+I've set up a heartfelt, bittersweet country-style song for you, complete with acoustic guitar and soft vocals to emphasize the emotional and reflective tone. Here are the lyrics:
+
+[verse]
+We walked the old fence line
+Where shadows used to fall
+Your laughter still lingers
+But it's a ghost of it all
+
+[chorus]
+Unspoken words, they linger like the rain
+Falling on fields where our hearts remain
+I see your face in every setting sun
+A love unspoken, now the day is done
+
+[verse]
+These dusty roads remember
+The steps we didn't take
+Each one a silent promise
+A moment we couldn't make
+
+[chorus]
+Unspoken words, they linger like the rain
+Falling on fields where our hearts remain
+I see your face in every setting sun
+A love unspoken, now the day is done
+
+[bridge]
+Time moves slow but it won't rewind
+All those chances we left behind
+If I could turn back the hands of time
+Would you still be mine?
+
+[chorus]
+Unspoken words, they linger like the rain
+Falling on fields where our hearts remain
+I see your face in every setting sun
+A love unspoken, now the day is done
+
+[outro]
+The echoes fade, but memories stay
+In this bittersweet country ballet
+
+Press the "generate" button when you're ready to create the song!

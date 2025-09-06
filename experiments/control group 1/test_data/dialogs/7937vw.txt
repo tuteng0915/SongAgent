@@ -1,0 +1,47 @@
+User : 
+Sure, I can help with that. Let's start by specifying the genre of the song. What kind of genre are we looking at? Something like alternative rock, pop, or maybe even a ballad?
+Agent : 
+To better assist you, could you please specify your preferences? I'll use the preference tool to gather more information about what you're looking for.
+
+
+the user has not given their preferences yet.
+Since I don't have your specific preferences yet, let's go with a general approach. How about we create an alternative rock song? This genre often has a good balance of energy and depth. If you agree, I will proceed to set the tags and lyrics for this type of song.
+
+If you have any other preferences or specific details you'd like to include, please let me know!
+
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the tags and lyrics for an alternative rock song. Here's a preview:
+
+**Tags:** alternative rock, energetic, melodic
+
+**Lyrics:**
+```
+[verse]
+In the shadows of the night
+We find our way through the fight
+
+[chorus]
+Rise above, touch the sky
+Feel the rush, hear the cry
+
+[verse]
+Every step, every fall
+We'll break free, stand tall
+
+[chorus]
+Rise above, touch the sky
+Feel the rush, hear the cry
+
+[bridge]
+Together we stand, hearts in hand
+Facing the world, we make our stand
+
+[chorus]
+Rise above, touch the sky
+Feel the rush, hear the cry
+```
+
+Please press the "generate" button to create the song. If you have any specific changes or additional requests, let me know!

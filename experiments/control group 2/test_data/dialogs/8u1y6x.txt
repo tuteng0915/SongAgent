@@ -1,0 +1,48 @@
+User : 
+Hey there! I’d like to request a song that fits the following criteria:
+
+- Sung by a male vocalist
+- Fairly upbeat tempo
+- Includes a lyric similar to “waving through the window,” “listen through the window,” or “any way the wind blows”
+
+Could you generate something along those lines? Thanks so much for your help!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I have set up a song that fits your criteria. Here are the sections of the lyrics:
+
+[verse]
+Waving through the window,
+In a world that doesn't know,
+I'm reaching out to find you,
+Any way the wind blows.
+
+[chorus]
+Oh, I hear you whispering,
+Words I long to understand,
+Listen through the silence,
+With the touch of your hand.
+
+[verse]
+Every sound is a message,
+Every breeze has something to say,
+I'm here waiting patiently,
+For you to come my way.
+
+[chorus]
+Oh, I hear you whispering,
+Words I long to understand,
+Listen through the silence,
+With the touch of your hand.
+
+[bridge]
+The window's just a pane of glass,
+But it's where I see my dreams,
+And if you wave back someday,
+We'll shatter every seam.
+
+Please press the "generate" button to manually generate the song.

@@ -1,0 +1,40 @@
+User : 
+Hey, song agent! I need you to generate a melancholy song that fits this vibe: it's like something out of those nineties movies where a character realizes they've made a terrible mistake. The singer should draw out the word "change" in a way that almost sounds like "chains," emphasizing the H sound when singing "Cha Ha Change." It’s moody, reflective, and full of regret. Can you create something with that atmosphere?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set the stage for your melancholy song, capturing that 90s movie vibe full of regret and reflection. The lyrics emphasize the drawn-out "Cha Ha Change" to mimic the sound of "chains," symbolizing the weight of past mistakes.
+
+Here's a snippet of the song we've created:
+
+```
+[verse]
+I walked a lonely road
+Regretting every step I've known
+The echoes of the past remain
+In shadows, they eternally stay
+
+[chorus]
+Oh Cha Ha Change
+It's just a cruel refrain
+Bound by these chains
+Of choices left in the rain
+
+[verse]
+The weight upon my chest
+A heavy stone, I can't contest
+Memories linger like a stain
+In the theater of my pain
+
+[chorus]
+Oh Cha Ha Change
+A haunting serenade
+Bound by these chains
+Where silence and sorrow are lain
+```
+
+Press the "generate" button to bring this moody piece to life!

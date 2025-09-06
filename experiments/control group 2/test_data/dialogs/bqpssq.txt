@@ -1,0 +1,53 @@
+User : 
+Hey, song agent! I need your help to generate a song that matches these details. The song should have an indie rock vibe and feel like it was released in the last five years. The lyrics should convey a heartfelt message where the singer reassures their mom and sister not to be sad because they'll be with their father. Can you create something based on this?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've composed a song with an indie rock vibe that conveys a heartfelt message of reassurance to the singer's mom and sister about being with their father. Here's the structure:
+
+Tags: indie rock, heartfelt, reassuring, family, modern
+
+Lyrics:
+```
+[verse]
+Mom and sis, don't you cry
+I'll be with dad in the sky
+We'll watch over you each day
+In every step, in every way
+
+[chorus]
+I'm not gone, just moved on
+To a place where we belong
+With love that never fades
+In your heart, I am stayed
+
+[verse]
+Though it seems life's come to an end
+Remember, love will never bend
+Keep me close, within your soul
+And you'll find me in every goal
+
+[chorus]
+I'm not gone, just moved on
+To a place where we belong
+With love that never fades
+In your heart, I am stayed
+
+[bridge]
+Time may pass, but know this truth
+Our bond is ageless, eternal proof
+Feel my love, like a gentle breeze
+Carrying whispers through the trees
+
+[chorus]
+I'm not gone, just moved on
+To a place where we belong
+With love that never fades
+In your heart, I am stayed
+```
+
+Press the "generate" button now to create the audio for this composition.

@@ -1,0 +1,10 @@
+User : 
+Sure thing! Let's start by confirming a few details. Would you like the singer to be male, or should I leave that open to interpretation?
+Agent : 
+To better understand your preferences, I'll go ahead and fetch the current settings.
+
+
+the user has not given their preferences yet.
+Since we don't have your preferences on file, I'll leave the singer's gender open to interpretation for now. If you'd like to specify or adjust any details later, feel free to let me know!
+
+Now, let's proceed with generating a song. Could you please provide me with some guidance? What kind of song are you in the mood for today? For example, would you like something upbeat and energetic, or perhaps something more mellow and reflective? Any themes or specific lyrics you'd like included?

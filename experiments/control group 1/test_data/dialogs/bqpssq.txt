@@ -1,0 +1,26 @@
+User : 
+Sure, I can help with that. Let's start by specifying the genre and era of the song. How about we go with an indie rock style with a modern touch? Does that sound good to you?
+Agent : 
+
+the user has not given their preferences yet.
+That sounds great! To make sure we're on the same page, let's set the tags for our indie rock song with a modern touch. I'll go ahead and set those parameters now.
+
+
+Successfully set the parameter tags
+The tags have been successfully set to "indie rock, modern, energetic, melodic". Now, let's work on the lyrics. I'll draft some original verses, a chorus, and a bridge section for our song. Here’s what I came up with:
+
+[Verse]
+Walking through the city lights, chasing dreams in the night
+Every corner holds a story, every face a fight
+
+[Chorus]
+We're dancing to the rhythm of the unknown beat
+In this indie world, where hearts compete
+With every note we sing, we rise above the street
+Living for the moment, that's where we meet
+
+[Bridge]
+Underneath the starlit sky, we find our way
+Through the echoes of the past, into today
+
+Please press the "generate" button to manually generate the song.

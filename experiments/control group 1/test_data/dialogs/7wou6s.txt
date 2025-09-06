@@ -1,0 +1,12 @@
+User : 
+I want a song with an 80s vibe, featuring a deep, smokey male voice singing about how you can never go wrong with a certain drink. The chorus should sound like, "You can never go wrong, with a dirty old martini." Let's make it fun and retro.
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up your song with an 80s vibe, featuring deep and smokey male vocals. The lyrics capture the fun and retro feel of enjoying a classic martini. 
+
+Remember to press the "generate" button to manually generate the song!

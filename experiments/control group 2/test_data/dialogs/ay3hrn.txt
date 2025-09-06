@@ -1,0 +1,56 @@
+User : 
+Hello, song generating agent!
+
+I'm looking to create a song that captures a mysterious vibe with a female vocalist who has a raspy and airy voice. The song should feel like it could have been a big hit in the late 90's or early 2000's.
+
+For the chorus, I'd love it to have a catchy, repetitive line that goes something like:
+"Cooling/cruising/ dance, cooling da-a-a-ance"
+
+And somewhere in the bridge, can we include a part where the singer emphasizes a repeated phrase, such as:
+"I said it, i said it agaaaaaiiin"
+
+Could you generate some lyrics and tags for this kind of song? Thank you!
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated some lyrics and tags for your song that should capture the mysterious vibe with a raspy and airy female vocalist, reminiscent of a late 90s or early 2000s hit. Here's a summary:
+
+**Tags:** mysterious, female vocalist, raspy, airy, late 90s, early 2000s, catchy, repetitive, dance
+
+**Lyrics:**
+
+```
+[verse]
+Shadows fall where whispers play,
+In the moonlight's gentle sway.
+With every step, a secret unfolds,
+A tale of mystery that never grows old.
+
+[chorus]
+Cooling, cruising, dance, cooling da-a-a-ance,
+Underneath the stars, we take this chance.
+Cooling, cruising, feel the night enhance,
+Our spirits lifting in a cooling da-a-a-ance.
+
+[verse]
+Velvet skies embrace the night,
+Hidden truths come into sight.
+With every beat, our hearts align,
+In this moment, everything is fine.
+
+[bridge]
+Echoes linger, shadows spin,
+I said it, I said it agaaaaaiiin.
+Lost within the haze of sound,
+In this dance, no bounds are found.
+
+[chorus]
+Cooling, cruising, dance, cooling da-a-a-ance,
+Underneath the stars, we take this chance.
+Cooling, cruising, feel the night enhance,
+Our spirits lifting in a cooling da-a-a-ance.
+```
+
+Please press the "generate" button to manually generate the song based on these lyrics and tags. Enjoy the process of bringing this mysterious and catchy tune to life!

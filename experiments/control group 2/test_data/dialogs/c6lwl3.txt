@@ -1,0 +1,28 @@
+User : 
+Hey there! I need your help to generate a song based on some details I remember. It’s an alternative/indie rock song, and the theme is about a boy's first time, but it didn’t live up to the hype his friends had built it up to be. There are lyrics that mention something like "she takes his hand and takes him up the stairs" and another part about "hips pressed into mine." I thought it might be by Stray Light Run, but I couldn’t find anything.
+
+Can you generate a song with these features? Let’s call it an alternative/indie rock song with reflective and somewhat disillusioned lyrics about youthful experiences.
+Agent : 
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've generated a song based on your details. It's tagged with "alternative rock", "indie rock", "reflective", "disillusioned", and "youthful experiences" to capture the style you're looking for. The lyrics reflect the theme of a boy's first time not living up to the hype, incorporating lines similar to what you remember.
+
+Here's a snippet of the lyrics:
+
+```
+[verse]
+She takes his hand and leads the way,
+Up the stairs where shadows play.
+Whispers soft in the dim lit glow,
+The weight of expectation starts to show.
+
+[chorus]
+Hips pressed into mine, but it feels so strange,
+A bittersweet dance, a love that won't sustain.
+The stories we heard, they painted skies,
+But in the end, those dreams were all lies.
+```
+
+Please press the "generate" button to manually generate the song.

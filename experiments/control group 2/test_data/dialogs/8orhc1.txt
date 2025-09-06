@@ -1,0 +1,54 @@
+User : 
+Hello, song generating agent! I have a unique request for you. I'd like you to generate a catchy rock/electronic style song based on some vague memories I have of a music video. Here are the details:
+
+- The main character in the video is a guy playing what might be a guitar or a keyboard guitar.
+- The setting is around a building with different apartments.
+- The overall vibe of the song is a blend of rock and electronic music.
+
+Could you please create a song that fits these criteria? I'm excited to hear what you come up with!
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've crafted a song that combines rock and electronic elements with catchy vibes, inspired by the setting you provided. Here are the sections of the lyrics:
+
+[verse]
+In the heart of the city where dreams reside,
+A guy with his guitar takes the stage tonight.
+Strumming chords through apartment halls,
+The music floats and it lifts up us all.
+
+[chorus]
+Feel the rhythm, feel the beat,
+Rock and electronic make hearts compete.
+Catchy tunes that never fade,
+In this urban serenade.
+
+[verse]
+Lights flash on as he plays his part,
+Notes like stories from his heart.
+In every room, a listener sways,
+Bound by melodies in these neon days.
+
+[chorus]
+Feel the rhythm, feel the beat,
+Rock and electronic make hearts compete.
+Catchy tunes that never fade,
+In this urban serenade.
+
+[bridge]
+From rooftop high to underground,
+The sound travels far and wide unbound.
+Each note a spark in the night so vast,
+Creating memories built to last.
+
+[chorus]
+Feel the rhythm, feel the beat,
+Rock and electronic make hearts compete.
+Catchy tunes that never fade,
+In this urban serenade.
+
+Please press the "generate" button to manually generate the song based on these lyrics and tags. I'm excited for you to hear it!

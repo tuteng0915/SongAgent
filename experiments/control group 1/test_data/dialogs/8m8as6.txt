@@ -1,0 +1,9 @@
+User : 
+Sure thing! Let's start by specifying the mood and theme of the lyrics. Do you have any particular story or emotion in mind for this song?
+Agent : 
+Sure, let's start by specifying the mood and theme. To better understand your preferences, I will first get some information about your music tastes.
+
+
+
+the user has not given their preferences yet.
+It seems like we haven't gotten your preferences yet. To create a song that you'll enjoy, could you share some details about the kind of music you like? For example, do you prefer upbeat and energetic tunes or something more mellow and introspective? Any favorite genres or artists? This will help guide the creation process.

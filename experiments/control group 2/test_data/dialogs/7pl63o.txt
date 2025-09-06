@@ -1,0 +1,46 @@
+User : 
+Hey there! I need your help to generate a song that fits specific criteria. Here's what I'm looking for:
+
+- The title should not include any mention of strange lights.
+- It needs to be fast-paced for most of its duration.
+- Ideally, it would be the kind of song that could be made by a popular band.
+
+Can you create something based on these guidelines?
+Agent : 
+
+the user has not given their preferences yet.
+
+
+Successfully set the parameter tags
+Successfully set the parameter lyrics
+I've set up the song based on your criteria. The tags reflect a fast-paced, energetic, and catchy tune that could be played by a popular band suitable for radio. The lyrics capture the essence of an exciting journey through the night, igniting the world with vibrant energy.
+
+Here's a snippet of the lyrics:
+
+```
+[verse]
+Racing through the night, heart is pounding loud
+City lights are blurring, we're breaking through the crowd
+
+[chorus]
+We're alive, feel the rush, can't you hear our sound
+Together we'll ignite the world, it's our time to astound
+
+[verse]
+Underneath the moonlight, shadows start to fade
+With every step we're taking, we're not afraid
+
+[chorus]
+We're alive, feel the rush, can't you hear our sound
+Together we'll ignite the world, it's our time to astound
+
+[bridge]
+The rhythm takes control, let it lift you off the ground
+Feel the bassline echoing, as we chase the night around
+
+[chorus]
+We're alive, feel the rush, can't you hear our sound
+Together we'll ignite the world, it's our time to astound
+```
+
+Remember to press the "generate" button to manually generate the song.

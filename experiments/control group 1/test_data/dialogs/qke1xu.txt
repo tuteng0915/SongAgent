@@ -1,0 +1,12 @@
+User : 
+
+the value of the parameter lyrics is: 
+
+ empty
+Sure thing! Let's dive into it. I'll start by asking—what sort of imagery or themes would you like in the lyrics? Maybe something about nature, heartbreak, or longing?
+Agent : 
+To better understand your preferences, I'll first get some information about your musical tastes.
+
+
+the user has not given their preferences yet.
+Since I don't have your preferences yet, let's go ahead and set a general direction for the song. Could you provide me with some themes or imagery you'd like to see in the lyrics? For example, we could explore topics like nature, love, heartbreak, or even something more abstract like colors or dreams. This will help me craft something truly special for you. If you're not sure, I can suggest something based on common themes. What do you think?
